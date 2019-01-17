@@ -8144,4 +8144,1512 @@
     <title lang="es">RB Brasil x Palmeiras</title>
     <category lang="es">Campeonato Paulista de Futebol</category>
   </programme>
+  <programme start="20190117053000 +0000" stop="20190117063000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Rio Preto x Cruzeiro</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117063000 +0000" stop="20190117073000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Mirassol x São Paulo</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117073000 +0000" stop="20190117083000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Palmeiras x Figueirense</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117083000 +0000" stop="20190117093000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Corinthians x Santos</title>
+    <category lang="es">Amistoso de Futebol</category>
+  </programme>
+  <programme start="20190117093000 +0000" stop="20190117104500 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Corinthians x Visão Celeste-RN</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117104500 +0000" stop="20190117114500 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">SporTV News</title>
+  </programme>
+  <programme start="20190117114500 +0000" stop="20190117140000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Redação SporTV</title>
+  </programme>
+  <programme start="20190117140000 +0000" stop="20190117180000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">É Gol</title>
+  </programme>
+  <programme start="20190117180000 +0000" stop="20190117182000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Globo Esporte</title>
+  </programme>
+  <programme start="20190117182000 +0000" stop="20190117190000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Central do Mercado</title>
+  </programme>
+  <programme start="20190117190000 +0000" stop="20190117203000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Tá na Área</title>
+  </programme>
+  <programme start="20190117203000 +0000" stop="20190117211500 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190117211500 +0000" stop="20190117231500 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117231500 +0000" stop="20190117233000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190117233000 +0000" stop="20190118013000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118013000 +0000" stop="20190118023000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Troca de Passes</title>
+  </programme>
+  <programme start="20190118023000 +0000" stop="20190118033000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Giro da Rodada</title>
+  </programme>
+  <programme start="20190118033000 +0000" stop="20190118040000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Baú do Esporte</title>
+  </programme>
+  <programme start="20190118040000 +0000" stop="20190118060000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118060000 +0000" stop="20190118070000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Grêmio x Audax-SP</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118070000 +0000" stop="20190118073000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Baú do Esporte</title>
+  </programme>
+  <programme start="20190118073000 +0000" stop="20190118083000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Giro da Rodada</title>
+  </programme>
+  <programme start="20190118083000 +0000" stop="20190118093000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Atlético-MG x Volta Redonda</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118093000 +0000" stop="20190118104500 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Cruzeiro x São Paulo</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118104500 +0000" stop="20190118114500 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">SporTV News</title>
+  </programme>
+  <programme start="20190118114500 +0000" stop="20190118140000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Redação SporTV</title>
+  </programme>
+  <programme start="20190118140000 +0000" stop="20190118144500 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">É Gol</title>
+  </programme>
+  <programme start="20190118144500 +0000" stop="20190118180000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Seleção Sportv</title>
+  </programme>
+  <programme start="20190118180000 +0000" stop="20190118182000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Globo Esporte</title>
+  </programme>
+  <programme start="20190118182000 +0000" stop="20190118190000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Central do Mercado</title>
+  </programme>
+  <programme start="20190118190000 +0000" stop="20190118203000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Tá na Área</title>
+  </programme>
+  <programme start="20190118203000 +0000" stop="20190118211500 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190118211500 +0000" stop="20190118231500 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118231500 +0000" stop="20190118233000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190118233000 +0000" stop="20190119013000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119013000 +0000" stop="20190119023000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Troca de Passes</title>
+  </programme>
+  <programme start="20190119023000 +0000" stop="20190119030000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Baú do Esporte</title>
+  </programme>
+  <programme start="20190119030000 +0000" stop="20190119033000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Boteco do Escobar</title>
+  </programme>
+  <programme start="20190119033000 +0000" stop="20190119043000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Flamengo x Eintracht Frankfurt</title>
+    <category lang="es">Florida Cup 2019</category>
+  </programme>
+  <programme start="20190119043000 +0000" stop="20190119060000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">São Paulo x Ajax</title>
+    <category lang="es">Florida Cup 2019</category>
+  </programme>
+  <programme start="20190119060000 +0000" stop="20190119070000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119070000 +0000" stop="20190119080000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119080000 +0000" stop="20190119090000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119090000 +0000" stop="20190119100000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">São Paulo x Ajax</title>
+    <category lang="es">Florida Cup 2019</category>
+  </programme>
+  <programme start="20190119100000 +0000" stop="20190119110000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Flamengo x Eintracht Frankfurt</title>
+    <category lang="es">Florida Cup 2019</category>
+  </programme>
+  <programme start="20190119110000 +0000" stop="20190119120000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Corinthians x Santos</title>
+    <category lang="es">Amistoso de Futebol</category>
+  </programme>
+  <programme start="20190119120000 +0000" stop="20190119130000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Giro da Rodada</title>
+  </programme>
+  <programme start="20190119130000 +0000" stop="20190119140000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Campeonato Gaúcho</title>
+  </programme>
+  <programme start="20190119140000 +0000" stop="20190119150000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Campeonato Carioca</title>
+  </programme>
+  <programme start="20190119150000 +0000" stop="20190119160000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Campeonato Mineiro</title>
+  </programme>
+  <programme start="20190119160000 +0000" stop="20190119170000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Campeonato Paulista</title>
+  </programme>
+  <programme start="20190119170000 +0000" stop="20190119180000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Tá na Área</title>
+  </programme>
+  <programme start="20190119180000 +0000" stop="20190119183000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190119183000 +0000" stop="20190119203000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Guarani x Cruzeiro</title>
+    <category lang="es">Campeonato Mineiro de Futebol</category>
+  </programme>
+  <programme start="20190119203000 +0000" stop="20190119213000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190119213000 +0000" stop="20190119233000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">São Paulo x Mirassol</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190119233000 +0000" stop="20190120010000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Troca de Passes</title>
+  </programme>
+  <programme start="20190120010000 +0000" stop="20190120020000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Colômbia x Brasil</title>
+    <category lang="es">Campeonato Sul-Americano de Futebol Sub-20 2019</category>
+  </programme>
+  <programme start="20190120020000 +0000" stop="20190120030000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Madureira x Vasco</title>
+    <category lang="es">Campeonato Carioca de Futebol</category>
+  </programme>
+  <programme start="20190120030000 +0000" stop="20190120040000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Fluminense x Volta Redonda</title>
+    <category lang="es">Campeonato Carioca de Futebol</category>
+  </programme>
+  <programme start="20190120040000 +0000" stop="20190120050000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Guarani x Cruzeiro</title>
+    <category lang="es">Campeonato Mineiro de Futebol</category>
+  </programme>
+  <programme start="20190120050000 +0000" stop="20190120053000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Baú do Esporte</title>
+  </programme>
+  <programme start="20190120053000 +0000" stop="20190120053000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Colômbia x Brasil</title>
+    <category lang="es">Campeonato Sul-Americano de Futebol Sub-20 2019</category>
+  </programme>
+  <programme start="20190120053000 +0000" stop="20190120063000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Colômbia x Brasil</title>
+    <category lang="es">Campeonato Sul-Americano de Futebol Sub-20 2019</category>
+  </programme>
+  <programme start="20190120063000 +0000" stop="20190120073000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">São Paulo x Mirassol</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120073000 +0000" stop="20190120083000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Madureira x Vasco</title>
+    <category lang="es">Campeonato Carioca de Futebol</category>
+  </programme>
+  <programme start="20190120083000 +0000" stop="20190120093000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Guarani x Cruzeiro</title>
+    <category lang="es">Campeonato Mineiro de Futebol</category>
+  </programme>
+  <programme start="20190120093000 +0000" stop="20190120103000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Colômbia x Brasil</title>
+    <category lang="es">Campeonato Sul-Americano de Futebol Sub-20 2019</category>
+  </programme>
+  <programme start="20190120103000 +0000" stop="20190120113000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Santos x Ferroviária</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120113000 +0000" stop="20190120124500 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">São Paulo x Mirassol</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120124500 +0000" stop="20190120130000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190120130000 +0000" stop="20190120150000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Botafogo-SP x São Bento</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120150000 +0000" stop="20190120160000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Disputa de 3º Lugar</title>
+    <category lang="es">Campeonato Paulista de Futebol de Areia</category>
+  </programme>
+  <programme start="20190120160000 +0000" stop="20190120170000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Final</title>
+    <category lang="es">Campeonato Paulista de Futebol de Areia</category>
+  </programme>
+  <programme start="20190120170000 +0000" stop="20190120180000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Tá na Área</title>
+  </programme>
+  <programme start="20190120180000 +0000" stop="20190120190000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190120190000 +0000" stop="20190120194500 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">São Paulo x Mirassol</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120194500 +0000" stop="20190120210000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190120210000 +0000" stop="20190120230000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">São Luiz x Internacional</title>
+    <category lang="es">Campeonato Gaúcho de Futebol</category>
+  </programme>
+  <programme start="20190120230000 +0000" stop="20190121010000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Troca de Passes</title>
+  </programme>
+  <programme start="20190121010000 +0000" stop="20190121020000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Giro da Rodada</title>
+  </programme>
+  <programme start="20190121020000 +0000" stop="20190121030000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Flamengo x Bangu</title>
+    <category lang="es">Campeonato Carioca de Futebol</category>
+  </programme>
+  <programme start="20190121030000 +0000" stop="20190121040000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">Corinthians x São Caetano</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190121040000 +0000" stop="20190121050000 +0000" channel="SporTV HD Alternativo">
+    <title lang="es">RB Brasil x Palmeiras</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190117053000 +0000" stop="20190117063000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Rio Preto x Cruzeiro</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117063000 +0000" stop="20190117073000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Mirassol x São Paulo</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117073000 +0000" stop="20190117083000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Palmeiras x Figueirense</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117083000 +0000" stop="20190117093000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Corinthians x Santos</title>
+    <category lang="es">Amistoso de Futebol</category>
+  </programme>
+  <programme start="20190117093000 +0000" stop="20190117104500 +0000" channel="SporTV Alternativo">
+    <title lang="es">Corinthians x Visão Celeste-RN</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117104500 +0000" stop="20190117114500 +0000" channel="SporTV Alternativo">
+    <title lang="es">SporTV News</title>
+  </programme>
+  <programme start="20190117114500 +0000" stop="20190117140000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Redação SporTV</title>
+  </programme>
+  <programme start="20190117140000 +0000" stop="20190117180000 +0000" channel="SporTV Alternativo">
+    <title lang="es">É Gol</title>
+  </programme>
+  <programme start="20190117180000 +0000" stop="20190117182000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Globo Esporte</title>
+  </programme>
+  <programme start="20190117182000 +0000" stop="20190117190000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Central do Mercado</title>
+  </programme>
+  <programme start="20190117190000 +0000" stop="20190117203000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Tá na Área</title>
+  </programme>
+  <programme start="20190117203000 +0000" stop="20190117211500 +0000" channel="SporTV Alternativo">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190117211500 +0000" stop="20190117231500 +0000" channel="SporTV Alternativo">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117231500 +0000" stop="20190117233000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190117233000 +0000" stop="20190118013000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118013000 +0000" stop="20190118023000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Troca de Passes</title>
+  </programme>
+  <programme start="20190118023000 +0000" stop="20190118033000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Giro da Rodada</title>
+  </programme>
+  <programme start="20190118033000 +0000" stop="20190118040000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Baú do Esporte</title>
+  </programme>
+  <programme start="20190118040000 +0000" stop="20190118060000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118060000 +0000" stop="20190118070000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Grêmio x Audax-SP</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118070000 +0000" stop="20190118073000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Baú do Esporte</title>
+  </programme>
+  <programme start="20190118073000 +0000" stop="20190118083000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Giro da Rodada</title>
+  </programme>
+  <programme start="20190118083000 +0000" stop="20190118093000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Atlético-MG x Volta Redonda</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118093000 +0000" stop="20190118104500 +0000" channel="SporTV Alternativo">
+    <title lang="es">Cruzeiro x São Paulo</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118104500 +0000" stop="20190118114500 +0000" channel="SporTV Alternativo">
+    <title lang="es">SporTV News</title>
+  </programme>
+  <programme start="20190118114500 +0000" stop="20190118140000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Redação SporTV</title>
+  </programme>
+  <programme start="20190118140000 +0000" stop="20190118144500 +0000" channel="SporTV Alternativo">
+    <title lang="es">É Gol</title>
+  </programme>
+  <programme start="20190118144500 +0000" stop="20190118180000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Seleção Sportv</title>
+  </programme>
+  <programme start="20190118180000 +0000" stop="20190118182000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Globo Esporte</title>
+  </programme>
+  <programme start="20190118182000 +0000" stop="20190118190000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Central do Mercado</title>
+  </programme>
+  <programme start="20190118190000 +0000" stop="20190118203000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Tá na Área</title>
+  </programme>
+  <programme start="20190118203000 +0000" stop="20190118211500 +0000" channel="SporTV Alternativo">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190118211500 +0000" stop="20190118231500 +0000" channel="SporTV Alternativo">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118231500 +0000" stop="20190118233000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190118233000 +0000" stop="20190119013000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119013000 +0000" stop="20190119023000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Troca de Passes</title>
+  </programme>
+  <programme start="20190119023000 +0000" stop="20190119030000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Baú do Esporte</title>
+  </programme>
+  <programme start="20190119030000 +0000" stop="20190119033000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Boteco do Escobar</title>
+  </programme>
+  <programme start="20190119033000 +0000" stop="20190119043000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Flamengo x Eintracht Frankfurt</title>
+    <category lang="es">Florida Cup 2019</category>
+  </programme>
+  <programme start="20190119043000 +0000" stop="20190119060000 +0000" channel="SporTV Alternativo">
+    <title lang="es">São Paulo x Ajax</title>
+    <category lang="es">Florida Cup 2019</category>
+  </programme>
+  <programme start="20190119060000 +0000" stop="20190119070000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119070000 +0000" stop="20190119080000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119080000 +0000" stop="20190119090000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119090000 +0000" stop="20190119100000 +0000" channel="SporTV Alternativo">
+    <title lang="es">São Paulo x Ajax</title>
+    <category lang="es">Florida Cup 2019</category>
+  </programme>
+  <programme start="20190119100000 +0000" stop="20190119110000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Flamengo x Eintracht Frankfurt</title>
+    <category lang="es">Florida Cup 2019</category>
+  </programme>
+  <programme start="20190119110000 +0000" stop="20190119120000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Corinthians x Santos</title>
+    <category lang="es">Amistoso de Futebol</category>
+  </programme>
+  <programme start="20190119120000 +0000" stop="20190119130000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Giro da Rodada</title>
+  </programme>
+  <programme start="20190119130000 +0000" stop="20190119140000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Campeonato Gaúcho</title>
+  </programme>
+  <programme start="20190119140000 +0000" stop="20190119150000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Campeonato Carioca</title>
+  </programme>
+  <programme start="20190119150000 +0000" stop="20190119160000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Campeonato Mineiro</title>
+  </programme>
+  <programme start="20190119160000 +0000" stop="20190119170000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Campeonato Paulista</title>
+  </programme>
+  <programme start="20190119170000 +0000" stop="20190119180000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Tá na Área</title>
+  </programme>
+  <programme start="20190119180000 +0000" stop="20190119183000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190119183000 +0000" stop="20190119203000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Guarani x Cruzeiro</title>
+    <category lang="es">Campeonato Mineiro de Futebol</category>
+  </programme>
+  <programme start="20190119203000 +0000" stop="20190119213000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190119213000 +0000" stop="20190119233000 +0000" channel="SporTV Alternativo">
+    <title lang="es">São Paulo x Mirassol</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190119233000 +0000" stop="20190120010000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Troca de Passes</title>
+  </programme>
+  <programme start="20190120010000 +0000" stop="20190120020000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Colômbia x Brasil</title>
+    <category lang="es">Campeonato Sul-Americano de Futebol Sub-20 2019</category>
+  </programme>
+  <programme start="20190120020000 +0000" stop="20190120030000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Madureira x Vasco</title>
+    <category lang="es">Campeonato Carioca de Futebol</category>
+  </programme>
+  <programme start="20190120030000 +0000" stop="20190120040000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Fluminense x Volta Redonda</title>
+    <category lang="es">Campeonato Carioca de Futebol</category>
+  </programme>
+  <programme start="20190120040000 +0000" stop="20190120050000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Guarani x Cruzeiro</title>
+    <category lang="es">Campeonato Mineiro de Futebol</category>
+  </programme>
+  <programme start="20190120050000 +0000" stop="20190120053000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Baú do Esporte</title>
+  </programme>
+  <programme start="20190120053000 +0000" stop="20190120053000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Colômbia x Brasil</title>
+    <category lang="es">Campeonato Sul-Americano de Futebol Sub-20 2019</category>
+  </programme>
+  <programme start="20190120053000 +0000" stop="20190120063000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Colômbia x Brasil</title>
+    <category lang="es">Campeonato Sul-Americano de Futebol Sub-20 2019</category>
+  </programme>
+  <programme start="20190120063000 +0000" stop="20190120073000 +0000" channel="SporTV Alternativo">
+    <title lang="es">São Paulo x Mirassol</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120073000 +0000" stop="20190120083000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Madureira x Vasco</title>
+    <category lang="es">Campeonato Carioca de Futebol</category>
+  </programme>
+  <programme start="20190120083000 +0000" stop="20190120093000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Guarani x Cruzeiro</title>
+    <category lang="es">Campeonato Mineiro de Futebol</category>
+  </programme>
+  <programme start="20190120093000 +0000" stop="20190120103000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Colômbia x Brasil</title>
+    <category lang="es">Campeonato Sul-Americano de Futebol Sub-20 2019</category>
+  </programme>
+  <programme start="20190120103000 +0000" stop="20190120113000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Santos x Ferroviária</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120113000 +0000" stop="20190120124500 +0000" channel="SporTV Alternativo">
+    <title lang="es">São Paulo x Mirassol</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120124500 +0000" stop="20190120130000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190120130000 +0000" stop="20190120150000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Botafogo-SP x São Bento</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120150000 +0000" stop="20190120160000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Disputa de 3º Lugar</title>
+    <category lang="es">Campeonato Paulista de Futebol de Areia</category>
+  </programme>
+  <programme start="20190120160000 +0000" stop="20190120170000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Final</title>
+    <category lang="es">Campeonato Paulista de Futebol de Areia</category>
+  </programme>
+  <programme start="20190120170000 +0000" stop="20190120180000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Tá na Área</title>
+  </programme>
+  <programme start="20190120180000 +0000" stop="20190120190000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190120190000 +0000" stop="20190120194500 +0000" channel="SporTV Alternativo">
+    <title lang="es">São Paulo x Mirassol</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120194500 +0000" stop="20190120210000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190120210000 +0000" stop="20190120230000 +0000" channel="SporTV Alternativo">
+    <title lang="es">São Luiz x Internacional</title>
+    <category lang="es">Campeonato Gaúcho de Futebol</category>
+  </programme>
+  <programme start="20190120230000 +0000" stop="20190121010000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Troca de Passes</title>
+  </programme>
+  <programme start="20190121010000 +0000" stop="20190121020000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Giro da Rodada</title>
+  </programme>
+  <programme start="20190121020000 +0000" stop="20190121030000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Flamengo x Bangu</title>
+    <category lang="es">Campeonato Carioca de Futebol</category>
+  </programme>
+  <programme start="20190121030000 +0000" stop="20190121040000 +0000" channel="SporTV Alternativo">
+    <title lang="es">Corinthians x São Caetano</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190121040000 +0000" stop="20190121050000 +0000" channel="SporTV Alternativo">
+    <title lang="es">RB Brasil x Palmeiras</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190117053000 +0000" stop="20190117063000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Campeonato Carioca</title>
+  </programme>
+  <programme start="20190117063000 +0000" stop="20190117073000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Flamengo x Fluminense</title>
+    <category lang="es">Campeonato Carioca - Lendas do Futebol</category>
+  </programme>
+  <programme start="20190117073000 +0000" stop="20190117083000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Campeonato Gaúcho</title>
+  </programme>
+  <programme start="20190117083000 +0000" stop="20190117093000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Grêmio x Audax-SP</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117093000 +0000" stop="20190117103000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Grande Círculo</title>
+  </programme>
+  <programme start="20190117103000 +0000" stop="20190117110000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Baú do Esporte</title>
+  </programme>
+  <programme start="20190117110000 +0000" stop="20190117120000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Atlético-MG x Volta Redonda</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117120000 +0000" stop="20190117130000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Rio Preto x Cruzeiro</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117130000 +0000" stop="20190117140000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Corinthians x Visão Celeste-RN</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117140000 +0000" stop="20190117150000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Mirassol x São Paulo</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117150000 +0000" stop="20190117190000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Palmeiras x Figueirense</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117190000 +0000" stop="20190117200000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Coletiva de Imprensa UFC: Cejudo x Dillashaw</title>
+  </programme>
+  <programme start="20190117200000 +0000" stop="20190117220000 +0000" channel="SporTV 2 HD">
+    <title lang="es">UFC Fight Night: Rivera x Moraes</title>
+  </programme>
+  <programme start="20190117220000 +0000" stop="20190118000000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Túnel do Tempo - Fórmula 1</title>
+  </programme>
+  <programme start="20190118000000 +0000" stop="20190118005500 +0000" channel="SporTV 2 HD">
+    <title lang="es">Boxe</title>
+  </programme>
+  <programme start="20190118005500 +0000" stop="20190118014000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Boxe</title>
+  </programme>
+  <programme start="20190118014000 +0000" stop="20190118022000 +0000" channel="SporTV 2 HD">
+    <title lang="es">UFC 224: Nunes x Pennington</title>
+    <category lang="es">Mixed martial arts</category>
+  </programme>
+  <programme start="20190118022000 +0000" stop="20190118033000 +0000" channel="SporTV 2 HD">
+    <title lang="es">UFC Fight Night: Machida x Brunson</title>
+    <category lang="es">Mixed martial arts</category>
+  </programme>
+  <programme start="20190118033000 +0000" stop="20190118043000 +0000" channel="SporTV 2 HD">
+    <title lang="es">UFC Fight Night: Marreta x Anders</title>
+    <category lang="es">Special</category>
+  </programme>
+  <programme start="20190118043000 +0000" stop="20190118050000 +0000" channel="SporTV 2 HD">
+    <title lang="es">UFC 232: Jones x Gustafsson 2 - Primeiras Lutas</title>
+    <category lang="es">UFC 232: Jones x Gustafsson 2 - Primeiras Lutas</category>
+  </programme>
+  <programme start="20190118050000 +0000" stop="20190118060000 +0000" channel="SporTV 2 HD">
+    <title lang="es">UFC Fight Night: Cigano x Tuivasa - Primeiras Lutas</title>
+  </programme>
+  <programme start="20190118060000 +0000" stop="20190118070000 +0000" channel="SporTV 2 HD">
+    <title lang="es">UFC 231: Holloway x Ortega - Primeiras Lutas</title>
+  </programme>
+  <programme start="20190118070000 +0000" stop="20190118073000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Boxe</title>
+  </programme>
+  <programme start="20190118073000 +0000" stop="20190118083000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Campeonato Carioca</title>
+  </programme>
+  <programme start="20190118083000 +0000" stop="20190118093000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Coritiba x Vasco</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118093000 +0000" stop="20190118103000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Grêmio x Audax-SP</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118103000 +0000" stop="20190118113000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Giro da Rodada</title>
+  </programme>
+  <programme start="20190118113000 +0000" stop="20190118123000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Flamengo x Eintracht Frankfurt</title>
+    <category lang="es">Florida Cup 2019</category>
+  </programme>
+  <programme start="20190118123000 +0000" stop="20190118133000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Corinthians x Santos</title>
+    <category lang="es">Amistoso de Futebol</category>
+  </programme>
+  <programme start="20190118133000 +0000" stop="20190118143000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Corinthians x Visão Celeste-RN</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118143000 +0000" stop="20190118153000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Cruzeiro x São Paulo</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118153000 +0000" stop="20190118163000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Giro da Rodada</title>
+  </programme>
+  <programme start="20190118163000 +0000" stop="20190118173000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Grêmio x Audax-SP</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118173000 +0000" stop="20190118183000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Atlético-MG x Volta Redonda</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118183000 +0000" stop="20190118193000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Coritiba x Vasco</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118193000 +0000" stop="20190118213000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Ajax x Flamengo</title>
+    <category lang="es">Florida Cup 2019</category>
+  </programme>
+  <programme start="20190118213000 +0000" stop="20190118220000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Baú do Esporte</title>
+  </programme>
+  <programme start="20190118220000 +0000" stop="20190118231500 +0000" channel="SporTV 2 HD">
+    <title lang="es">Corinthians x Santos</title>
+    <category lang="es">Amistoso de Futebol</category>
+  </programme>
+  <programme start="20190118231500 +0000" stop="20190118233000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190118233000 +0000" stop="20190119013000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Barueri x Sesi Bauru</title>
+    <category lang="es">Superliga Feminina de Vôlei</category>
+  </programme>
+  <programme start="20190119013000 +0000" stop="20190119014500 +0000" channel="SporTV 2 HD">
+    <title lang="es">Pós-Jogo</title>
+  </programme>
+  <programme start="20190119014500 +0000" stop="20190119030000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119030000 +0000" stop="20190119040000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Corinthians x Santos</title>
+    <category lang="es">Amistoso de Futebol</category>
+  </programme>
+  <programme start="20190119040000 +0000" stop="20190119050000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119050000 +0000" stop="20190119050000 +0000" channel="SporTV 2 HD">
+    <title lang="es">UFC Fight Night: Gaethje x Vick</title>
+    <category lang="es">Special</category>
+  </programme>
+  <programme start="20190119050000 +0000" stop="20190119080000 +0000" channel="SporTV 2 HD">
+    <title lang="es">UFC Fight Night: Gaethje x Vick</title>
+    <category lang="es">Special</category>
+  </programme>
+  <programme start="20190119080000 +0000" stop="20190119100000 +0000" channel="SporTV 2 HD">
+    <title lang="es">UFC Fight Night: Rivera x Moraes</title>
+  </programme>
+  <programme start="20190119100000 +0000" stop="20190119110000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119110000 +0000" stop="20190119120000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119120000 +0000" stop="20190119130000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119130000 +0000" stop="20190119140000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119140000 +0000" stop="20190119160000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Túnel do Tempo - Fórmula 1</title>
+  </programme>
+  <programme start="20190119160000 +0000" stop="20190119181500 +0000" channel="SporTV 2 HD">
+    <title lang="es">Barueri x Sesi Bauru</title>
+    <category lang="es">Superliga Feminina de Vôlei</category>
+  </programme>
+  <programme start="20190119181500 +0000" stop="20190119183000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190119183000 +0000" stop="20190119203000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Ponte Preta x Oeste</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190119203000 +0000" stop="20190119210000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190119210000 +0000" stop="20190119230000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Maringá x Sesi-SP</title>
+    <category lang="es">Superliga Masculina de Vôlei</category>
+  </programme>
+  <programme start="20190119230000 +0000" stop="20190119233000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190119233000 +0000" stop="20190120013000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Bragantino x Guarani</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120013000 +0000" stop="20190120023000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Santos x Ferroviária</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120023000 +0000" stop="20190120033000 +0000" channel="SporTV 2 HD">
+    <title lang="es">São Paulo x Mirassol</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120033000 +0000" stop="20190120043000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190120043000 +0000" stop="20190120053000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190120053000 +0000" stop="20190120053000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190120053000 +0000" stop="20190120063000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190120063000 +0000" stop="20190120073000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190120073000 +0000" stop="20190120083000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Santos x Ferroviária</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120083000 +0000" stop="20190120093000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Flamengo x Eintracht Frankfurt</title>
+    <category lang="es">Florida Cup 2019</category>
+  </programme>
+  <programme start="20190120093000 +0000" stop="20190120103000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Fluminense x Volta Redonda</title>
+    <category lang="es">Campeonato Carioca de Futebol</category>
+  </programme>
+  <programme start="20190120103000 +0000" stop="20190120113000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Madureira x Vasco</title>
+    <category lang="es">Campeonato Carioca de Futebol</category>
+  </programme>
+  <programme start="20190120113000 +0000" stop="20190120124500 +0000" channel="SporTV 2 HD">
+    <title lang="es">Guarani x Cruzeiro</title>
+    <category lang="es">Campeonato Mineiro de Futebol</category>
+  </programme>
+  <programme start="20190120124500 +0000" stop="20190120130000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190120130000 +0000" stop="20190120150000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Caldense x América-MG</title>
+    <category lang="es">Campeonato Mineiro de Futebol</category>
+  </programme>
+  <programme start="20190120150000 +0000" stop="20190120170000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Túnel do Tempo - Fórmula 1</title>
+  </programme>
+  <programme start="20190120170000 +0000" stop="20190120180000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Colômbia x Brasil</title>
+    <category lang="es">Campeonato Sul-Americano de Futebol Sub-20 2019</category>
+  </programme>
+  <programme start="20190120180000 +0000" stop="20190120190000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Madureira x Vasco</title>
+    <category lang="es">Campeonato Carioca de Futebol</category>
+  </programme>
+  <programme start="20190120190000 +0000" stop="20190120200000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Santos x Ferroviária</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120200000 +0000" stop="20190120210000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Guarani x Cruzeiro</title>
+    <category lang="es">Campeonato Mineiro de Futebol</category>
+  </programme>
+  <programme start="20190120210000 +0000" stop="20190120220000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Troca de Passes</title>
+  </programme>
+  <programme start="20190120220000 +0000" stop="20190120230000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Flamengo x Bangu</title>
+    <category lang="es">Campeonato Carioca de Futebol</category>
+  </programme>
+  <programme start="20190120230000 +0000" stop="20190121000000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Corinthians x São Caetano</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190121000000 +0000" stop="20190121023000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Minnesota Timberwolves x Phoenix Suns</title>
+    <category lang="es">NBA</category>
+  </programme>
+  <programme start="20190121023000 +0000" stop="20190121043000 +0000" channel="SporTV 2 HD">
+    <title lang="es">Paulistano x Atenas</title>
+    <category lang="es">Liga das Américas de Basquete</category>
+  </programme>
+  <programme start="20190117053000 +0000" stop="20190117063000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Campeonato Carioca</title>
+  </programme>
+  <programme start="20190117063000 +0000" stop="20190117073000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Flamengo x Fluminense</title>
+    <category lang="es">Campeonato Carioca - Lendas do Futebol</category>
+  </programme>
+  <programme start="20190117073000 +0000" stop="20190117083000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Campeonato Gaúcho</title>
+  </programme>
+  <programme start="20190117083000 +0000" stop="20190117093000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Grêmio x Audax-SP</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117093000 +0000" stop="20190117103000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Grande Círculo</title>
+  </programme>
+  <programme start="20190117103000 +0000" stop="20190117110000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Baú do Esporte</title>
+  </programme>
+  <programme start="20190117110000 +0000" stop="20190117120000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Atlético-MG x Volta Redonda</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117120000 +0000" stop="20190117130000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Rio Preto x Cruzeiro</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117130000 +0000" stop="20190117140000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Corinthians x Visão Celeste-RN</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117140000 +0000" stop="20190117150000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Mirassol x São Paulo</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117150000 +0000" stop="20190117190000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Palmeiras x Figueirense</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117190000 +0000" stop="20190117200000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Coletiva de Imprensa UFC: Cejudo x Dillashaw</title>
+  </programme>
+  <programme start="20190117200000 +0000" stop="20190117220000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">UFC Fight Night: Rivera x Moraes</title>
+  </programme>
+  <programme start="20190117220000 +0000" stop="20190118000000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Túnel do Tempo - Fórmula 1</title>
+  </programme>
+  <programme start="20190118000000 +0000" stop="20190118005500 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Boxe</title>
+  </programme>
+  <programme start="20190118005500 +0000" stop="20190118014000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Boxe</title>
+  </programme>
+  <programme start="20190118014000 +0000" stop="20190118022000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">UFC 224: Nunes x Pennington</title>
+    <category lang="es">Mixed martial arts</category>
+  </programme>
+  <programme start="20190118022000 +0000" stop="20190118033000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">UFC Fight Night: Machida x Brunson</title>
+    <category lang="es">Mixed martial arts</category>
+  </programme>
+  <programme start="20190118033000 +0000" stop="20190118043000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">UFC Fight Night: Marreta x Anders</title>
+    <category lang="es">Special</category>
+  </programme>
+  <programme start="20190118043000 +0000" stop="20190118050000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">UFC 232: Jones x Gustafsson 2 - Primeiras Lutas</title>
+    <category lang="es">UFC 232: Jones x Gustafsson 2 - Primeiras Lutas</category>
+  </programme>
+  <programme start="20190118050000 +0000" stop="20190118060000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">UFC Fight Night: Cigano x Tuivasa - Primeiras Lutas</title>
+  </programme>
+  <programme start="20190118060000 +0000" stop="20190118070000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">UFC 231: Holloway x Ortega - Primeiras Lutas</title>
+  </programme>
+  <programme start="20190118070000 +0000" stop="20190118073000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Boxe</title>
+  </programme>
+  <programme start="20190118073000 +0000" stop="20190118083000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Campeonato Carioca</title>
+  </programme>
+  <programme start="20190118083000 +0000" stop="20190118093000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Coritiba x Vasco</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118093000 +0000" stop="20190118103000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Grêmio x Audax-SP</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118103000 +0000" stop="20190118113000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Giro da Rodada</title>
+  </programme>
+  <programme start="20190118113000 +0000" stop="20190118123000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Flamengo x Eintracht Frankfurt</title>
+    <category lang="es">Florida Cup 2019</category>
+  </programme>
+  <programme start="20190118123000 +0000" stop="20190118133000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Corinthians x Santos</title>
+    <category lang="es">Amistoso de Futebol</category>
+  </programme>
+  <programme start="20190118133000 +0000" stop="20190118143000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Corinthians x Visão Celeste-RN</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118143000 +0000" stop="20190118153000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Cruzeiro x São Paulo</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118153000 +0000" stop="20190118163000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Giro da Rodada</title>
+  </programme>
+  <programme start="20190118163000 +0000" stop="20190118173000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Grêmio x Audax-SP</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118173000 +0000" stop="20190118183000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Atlético-MG x Volta Redonda</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118183000 +0000" stop="20190118193000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Coritiba x Vasco</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118193000 +0000" stop="20190118213000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Ajax x Flamengo</title>
+    <category lang="es">Florida Cup 2019</category>
+  </programme>
+  <programme start="20190118213000 +0000" stop="20190118220000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Baú do Esporte</title>
+  </programme>
+  <programme start="20190118220000 +0000" stop="20190118231500 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Corinthians x Santos</title>
+    <category lang="es">Amistoso de Futebol</category>
+  </programme>
+  <programme start="20190118231500 +0000" stop="20190118233000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190118233000 +0000" stop="20190119013000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Barueri x Sesi Bauru</title>
+    <category lang="es">Superliga Feminina de Vôlei</category>
+  </programme>
+  <programme start="20190119013000 +0000" stop="20190119014500 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Pós-Jogo</title>
+  </programme>
+  <programme start="20190119014500 +0000" stop="20190119030000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119030000 +0000" stop="20190119040000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Corinthians x Santos</title>
+    <category lang="es">Amistoso de Futebol</category>
+  </programme>
+  <programme start="20190119040000 +0000" stop="20190119050000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119050000 +0000" stop="20190119050000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">UFC Fight Night: Gaethje x Vick</title>
+    <category lang="es">Special</category>
+  </programme>
+  <programme start="20190119050000 +0000" stop="20190119080000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">UFC Fight Night: Gaethje x Vick</title>
+    <category lang="es">Special</category>
+  </programme>
+  <programme start="20190119080000 +0000" stop="20190119100000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">UFC Fight Night: Rivera x Moraes</title>
+  </programme>
+  <programme start="20190119100000 +0000" stop="20190119110000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119110000 +0000" stop="20190119120000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119120000 +0000" stop="20190119130000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119130000 +0000" stop="20190119140000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119140000 +0000" stop="20190119160000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Túnel do Tempo - Fórmula 1</title>
+  </programme>
+  <programme start="20190119160000 +0000" stop="20190119181500 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Barueri x Sesi Bauru</title>
+    <category lang="es">Superliga Feminina de Vôlei</category>
+  </programme>
+  <programme start="20190119181500 +0000" stop="20190119183000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190119183000 +0000" stop="20190119203000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Ponte Preta x Oeste</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190119203000 +0000" stop="20190119210000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190119210000 +0000" stop="20190119230000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Maringá x Sesi-SP</title>
+    <category lang="es">Superliga Masculina de Vôlei</category>
+  </programme>
+  <programme start="20190119230000 +0000" stop="20190119233000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190119233000 +0000" stop="20190120013000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Bragantino x Guarani</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120013000 +0000" stop="20190120023000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Santos x Ferroviária</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120023000 +0000" stop="20190120033000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">São Paulo x Mirassol</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120033000 +0000" stop="20190120043000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190120043000 +0000" stop="20190120053000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190120053000 +0000" stop="20190120053000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190120053000 +0000" stop="20190120063000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190120063000 +0000" stop="20190120073000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190120073000 +0000" stop="20190120083000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Santos x Ferroviária</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120083000 +0000" stop="20190120093000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Flamengo x Eintracht Frankfurt</title>
+    <category lang="es">Florida Cup 2019</category>
+  </programme>
+  <programme start="20190120093000 +0000" stop="20190120103000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Fluminense x Volta Redonda</title>
+    <category lang="es">Campeonato Carioca de Futebol</category>
+  </programme>
+  <programme start="20190120103000 +0000" stop="20190120113000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Madureira x Vasco</title>
+    <category lang="es">Campeonato Carioca de Futebol</category>
+  </programme>
+  <programme start="20190120113000 +0000" stop="20190120124500 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Guarani x Cruzeiro</title>
+    <category lang="es">Campeonato Mineiro de Futebol</category>
+  </programme>
+  <programme start="20190120124500 +0000" stop="20190120130000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190120130000 +0000" stop="20190120150000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Caldense x América-MG</title>
+    <category lang="es">Campeonato Mineiro de Futebol</category>
+  </programme>
+  <programme start="20190120150000 +0000" stop="20190120170000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Túnel do Tempo - Fórmula 1</title>
+  </programme>
+  <programme start="20190120170000 +0000" stop="20190120180000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Colômbia x Brasil</title>
+    <category lang="es">Campeonato Sul-Americano de Futebol Sub-20 2019</category>
+  </programme>
+  <programme start="20190120180000 +0000" stop="20190120190000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Madureira x Vasco</title>
+    <category lang="es">Campeonato Carioca de Futebol</category>
+  </programme>
+  <programme start="20190120190000 +0000" stop="20190120200000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Santos x Ferroviária</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120200000 +0000" stop="20190120210000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Guarani x Cruzeiro</title>
+    <category lang="es">Campeonato Mineiro de Futebol</category>
+  </programme>
+  <programme start="20190120210000 +0000" stop="20190120220000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Troca de Passes</title>
+  </programme>
+  <programme start="20190120220000 +0000" stop="20190120230000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Flamengo x Bangu</title>
+    <category lang="es">Campeonato Carioca de Futebol</category>
+  </programme>
+  <programme start="20190120230000 +0000" stop="20190121000000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Corinthians x São Caetano</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190121000000 +0000" stop="20190121023000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Minnesota Timberwolves x Phoenix Suns</title>
+    <category lang="es">NBA</category>
+  </programme>
+  <programme start="20190121023000 +0000" stop="20190121043000 +0000" channel="SporTV 2 FHD">
+    <title lang="es">Paulistano x Atenas</title>
+    <category lang="es">Liga das Américas de Basquete</category>
+  </programme>
+  <programme start="20190117053000 +0000" stop="20190117063000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Campeonato Carioca</title>
+  </programme>
+  <programme start="20190117063000 +0000" stop="20190117073000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Flamengo x Fluminense</title>
+    <category lang="es">Campeonato Carioca - Lendas do Futebol</category>
+  </programme>
+  <programme start="20190117073000 +0000" stop="20190117083000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Campeonato Gaúcho</title>
+  </programme>
+  <programme start="20190117083000 +0000" stop="20190117093000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Grêmio x Audax-SP</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117093000 +0000" stop="20190117103000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Grande Círculo</title>
+  </programme>
+  <programme start="20190117103000 +0000" stop="20190117110000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Baú do Esporte</title>
+  </programme>
+  <programme start="20190117110000 +0000" stop="20190117120000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Atlético-MG x Volta Redonda</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117120000 +0000" stop="20190117130000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Rio Preto x Cruzeiro</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117130000 +0000" stop="20190117140000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Corinthians x Visão Celeste-RN</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117140000 +0000" stop="20190117150000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Mirassol x São Paulo</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117150000 +0000" stop="20190117190000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Palmeiras x Figueirense</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190117190000 +0000" stop="20190117200000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Coletiva de Imprensa UFC: Cejudo x Dillashaw</title>
+  </programme>
+  <programme start="20190117200000 +0000" stop="20190117220000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">UFC Fight Night: Rivera x Moraes</title>
+  </programme>
+  <programme start="20190117220000 +0000" stop="20190118000000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Túnel do Tempo - Fórmula 1</title>
+  </programme>
+  <programme start="20190118000000 +0000" stop="20190118005500 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Boxe</title>
+  </programme>
+  <programme start="20190118005500 +0000" stop="20190118014000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Boxe</title>
+  </programme>
+  <programme start="20190118014000 +0000" stop="20190118022000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">UFC 224: Nunes x Pennington</title>
+    <category lang="es">Mixed martial arts</category>
+  </programme>
+  <programme start="20190118022000 +0000" stop="20190118033000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">UFC Fight Night: Machida x Brunson</title>
+    <category lang="es">Mixed martial arts</category>
+  </programme>
+  <programme start="20190118033000 +0000" stop="20190118043000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">UFC Fight Night: Marreta x Anders</title>
+    <category lang="es">Special</category>
+  </programme>
+  <programme start="20190118043000 +0000" stop="20190118050000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">UFC 232: Jones x Gustafsson 2 - Primeiras Lutas</title>
+    <category lang="es">UFC 232: Jones x Gustafsson 2 - Primeiras Lutas</category>
+  </programme>
+  <programme start="20190118050000 +0000" stop="20190118060000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">UFC Fight Night: Cigano x Tuivasa - Primeiras Lutas</title>
+  </programme>
+  <programme start="20190118060000 +0000" stop="20190118070000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">UFC 231: Holloway x Ortega - Primeiras Lutas</title>
+  </programme>
+  <programme start="20190118070000 +0000" stop="20190118073000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Boxe</title>
+  </programme>
+  <programme start="20190118073000 +0000" stop="20190118083000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Campeonato Carioca</title>
+  </programme>
+  <programme start="20190118083000 +0000" stop="20190118093000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Coritiba x Vasco</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118093000 +0000" stop="20190118103000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Grêmio x Audax-SP</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118103000 +0000" stop="20190118113000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Giro da Rodada</title>
+  </programme>
+  <programme start="20190118113000 +0000" stop="20190118123000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Flamengo x Eintracht Frankfurt</title>
+    <category lang="es">Florida Cup 2019</category>
+  </programme>
+  <programme start="20190118123000 +0000" stop="20190118133000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Corinthians x Santos</title>
+    <category lang="es">Amistoso de Futebol</category>
+  </programme>
+  <programme start="20190118133000 +0000" stop="20190118143000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Corinthians x Visão Celeste-RN</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118143000 +0000" stop="20190118153000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Cruzeiro x São Paulo</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118153000 +0000" stop="20190118163000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Giro da Rodada</title>
+  </programme>
+  <programme start="20190118163000 +0000" stop="20190118173000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Grêmio x Audax-SP</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118173000 +0000" stop="20190118183000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Atlético-MG x Volta Redonda</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118183000 +0000" stop="20190118193000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Coritiba x Vasco</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190118193000 +0000" stop="20190118213000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Ajax x Flamengo</title>
+    <category lang="es">Florida Cup 2019</category>
+  </programme>
+  <programme start="20190118213000 +0000" stop="20190118220000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Baú do Esporte</title>
+  </programme>
+  <programme start="20190118220000 +0000" stop="20190118231500 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Corinthians x Santos</title>
+    <category lang="es">Amistoso de Futebol</category>
+  </programme>
+  <programme start="20190118231500 +0000" stop="20190118233000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190118233000 +0000" stop="20190119013000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Barueri x Sesi Bauru</title>
+    <category lang="es">Superliga Feminina de Vôlei</category>
+  </programme>
+  <programme start="20190119013000 +0000" stop="20190119014500 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Pós-Jogo</title>
+  </programme>
+  <programme start="20190119014500 +0000" stop="20190119030000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119030000 +0000" stop="20190119040000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Corinthians x Santos</title>
+    <category lang="es">Amistoso de Futebol</category>
+  </programme>
+  <programme start="20190119040000 +0000" stop="20190119050000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119050000 +0000" stop="20190119050000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">UFC Fight Night: Gaethje x Vick</title>
+    <category lang="es">Special</category>
+  </programme>
+  <programme start="20190119050000 +0000" stop="20190119080000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">UFC Fight Night: Gaethje x Vick</title>
+    <category lang="es">Special</category>
+  </programme>
+  <programme start="20190119080000 +0000" stop="20190119100000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">UFC Fight Night: Rivera x Moraes</title>
+  </programme>
+  <programme start="20190119100000 +0000" stop="20190119110000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119110000 +0000" stop="20190119120000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119120000 +0000" stop="20190119130000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119130000 +0000" stop="20190119140000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190119140000 +0000" stop="20190119160000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Túnel do Tempo - Fórmula 1</title>
+  </programme>
+  <programme start="20190119160000 +0000" stop="20190119181500 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Barueri x Sesi Bauru</title>
+    <category lang="es">Superliga Feminina de Vôlei</category>
+  </programme>
+  <programme start="20190119181500 +0000" stop="20190119183000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190119183000 +0000" stop="20190119203000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Ponte Preta x Oeste</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190119203000 +0000" stop="20190119210000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190119210000 +0000" stop="20190119230000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Maringá x Sesi-SP</title>
+    <category lang="es">Superliga Masculina de Vôlei</category>
+  </programme>
+  <programme start="20190119230000 +0000" stop="20190119233000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190119233000 +0000" stop="20190120013000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Bragantino x Guarani</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120013000 +0000" stop="20190120023000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Santos x Ferroviária</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120023000 +0000" stop="20190120033000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">São Paulo x Mirassol</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120033000 +0000" stop="20190120043000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190120043000 +0000" stop="20190120053000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190120053000 +0000" stop="20190120053000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190120053000 +0000" stop="20190120063000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190120063000 +0000" stop="20190120073000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Copa SP de Futebol Júnior</title>
+    <category lang="es">Copa SP de Futebol Júnior</category>
+  </programme>
+  <programme start="20190120073000 +0000" stop="20190120083000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Santos x Ferroviária</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120083000 +0000" stop="20190120093000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Flamengo x Eintracht Frankfurt</title>
+    <category lang="es">Florida Cup 2019</category>
+  </programme>
+  <programme start="20190120093000 +0000" stop="20190120103000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Fluminense x Volta Redonda</title>
+    <category lang="es">Campeonato Carioca de Futebol</category>
+  </programme>
+  <programme start="20190120103000 +0000" stop="20190120113000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Madureira x Vasco</title>
+    <category lang="es">Campeonato Carioca de Futebol</category>
+  </programme>
+  <programme start="20190120113000 +0000" stop="20190120124500 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Guarani x Cruzeiro</title>
+    <category lang="es">Campeonato Mineiro de Futebol</category>
+  </programme>
+  <programme start="20190120124500 +0000" stop="20190120130000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Pré-Jogo</title>
+  </programme>
+  <programme start="20190120130000 +0000" stop="20190120150000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Caldense x América-MG</title>
+    <category lang="es">Campeonato Mineiro de Futebol</category>
+  </programme>
+  <programme start="20190120150000 +0000" stop="20190120170000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Túnel do Tempo - Fórmula 1</title>
+  </programme>
+  <programme start="20190120170000 +0000" stop="20190120180000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Colômbia x Brasil</title>
+    <category lang="es">Campeonato Sul-Americano de Futebol Sub-20 2019</category>
+  </programme>
+  <programme start="20190120180000 +0000" stop="20190120190000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Madureira x Vasco</title>
+    <category lang="es">Campeonato Carioca de Futebol</category>
+  </programme>
+  <programme start="20190120190000 +0000" stop="20190120200000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Santos x Ferroviária</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190120200000 +0000" stop="20190120210000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Guarani x Cruzeiro</title>
+    <category lang="es">Campeonato Mineiro de Futebol</category>
+  </programme>
+  <programme start="20190120210000 +0000" stop="20190120220000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Troca de Passes</title>
+  </programme>
+  <programme start="20190120220000 +0000" stop="20190120230000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Flamengo x Bangu</title>
+    <category lang="es">Campeonato Carioca de Futebol</category>
+  </programme>
+  <programme start="20190120230000 +0000" stop="20190121000000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Corinthians x São Caetano</title>
+    <category lang="es">Campeonato Paulista de Futebol</category>
+  </programme>
+  <programme start="20190121000000 +0000" stop="20190121023000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Minnesota Timberwolves x Phoenix Suns</title>
+    <category lang="es">NBA</category>
+  </programme>
+  <programme start="20190121023000 +0000" stop="20190121043000 +0000" channel="SporTV 2 -FHD">
+    <title lang="es">Paulistano x Atenas</title>
+    <category lang="es">Liga das Américas de Basquete</category>
+  </programme>
 </tv>
