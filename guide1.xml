@@ -4,4 +4,16 @@
     <display-name lang="es">Globo RJ FHD</display-name>
     <url>http://www.mi.tv</url>
   </channel>
+  <channel id="Globo RJ HD">
+    <display-name lang="es">Globo RJ HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Globo RJ Alternativo HD">
+    <display-name lang="es">Globo RJ Alternativo HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Globo RJ Alternativo">
+    <display-name lang="es">Globo RJ Alternativo</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
 </tv>
