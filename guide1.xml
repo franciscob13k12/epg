@@ -24,6 +24,22 @@
     <display-name lang="pt">Telecine Fun</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
+  <channel id="MegaPix">
+    <display-name lang="pt">MegaPix</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name lang="pt">Studio Universal</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Syfy">
+    <display-name lang="pt">Syfy</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal Brasil">
+    <display-name lang="pt">Canal Brasil</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <programme start="20200630001500 -0300" stop="20200630022500 -0300" channel="Telecine Premium">
     <title lang="pt">O Menino Que Queria Ser Rei</title>
   </programme>
@@ -1484,5 +1500,1538 @@
   </programme>
   <programme start="20200706234000 -0300" stop="20200707011500 -0300" channel="Telecine Fun">
     <title lang="pt">O Grinch (2018)</title>
+  </programme>
+  <programme start="20200630001000 -0300" stop="20200630022500 -0300" channel="MegaPix">
+    <title lang="pt">Especial Nicolas Cage: Presságio</title>
+  </programme>
+  <programme start="20200630022500 -0300" stop="20200630042500 -0300" channel="MegaPix">
+    <title lang="pt">Uma Noite de Crime: Anarquia</title>
+  </programme>
+  <programme start="20200630042500 -0300" stop="20200630061500 -0300" channel="MegaPix">
+    <title lang="pt">Sexta-feira Muito Louca</title>
+  </programme>
+  <programme start="20200630061500 -0300" stop="20200630080500 -0300" channel="MegaPix">
+    <title lang="pt">A Creche Do Papai</title>
+  </programme>
+  <programme start="20200630080500 -0300" stop="20200630101000 -0300" channel="MegaPix">
+    <title lang="pt">A Onda dos Sonhos</title>
+  </programme>
+  <programme start="20200630101000 -0300" stop="20200630123500 -0300" channel="MegaPix">
+    <title lang="pt">X-men 2</title>
+  </programme>
+  <programme start="20200630123500 -0300" stop="20200630145000 -0300" channel="MegaPix">
+    <title lang="pt">Homem-Aranha</title>
+  </programme>
+  <programme start="20200630145000 -0300" stop="20200630170000 -0300" channel="MegaPix">
+    <title lang="pt">Como Eu Era Antes De Você</title>
+  </programme>
+  <programme start="20200630170000 -0300" stop="20200630184500 -0300" channel="MegaPix">
+    <title lang="pt">Ela Dança, Eu Danço 4</title>
+  </programme>
+  <programme start="20200630184500 -0300" stop="20200630203500 -0300" channel="MegaPix">
+    <title lang="pt">Vai Que Cola - O Filme</title>
+  </programme>
+  <programme start="20200630203500 -0300" stop="20200630223000 -0300" channel="MegaPix">
+    <title lang="pt">Assassino A Preço Fixo 2: A Ressurreição</title>
+  </programme>
+  <programme start="20200630223000 -0300" stop="20200701002500 -0300" channel="MegaPix">
+    <title lang="pt">Desejo de Matar (2017)</title>
+  </programme>
+  <programme start="20200701002500 -0300" stop="20200701021000 -0300" channel="MegaPix">
+    <title lang="pt">Plano De Fuga</title>
+  </programme>
+  <programme start="20200701021000 -0300" stop="20200701042000 -0300" channel="MegaPix">
+    <title lang="pt">Um Porto Seguro</title>
+  </programme>
+  <programme start="20200701042000 -0300" stop="20200701062000 -0300" channel="MegaPix">
+    <title lang="pt">Doce Veneno</title>
+  </programme>
+  <programme start="20200701062000 -0300" stop="20200701080000 -0300" channel="MegaPix">
+    <title lang="pt">Gnomeu e Julieta: O Mistério do Jardim</title>
+  </programme>
+  <programme start="20200701080000 -0300" stop="20200701095500 -0300" channel="MegaPix">
+    <title lang="pt">Sorte no Amor (2006)</title>
+  </programme>
+  <programme start="20200701095500 -0300" stop="20200701115500 -0300" channel="MegaPix">
+    <title lang="pt">Minha Vida Em Marte</title>
+  </programme>
+  <programme start="20200701115500 -0300" stop="20200701134000 -0300" channel="MegaPix">
+    <title lang="pt">Frankenstein: Entre Anjos e Demônios</title>
+  </programme>
+  <programme start="20200701134000 -0300" stop="20200701154000 -0300" channel="MegaPix">
+    <title lang="pt">Se Eu Ficar</title>
+  </programme>
+  <programme start="20200701154000 -0300" stop="20200701173500 -0300" channel="MegaPix">
+    <title lang="pt">A Vida Secreta das Abelhas</title>
+  </programme>
+  <programme start="20200701173500 -0300" stop="20200701194000 -0300" channel="MegaPix">
+    <title lang="pt">Colombiana - Em Busca de Vingança</title>
+  </programme>
+  <programme start="20200701194000 -0300" stop="20200701213000 -0300" channel="MegaPix">
+    <title lang="pt">Falcão - O Campeão Dos Campeões</title>
+  </programme>
+  <programme start="20200701213000 -0300" stop="20200701232000 -0300" channel="MegaPix">
+    <title lang="pt">Powerpix: Sem Escalas</title>
+  </programme>
+  <programme start="20200701232000 -0300" stop="20200702013000 -0300" channel="MegaPix">
+    <title lang="pt">Independence Day: O Ressurgimento</title>
+  </programme>
+  <programme start="20200702013000 -0300" stop="20200702034500 -0300" channel="MegaPix">
+    <title lang="pt">O Último Rei da Escócia</title>
+  </programme>
+  <programme start="20200702034500 -0300" stop="20200702060500 -0300" channel="MegaPix">
+    <title lang="pt">Acima das Nuvens</title>
+  </programme>
+  <programme start="20200702060500 -0300" stop="20200702081000 -0300" channel="MegaPix">
+    <title lang="pt">Refúgio Do Medo</title>
+  </programme>
+  <programme start="20200702081000 -0300" stop="20200702111000 -0300" channel="MegaPix">
+    <title lang="pt">O Hobbit - Uma Jornada Inesperada</title>
+  </programme>
+  <programme start="20200702111000 -0300" stop="20200702131000 -0300" channel="MegaPix">
+    <title lang="pt">Você De Novo</title>
+  </programme>
+  <programme start="20200702131000 -0300" stop="20200702150000 -0300" channel="MegaPix">
+    <title lang="pt">Tá Chovendo Hambúrguer 2</title>
+  </programme>
+  <programme start="20200702150000 -0300" stop="20200702164000 -0300" channel="MegaPix">
+    <title lang="pt">Veículo 19</title>
+  </programme>
+  <programme start="20200702164000 -0300" stop="20200702182000 -0300" channel="MegaPix">
+    <title lang="pt">O Vidente</title>
+  </programme>
+  <programme start="20200702182000 -0300" stop="20200702201500 -0300" channel="MegaPix">
+    <title lang="pt">Meu Malvado Favorito 2</title>
+  </programme>
+  <programme start="20200702201500 -0300" stop="20200702223000 -0300" channel="MegaPix">
+    <title lang="pt">A Saga Crepúsculo: Eclipse</title>
+  </programme>
+  <programme start="20200702223000 -0300" stop="20200703005000 -0300" channel="MegaPix">
+    <title lang="pt">Velozes &amp; Furiosos 7</title>
+  </programme>
+  <programme start="20200703005000 -0300" stop="20200703024500 -0300" channel="MegaPix">
+    <title lang="pt">A Força em Alerta 2</title>
+  </programme>
+  <programme start="20200703024500 -0300" stop="20200703044500 -0300" channel="MegaPix">
+    <title lang="pt">A Vida Secreta de Zoe</title>
+  </programme>
+  <programme start="20200703044500 -0300" stop="20200703062000 -0300" channel="MegaPix">
+    <title lang="pt">Todo Mundo Em Pânico 5</title>
+  </programme>
+  <programme start="20200703062000 -0300" stop="20200703083000 -0300" channel="MegaPix">
+    <title lang="pt">Pais e Filhas</title>
+  </programme>
+  <programme start="20200703083000 -0300" stop="20200703102500 -0300" channel="MegaPix">
+    <title lang="pt">Eu Te Amo, Beth Cooper</title>
+  </programme>
+  <programme start="20200703102500 -0300" stop="20200703123000 -0300" channel="MegaPix">
+    <title lang="pt">O Candidato Honesto 2</title>
+  </programme>
+  <programme start="20200703123000 -0300" stop="20200703145000 -0300" channel="MegaPix">
+    <title lang="pt">Missão: Impossível 3</title>
+  </programme>
+  <programme start="20200703145000 -0300" stop="20200703164000 -0300" channel="MegaPix">
+    <title lang="pt">Falcão - O Campeão Dos Campeões</title>
+  </programme>
+  <programme start="20200703164000 -0300" stop="20200703183000 -0300" channel="MegaPix">
+    <title lang="pt">MIB: Homens de Preto</title>
+  </programme>
+  <programme start="20200703183000 -0300" stop="20200703202500 -0300" channel="MegaPix">
+    <title lang="pt">Assassino A Preço Fixo 2: A Ressurreição</title>
+  </programme>
+  <programme start="20200703202500 -0300" stop="20200703223000 -0300" channel="MegaPix">
+    <title lang="pt">Desejo de Matar (2017)</title>
+  </programme>
+  <programme start="20200703223000 -0300" stop="20200704001000 -0300" channel="MegaPix">
+    <title lang="pt">Sessão Megapix: Atos de Violência</title>
+  </programme>
+  <programme start="20200704001000 -0300" stop="20200704020000 -0300" channel="MegaPix">
+    <title lang="pt">Carga Explosiva - O Legado</title>
+  </programme>
+  <programme start="20200704020000 -0300" stop="20200704034500 -0300" channel="MegaPix">
+    <title lang="pt">Pânico No Lago: O Capítulo Final</title>
+  </programme>
+  <programme start="20200704034500 -0300" stop="20200704053500 -0300" channel="MegaPix">
+    <title lang="pt">A Ressaca</title>
+  </programme>
+  <programme start="20200704053500 -0300" stop="20200704072000 -0300" channel="MegaPix">
+    <title lang="pt">Em Busca de Vingança</title>
+  </programme>
+  <programme start="20200704072000 -0300" stop="20200704092500 -0300" channel="MegaPix">
+    <title lang="pt">Central do Brasil</title>
+  </programme>
+  <programme start="20200704092500 -0300" stop="20200704112000 -0300" channel="MegaPix">
+    <title lang="pt">MIB: Homens De Preto 3</title>
+  </programme>
+  <programme start="20200704112000 -0300" stop="20200704131500 -0300" channel="MegaPix">
+    <title lang="pt">Como Treinar o Seu Dragão 2</title>
+  </programme>
+  <programme start="20200704131500 -0300" stop="20200704151500 -0300" channel="MegaPix">
+    <title lang="pt">Sem Escalas</title>
+  </programme>
+  <programme start="20200704151500 -0300" stop="20200704174500 -0300" channel="MegaPix">
+    <title lang="pt">O Espetacular Homem-aranha</title>
+  </programme>
+  <programme start="20200704174500 -0300" stop="20200704194500 -0300" channel="MegaPix">
+    <title lang="pt">Ela Dança, Eu Danço</title>
+  </programme>
+  <programme start="20200704194500 -0300" stop="20200704220000 -0300" channel="MegaPix">
+    <title lang="pt">Independence Day: O Ressurgimento</title>
+  </programme>
+  <programme start="20200704220000 -0300" stop="20200704235500 -0300" channel="MegaPix">
+    <title lang="pt">Truque de Mestre</title>
+  </programme>
+  <programme start="20200704235500 -0300" stop="20200705022000 -0300" channel="MegaPix">
+    <title lang="pt">Truque de Mestre: O 2º Ato</title>
+  </programme>
+  <programme start="20200705022000 -0300" stop="20200705041000 -0300" channel="MegaPix">
+    <title lang="pt">Vizinhos</title>
+  </programme>
+  <programme start="20200705041000 -0300" stop="20200705060000 -0300" channel="MegaPix">
+    <title lang="pt">Uma História De Vingança</title>
+  </programme>
+  <programme start="20200705060000 -0300" stop="20200705075500 -0300" channel="MegaPix">
+    <title lang="pt">Legião De Dançarinos Extraordinários 2</title>
+  </programme>
+  <programme start="20200705075500 -0300" stop="20200705095000 -0300" channel="MegaPix">
+    <title lang="pt">Um Amor Para Recordar</title>
+  </programme>
+  <programme start="20200705095000 -0300" stop="20200705113500 -0300" channel="MegaPix">
+    <title lang="pt">Sempre ao Seu Lado</title>
+  </programme>
+  <programme start="20200705113500 -0300" stop="20200705133500 -0300" channel="MegaPix">
+    <title lang="pt">Sessão Retrô.: O Inferno de Dante</title>
+  </programme>
+  <programme start="20200705133500 -0300" stop="20200705155000 -0300" channel="MegaPix">
+    <title lang="pt">A Saga Crepúsculo: Eclipse</title>
+  </programme>
+  <programme start="20200705155000 -0300" stop="20200705174000 -0300" channel="MegaPix">
+    <title lang="pt">Carga Explosiva - O Legado</title>
+  </programme>
+  <programme start="20200705174000 -0300" stop="20200705201000 -0300" channel="MegaPix">
+    <title lang="pt">Velozes &amp; Furiosos 7</title>
+  </programme>
+  <programme start="20200705201000 -0300" stop="20200705220000 -0300" channel="MegaPix">
+    <title lang="pt">Sessão Megapix: Atos de Violência</title>
+  </programme>
+  <programme start="20200705220000 -0300" stop="20200705235500 -0300" channel="MegaPix">
+    <title lang="pt">Red - Aposentados e Perigosos</title>
+  </programme>
+  <programme start="20200705235500 -0300" stop="20200706020000 -0300" channel="MegaPix">
+    <title lang="pt">Red 2 - Aposentados e Ainda Mais Perigosos</title>
+  </programme>
+  <programme start="20200706020000 -0300" stop="20200706041000 -0300" channel="MegaPix">
+    <title lang="pt">Hellboy (2004)</title>
+  </programme>
+  <programme start="20200706041000 -0300" stop="20200706055500 -0300" channel="MegaPix">
+    <title lang="pt">Operação Resgate</title>
+  </programme>
+  <programme start="20200706055500 -0300" stop="20200706081000 -0300" channel="MegaPix">
+    <title lang="pt">La La Land - Cantando Estações</title>
+  </programme>
+  <programme start="20200706081000 -0300" stop="20200706100000 -0300" channel="MegaPix">
+    <title lang="pt">Meu Namorado É Um Zumbi</title>
+  </programme>
+  <programme start="20200706100000 -0300" stop="20200706121500 -0300" channel="MegaPix">
+    <title lang="pt">O Grande Mestre (2013)</title>
+  </programme>
+  <programme start="20200706121500 -0300" stop="20200706141000 -0300" channel="MegaPix">
+    <title lang="pt">Policial em Apuros</title>
+  </programme>
+  <programme start="20200706141000 -0300" stop="20200706164000 -0300" channel="MegaPix">
+    <title lang="pt">Creed: Nascido Para Lutar</title>
+  </programme>
+  <programme start="20200706164000 -0300" stop="20200706182000 -0300" channel="MegaPix">
+    <title lang="pt">Como Sobreviver a Um Ataque Zumbi</title>
+  </programme>
+  <programme start="20200706182000 -0300" stop="20200706203000 -0300" channel="MegaPix">
+    <title lang="pt">Tropa de Elite</title>
+  </programme>
+  <programme start="20200706203000 -0300" stop="20200706223000 -0300" channel="MegaPix">
+    <title lang="pt">Braddock 3 - O Resgate</title>
+  </programme>
+  <programme start="20200706223000 -0300" stop="20200707002500 -0300" channel="MegaPix">
+    <title lang="pt">Comando Delta 2 - Conexão Colômbia</title>
+  </programme>
+  <programme start="20200630233000 -0300" stop="20200701014000 -0300" channel="Studio Universal">
+    <title lang="pt">Guerra Mundial Z</title>
+  </programme>
+  <programme start="20200701014000 -0300" stop="20200701032500 -0300" channel="Studio Universal">
+    <title lang="pt">Kick-Ass 2</title>
+  </programme>
+  <programme start="20200701032500 -0300" stop="20200701045500 -0300" channel="Studio Universal">
+    <title lang="pt">Um Mistério de Aurora Teagarden: O Jogo do Desaparecimento</title>
+  </programme>
+  <programme start="20200701045500 -0300" stop="20200701060000 -0300" channel="Studio Universal">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20200701060000 -0300" stop="20200701063000 -0300" channel="Studio Universal">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200701063000 -0300" stop="20200701071500 -0300" channel="Studio Universal">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20200701071500 -0300" stop="20200701090500 -0300" channel="Studio Universal">
+    <title lang="pt">I Am Bolt</title>
+  </programme>
+  <programme start="20200701090500 -0300" stop="20200701105000 -0300" channel="Studio Universal">
+    <title lang="pt">Planeta FIFA</title>
+  </programme>
+  <programme start="20200701105000 -0300" stop="20200701124000 -0300" channel="Studio Universal">
+    <title lang="pt">A Turma de '92</title>
+  </programme>
+  <programme start="20200701124000 -0300" stop="20200701145500 -0300" channel="Studio Universal">
+    <title lang="pt">Programado para Vencer</title>
+  </programme>
+  <programme start="20200701145500 -0300" stop="20200701170500 -0300" channel="Studio Universal">
+    <title lang="pt">Steve Jobs</title>
+  </programme>
+  <programme start="20200701170500 -0300" stop="20200701184500 -0300" channel="Studio Universal">
+    <title lang="pt">Vips</title>
+  </programme>
+  <programme start="20200701184500 -0300" stop="20200701191500 -0300" channel="Studio Universal">
+    <title lang="pt">Amigo de Aluguel</title>
+  </programme>
+  <programme start="20200701191500 -0300" stop="20200701200000 -0300" channel="Studio Universal">
+    <title lang="pt">Rotas do Ódio</title>
+  </programme>
+  <programme start="20200701200000 -0300" stop="20200701220000 -0300" channel="Studio Universal">
+    <title lang="pt">O Ultimato Bourne</title>
+  </programme>
+  <programme start="20200701220000 -0300" stop="20200702005500 -0300" channel="Studio Universal">
+    <title lang="pt">Jason Bourne</title>
+  </programme>
+  <programme start="20200702005500 -0300" stop="20200702025500 -0300" channel="Studio Universal">
+    <title lang="pt">Risco Total</title>
+  </programme>
+  <programme start="20200702025500 -0300" stop="20200702043000 -0300" channel="Studio Universal">
+    <title lang="pt">Los Bando</title>
+  </programme>
+  <programme start="20200702043000 -0300" stop="20200702061000 -0300" channel="Studio Universal">
+    <title lang="pt">O Galo Corococó</title>
+  </programme>
+  <programme start="20200702061000 -0300" stop="20200702065500 -0300" channel="Studio Universal">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20200702065500 -0300" stop="20200702074000 -0300" channel="Studio Universal">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20200702074000 -0300" stop="20200702091000 -0300" channel="Studio Universal">
+    <title lang="pt">Um Mistério de Aurora Teagarden: Uma Herança de Matar</title>
+  </programme>
+  <programme start="20200702091000 -0300" stop="20200702111000 -0300" channel="Studio Universal">
+    <title lang="pt">Big Bang Pelo Mundo</title>
+  </programme>
+  <programme start="20200702111000 -0300" stop="20200702125500 -0300" channel="Studio Universal">
+    <title lang="pt">Underground: A História de Julian Assange</title>
+  </programme>
+  <programme start="20200702125500 -0300" stop="20200702143000 -0300" channel="Studio Universal">
+    <title lang="pt">O Jogo Mortal</title>
+  </programme>
+  <programme start="20200702143000 -0300" stop="20200702162000 -0300" channel="Studio Universal">
+    <title lang="pt">Caribe: A Trajetória de Worricker</title>
+  </programme>
+  <programme start="20200702162000 -0300" stop="20200702181500 -0300" channel="Studio Universal">
+    <title lang="pt">O Atentado</title>
+  </programme>
+  <programme start="20200702181500 -0300" stop="20200702200000 -0300" channel="Studio Universal">
+    <title lang="pt">Circuito Fechado</title>
+  </programme>
+  <programme start="20200702200000 -0300" stop="20200702220000 -0300" channel="Studio Universal">
+    <title lang="pt">Os Agentes Do Destino</title>
+  </programme>
+  <programme start="20200702220000 -0300" stop="20200703000000 -0300" channel="Studio Universal">
+    <title lang="pt">Zona Verde</title>
+  </programme>
+  <programme start="20200703000000 -0300" stop="20200703020000 -0300" channel="Studio Universal">
+    <title lang="pt">O Ultimato Bourne</title>
+  </programme>
+  <programme start="20200703020000 -0300" stop="20200703034000 -0300" channel="Studio Universal">
+    <title lang="pt">Circuito Fechado</title>
+  </programme>
+  <programme start="20200703034000 -0300" stop="20200703051000 -0300" channel="Studio Universal">
+    <title lang="pt">Um Mistério de Aurora Teagarden: Uma Herança de Matar</title>
+  </programme>
+  <programme start="20200703051000 -0300" stop="20200703060000 -0300" channel="Studio Universal">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20200703060000 -0300" stop="20200703073500 -0300" channel="Studio Universal">
+    <title lang="pt">Um Mistério de Aurora Teagarden: O Segredo da Caveira</title>
+  </programme>
+  <programme start="20200703073500 -0300" stop="20200703091500 -0300" channel="Studio Universal">
+    <title lang="pt">Planeta FIFA</title>
+  </programme>
+  <programme start="20200703091500 -0300" stop="20200703110500 -0300" channel="Studio Universal">
+    <title lang="pt">A Turma de '92</title>
+  </programme>
+  <programme start="20200703110500 -0300" stop="20200703130500 -0300" channel="Studio Universal">
+    <title lang="pt">I Am Bolt</title>
+  </programme>
+  <programme start="20200703130500 -0300" stop="20200703144500 -0300" channel="Studio Universal">
+    <title lang="pt">Vips</title>
+  </programme>
+  <programme start="20200703144500 -0300" stop="20200703163500 -0300" channel="Studio Universal">
+    <title lang="pt">Programado para Vencer</title>
+  </programme>
+  <programme start="20200703163500 -0300" stop="20200703184500 -0300" channel="Studio Universal">
+    <title lang="pt">Steve Jobs</title>
+  </programme>
+  <programme start="20200703184500 -0300" stop="20200703191500 -0300" channel="Studio Universal">
+    <title lang="pt">Unidade Básica</title>
+  </programme>
+  <programme start="20200703191500 -0300" stop="20200703200000 -0300" channel="Studio Universal">
+    <title lang="pt">Rotas do Ódio</title>
+  </programme>
+  <programme start="20200703200000 -0300" stop="20200703214000 -0300" channel="Studio Universal">
+    <title lang="pt">Conor McGregor: Tudo Pelo Título</title>
+  </programme>
+  <programme start="20200703214000 -0300" stop="20200703233500 -0300" channel="Studio Universal">
+    <title lang="pt">O Alvo 2</title>
+  </programme>
+  <programme start="20200703233500 -0300" stop="20200704013500 -0300" channel="Studio Universal">
+    <title lang="pt">O Procurado</title>
+  </programme>
+  <programme start="20200704013500 -0300" stop="20200704030500 -0300" channel="Studio Universal">
+    <title lang="pt">O Jogo Mortal</title>
+  </programme>
+  <programme start="20200704030500 -0300" stop="20200704044000 -0300" channel="Studio Universal">
+    <title lang="pt">Um Mistério de Aurora Teagarden: O Segredo da Caveira</title>
+  </programme>
+  <programme start="20200704044000 -0300" stop="20200704052500 -0300" channel="Studio Universal">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20200704052500 -0300" stop="20200704062000 -0300" channel="Studio Universal">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200704062000 -0300" stop="20200704070500 -0300" channel="Studio Universal">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20200704070500 -0300" stop="20200704075000 -0300" channel="Studio Universal">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20200704075000 -0300" stop="20200704095000 -0300" channel="Studio Universal">
+    <title lang="pt">De Volta Para o Futuro</title>
+  </programme>
+  <programme start="20200704095000 -0300" stop="20200704115000 -0300" channel="Studio Universal">
+    <title lang="pt">De Volta para o Futuro Parte II</title>
+  </programme>
+  <programme start="20200704115000 -0300" stop="20200704135500 -0300" channel="Studio Universal">
+    <title lang="pt">De Volta Para o Futuro</title>
+  </programme>
+  <programme start="20200704135500 -0300" stop="20200704155500 -0300" channel="Studio Universal">
+    <title lang="pt">De Volta para o Futuro Parte II</title>
+  </programme>
+  <programme start="20200704155500 -0300" stop="20200704180000 -0300" channel="Studio Universal">
+    <title lang="pt">De Volta Para o Futuro</title>
+  </programme>
+  <programme start="20200704180000 -0300" stop="20200704200000 -0300" channel="Studio Universal">
+    <title lang="pt">De Volta para o Futuro Parte II</title>
+  </programme>
+  <programme start="20200704200000 -0300" stop="20200704220500 -0300" channel="Studio Universal">
+    <title lang="pt">De Volta Para o Futuro</title>
+  </programme>
+  <programme start="20200704220500 -0300" stop="20200705000500 -0300" channel="Studio Universal">
+    <title lang="pt">De Volta para o Futuro Parte II</title>
+  </programme>
+  <programme start="20200705000500 -0300" stop="20200705020500 -0300" channel="Studio Universal">
+    <title lang="pt">De Volta Para o Futuro</title>
+  </programme>
+  <programme start="20200705020500 -0300" stop="20200705040000 -0300" channel="Studio Universal">
+    <title lang="pt">De Volta para o Futuro Parte II</title>
+  </programme>
+  <programme start="20200705040000 -0300" stop="20200705060500 -0300" channel="Studio Universal">
+    <title lang="pt">De Volta Para o Futuro</title>
+  </programme>
+  <programme start="20200705060500 -0300" stop="20200705063500 -0300" channel="Studio Universal">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200705063500 -0300" stop="20200705072000 -0300" channel="Studio Universal">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20200705072000 -0300" stop="20200705091500 -0300" channel="Studio Universal">
+    <title lang="pt">Buena Vista Social Club: Adios</title>
+  </programme>
+  <programme start="20200705091500 -0300" stop="20200705111500 -0300" channel="Studio Universal">
+    <title lang="pt">Big Bang Pelo Mundo</title>
+  </programme>
+  <programme start="20200705111500 -0300" stop="20200705130000 -0300" channel="Studio Universal">
+    <title lang="pt">Falcons</title>
+  </programme>
+  <programme start="20200705130000 -0300" stop="20200705143500 -0300" channel="Studio Universal">
+    <title lang="pt">O Grande Mentiroso</title>
+  </programme>
+  <programme start="20200705143500 -0300" stop="20200705162500 -0300" channel="Studio Universal">
+    <title lang="pt">Os Batutinhas - Uma Nova Aventura</title>
+  </programme>
+  <programme start="20200705162500 -0300" stop="20200705181500 -0300" channel="Studio Universal">
+    <title lang="pt">Um Tira no Jardim de Infância 2</title>
+  </programme>
+  <programme start="20200705181500 -0300" stop="20200705200000 -0300" channel="Studio Universal">
+    <title lang="pt">Um Tira e Meio: A Nova Recruta</title>
+  </programme>
+  <programme start="20200705200000 -0300" stop="20200705215000 -0300" channel="Studio Universal">
+    <title lang="pt">Policial em Apuros</title>
+  </programme>
+  <programme start="20200705215000 -0300" stop="20200705234000 -0300" channel="Studio Universal">
+    <title lang="pt">Policial em Apuros 2</title>
+  </programme>
+  <programme start="20200705234000 -0300" stop="20200706012500 -0300" channel="Studio Universal">
+    <title lang="pt">Um Espião e Meio</title>
+  </programme>
+  <programme start="20200706012500 -0300" stop="20200706030000 -0300" channel="Studio Universal">
+    <title lang="pt">Conor McGregor: Tudo Pelo Título</title>
+  </programme>
+  <programme start="20200706030000 -0300" stop="20200706045500 -0300" channel="Studio Universal">
+    <title lang="pt">I Am Bolt</title>
+  </programme>
+  <programme start="20200706045500 -0300" stop="20200706062000 -0300" channel="Studio Universal">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20200706062000 -0300" stop="20200706070500 -0300" channel="Studio Universal">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20200706070500 -0300" stop="20200706075000 -0300" channel="Studio Universal">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20200706075000 -0300" stop="20200706093000 -0300" channel="Studio Universal">
+    <title lang="pt">Falcons</title>
+  </programme>
+  <programme start="20200706093000 -0300" stop="20200706110000 -0300" channel="Studio Universal">
+    <title lang="pt">O Grande Mentiroso</title>
+  </programme>
+  <programme start="20200706110000 -0300" stop="20200706124500 -0300" channel="Studio Universal">
+    <title lang="pt">Os Batutinhas - Uma Nova Aventura</title>
+  </programme>
+  <programme start="20200706124500 -0300" stop="20200706143500 -0300" channel="Studio Universal">
+    <title lang="pt">Um Tira no Jardim de Infância 2</title>
+  </programme>
+  <programme start="20200706143500 -0300" stop="20200706162000 -0300" channel="Studio Universal">
+    <title lang="pt">Um Tira e Meio: A Nova Recruta</title>
+  </programme>
+  <programme start="20200706162000 -0300" stop="20200706181000 -0300" channel="Studio Universal">
+    <title lang="pt">Policial em Apuros</title>
+  </programme>
+  <programme start="20200706181000 -0300" stop="20200706200000 -0300" channel="Studio Universal">
+    <title lang="pt">Policial em Apuros 2</title>
+  </programme>
+  <programme start="20200706200000 -0300" stop="20200706215500 -0300" channel="Studio Universal">
+    <title lang="pt">Um Espião e Meio</title>
+  </programme>
+  <programme start="20200706215500 -0300" stop="20200706235500 -0300" channel="Studio Universal">
+    <title lang="pt">O Procurado</title>
+  </programme>
+  <programme start="20200706235500 -0300" stop="20200707020500 -0300" channel="Studio Universal">
+    <title lang="pt">Jason Bourne</title>
+  </programme>
+  <programme start="20200630003000 -0300" stop="20200630021500 -0300" channel="Syfy">
+    <title lang="pt">O Ataque dos Vermes Malditos 5: Linhas de Sangue</title>
+  </programme>
+  <programme start="20200630021500 -0300" stop="20200630030000 -0300" channel="Syfy">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20200630030000 -0300" stop="20200630035000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200630035000 -0300" stop="20200630044000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200630044000 -0300" stop="20200630053000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200630053000 -0300" stop="20200630060000 -0300" channel="Syfy">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200630060000 -0300" stop="20200630063000 -0300" channel="Syfy">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200630063000 -0300" stop="20200630070000 -0300" channel="Syfy">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200630070000 -0300" stop="20200630074500 -0300" channel="Syfy">
+    <title lang="pt">The Outpost</title>
+  </programme>
+  <programme start="20200630074500 -0300" stop="20200630083000 -0300" channel="Syfy">
+    <title lang="pt">The Outpost</title>
+  </programme>
+  <programme start="20200630083000 -0300" stop="20200630092000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200630092000 -0300" stop="20200630101000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200630101000 -0300" stop="20200630110000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200630110000 -0300" stop="20200630115000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200630115000 -0300" stop="20200630123500 -0300" channel="Syfy">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20200630123500 -0300" stop="20200630132000 -0300" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20200630132000 -0300" stop="20200630140500 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200630140500 -0300" stop="20200630145000 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200630145000 -0300" stop="20200630163500 -0300" channel="Syfy">
+    <title lang="pt">O Ataque dos Vermes Malditos 5: Linhas de Sangue</title>
+  </programme>
+  <programme start="20200630163500 -0300" stop="20200630182000 -0300" channel="Syfy">
+    <title lang="pt">O Cemitério Maldito 2</title>
+  </programme>
+  <programme start="20200630182000 -0300" stop="20200630185000 -0300" channel="Syfy">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200630185000 -0300" stop="20200630194000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200630194000 -0300" stop="20200630203000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200630203000 -0300" stop="20200630211500 -0300" channel="Syfy">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20200630211500 -0300" stop="20200630220000 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200630220000 -0300" stop="20200630224500 -0300" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20200630224500 -0300" stop="20200701001500 -0300" channel="Syfy">
+    <title lang="pt">Brinquedo Assassino 2</title>
+  </programme>
+  <programme start="20200701001500 -0300" stop="20200701015000 -0300" channel="Syfy">
+    <title lang="pt">Brinquedo Assassino 3</title>
+  </programme>
+  <programme start="20200701015000 -0300" stop="20200701023500 -0300" channel="Syfy">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20200701023500 -0300" stop="20200701032500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200701032500 -0300" stop="20200701041500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200701041500 -0300" stop="20200701050500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200701050500 -0300" stop="20200701060500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200701060500 -0300" stop="20200701063500 -0300" channel="Syfy">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200701063500 -0300" stop="20200701080500 -0300" channel="Syfy">
+    <title lang="pt">Ataque do Tubarão de 2 Cabeças</title>
+  </programme>
+  <programme start="20200701080500 -0300" stop="20200701085500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200701085500 -0300" stop="20200701094500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200701094500 -0300" stop="20200701103500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200701103500 -0300" stop="20200701112500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200701112500 -0300" stop="20200701121500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200701121500 -0300" stop="20200701130000 -0300" channel="Syfy">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20200701130000 -0300" stop="20200701134500 -0300" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20200701134500 -0300" stop="20200701143000 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200701143000 -0300" stop="20200701151500 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200701151500 -0300" stop="20200701165000 -0300" channel="Syfy">
+    <title lang="pt">Ataque Solar</title>
+  </programme>
+  <programme start="20200701165000 -0300" stop="20200701182000 -0300" channel="Syfy">
+    <title lang="pt">O Terremoto de San Andreas</title>
+  </programme>
+  <programme start="20200701182000 -0300" stop="20200701185000 -0300" channel="Syfy">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200701185000 -0300" stop="20200701194000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200701194000 -0300" stop="20200701203000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200701203000 -0300" stop="20200701211500 -0300" channel="Syfy">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20200701211500 -0300" stop="20200701220000 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200701220000 -0300" stop="20200701224500 -0300" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20200701224500 -0300" stop="20200702002500 -0300" channel="Syfy">
+    <title lang="pt">A Família Addams</title>
+  </programme>
+  <programme start="20200702002500 -0300" stop="20200702015500 -0300" channel="Syfy">
+    <title lang="pt">A Noite da Bruxa</title>
+  </programme>
+  <programme start="20200702015500 -0300" stop="20200702024000 -0300" channel="Syfy">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20200702024000 -0300" stop="20200702033000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200702033000 -0300" stop="20200702042000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200702042000 -0300" stop="20200702051000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200702051000 -0300" stop="20200702060000 -0300" channel="Syfy">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200702060000 -0300" stop="20200702063000 -0300" channel="Syfy">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200702063000 -0300" stop="20200702071500 -0300" channel="Syfy">
+    <title lang="pt">The Outpost</title>
+  </programme>
+  <programme start="20200702071500 -0300" stop="20200702080000 -0300" channel="Syfy">
+    <title lang="pt">The Outpost</title>
+  </programme>
+  <programme start="20200702080000 -0300" stop="20200702084500 -0300" channel="Syfy">
+    <title lang="pt">The Outpost</title>
+  </programme>
+  <programme start="20200702084500 -0300" stop="20200702093500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200702093500 -0300" stop="20200702102500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200702102500 -0300" stop="20200702111500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200702111500 -0300" stop="20200702120500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200702120500 -0300" stop="20200702125000 -0300" channel="Syfy">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20200702125000 -0300" stop="20200702133500 -0300" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20200702133500 -0300" stop="20200702142000 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200702142000 -0300" stop="20200702150500 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200702150500 -0300" stop="20200702165000 -0300" channel="Syfy">
+    <title lang="pt">A Família Addams</title>
+  </programme>
+  <programme start="20200702165000 -0300" stop="20200702182000 -0300" channel="Syfy">
+    <title lang="pt">Monsterville: O Armário das Almas</title>
+  </programme>
+  <programme start="20200702182000 -0300" stop="20200702185000 -0300" channel="Syfy">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200702185000 -0300" stop="20200702194000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200702194000 -0300" stop="20200702203000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200702203000 -0300" stop="20200702211500 -0300" channel="Syfy">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20200702211500 -0300" stop="20200702220000 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200702220000 -0300" stop="20200702224500 -0300" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20200702224500 -0300" stop="20200703002000 -0300" channel="Syfy">
+    <title lang="pt">O Perigo Vem do Lago</title>
+  </programme>
+  <programme start="20200703002000 -0300" stop="20200703015000 -0300" channel="Syfy">
+    <title lang="pt">A Maldição da Bruxa: O Pesadelo</title>
+  </programme>
+  <programme start="20200703015000 -0300" stop="20200703023500 -0300" channel="Syfy">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20200703023500 -0300" stop="20200703032500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200703032500 -0300" stop="20200703041500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200703041500 -0300" stop="20200703050500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200703050500 -0300" stop="20200703053500 -0300" channel="Syfy">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200703053500 -0300" stop="20200703061500 -0300" channel="Syfy">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200703061500 -0300" stop="20200703070000 -0300" channel="Syfy">
+    <title lang="pt">The Outpost</title>
+  </programme>
+  <programme start="20200703070000 -0300" stop="20200703074500 -0300" channel="Syfy">
+    <title lang="pt">The Outpost</title>
+  </programme>
+  <programme start="20200703074500 -0300" stop="20200703083000 -0300" channel="Syfy">
+    <title lang="pt">The Outpost</title>
+  </programme>
+  <programme start="20200703083000 -0300" stop="20200703092000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200703092000 -0300" stop="20200703101000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200703101000 -0300" stop="20200703110000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200703110000 -0300" stop="20200703115000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200703115000 -0300" stop="20200703123500 -0300" channel="Syfy">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20200703123500 -0300" stop="20200703132000 -0300" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20200703132000 -0300" stop="20200703140500 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200703140500 -0300" stop="20200703145000 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200703145000 -0300" stop="20200703164500 -0300" channel="Syfy">
+    <title lang="pt">Heróis de Ressaca</title>
+  </programme>
+  <programme start="20200703164500 -0300" stop="20200703182000 -0300" channel="Syfy">
+    <title lang="pt">R.I.P.D. - Agentes Do Além</title>
+  </programme>
+  <programme start="20200703182000 -0300" stop="20200703185000 -0300" channel="Syfy">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20200703185000 -0300" stop="20200703194000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200703194000 -0300" stop="20200703203000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200703203000 -0300" stop="20200703211500 -0300" channel="Syfy">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20200703211500 -0300" stop="20200703220000 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200703220000 -0300" stop="20200703224500 -0300" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20200703224500 -0300" stop="20200704004000 -0300" channel="Syfy">
+    <title lang="pt">Cela 213: Bem-vindo ao Inferno</title>
+  </programme>
+  <programme start="20200704004000 -0300" stop="20200704021500 -0300" channel="Syfy">
+    <title lang="pt">O Misterioso Caso de Judith Winstead</title>
+  </programme>
+  <programme start="20200704021500 -0300" stop="20200704030000 -0300" channel="Syfy">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20200704030000 -0300" stop="20200704035000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200704035000 -0300" stop="20200704044000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200704044000 -0300" stop="20200704053000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200704053000 -0300" stop="20200704060500 -0300" channel="Syfy">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200704060500 -0300" stop="20200704063500 -0300" channel="Syfy">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200704063500 -0300" stop="20200704072500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200704072500 -0300" stop="20200704081500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200704081500 -0300" stop="20200704090500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200704090500 -0300" stop="20200704095500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200704095500 -0300" stop="20200704104500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200704104500 -0300" stop="20200704121500 -0300" channel="Syfy">
+    <title lang="pt">A Noite da Bruxa</title>
+  </programme>
+  <programme start="20200704121500 -0300" stop="20200704135500 -0300" channel="Syfy">
+    <title lang="pt">Não Bata na Porta</title>
+  </programme>
+  <programme start="20200704135500 -0300" stop="20200704144500 -0300" channel="Syfy">
+    <title lang="pt">The Magicians</title>
+  </programme>
+  <programme start="20200704144500 -0300" stop="20200704153000 -0300" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20200704153000 -0300" stop="20200704161500 -0300" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20200704161500 -0300" stop="20200704170000 -0300" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20200704170000 -0300" stop="20200704174500 -0300" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20200704174500 -0300" stop="20200704183000 -0300" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20200704183000 -0300" stop="20200704190000 -0300" channel="Syfy">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200704190000 -0300" stop="20200704193000 -0300" channel="Syfy">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200704193000 -0300" stop="20200704200000 -0300" channel="Syfy">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200704200000 -0300" stop="20200704203000 -0300" channel="Syfy">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200704203000 -0300" stop="20200704211500 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200704211500 -0300" stop="20200704220000 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200704220000 -0300" stop="20200704224500 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200704224500 -0300" stop="20200704233000 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200704233000 -0300" stop="20200705001500 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200705001500 -0300" stop="20200705014500 -0300" channel="Syfy">
+    <title lang="pt">A Seita Maligna</title>
+  </programme>
+  <programme start="20200705014500 -0300" stop="20200705033500 -0300" channel="Syfy">
+    <title lang="pt">Cela 213: Bem-vindo ao Inferno</title>
+  </programme>
+  <programme start="20200705033500 -0300" stop="20200705050500 -0300" channel="Syfy">
+    <title lang="pt">O Misterioso Caso de Judith Winstead</title>
+  </programme>
+  <programme start="20200705050500 -0300" stop="20200705053500 -0300" channel="Syfy">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200705053500 -0300" stop="20200705061500 -0300" channel="Syfy">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200705061500 -0300" stop="20200705070500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200705070500 -0300" stop="20200705075500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200705075500 -0300" stop="20200705084500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200705084500 -0300" stop="20200705093500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200705093500 -0300" stop="20200705102500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200705102500 -0300" stop="20200705111500 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200705111500 -0300" stop="20200705125000 -0300" channel="Syfy">
+    <title lang="pt">O Perigo Vem do Lago</title>
+  </programme>
+  <programme start="20200705125000 -0300" stop="20200705142000 -0300" channel="Syfy">
+    <title lang="pt">A Maldição da Bruxa: O Pesadelo</title>
+  </programme>
+  <programme start="20200705142000 -0300" stop="20200705160000 -0300" channel="Syfy">
+    <title lang="pt">A Dama Do Espelho: O Ritual Das Trevas</title>
+  </programme>
+  <programme start="20200705160000 -0300" stop="20200705164500 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200705164500 -0300" stop="20200705173000 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200705173000 -0300" stop="20200705181500 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200705181500 -0300" stop="20200705190000 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200705190000 -0300" stop="20200705194500 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200705194500 -0300" stop="20200705203000 -0300" channel="Syfy">
+    <title lang="pt">The Magicians</title>
+  </programme>
+  <programme start="20200705203000 -0300" stop="20200705211500 -0300" channel="Syfy">
+    <title lang="pt">The Magicians</title>
+  </programme>
+  <programme start="20200705211500 -0300" stop="20200705225000 -0300" channel="Syfy">
+    <title lang="pt">A Escuridão</title>
+  </programme>
+  <programme start="20200705225000 -0300" stop="20200706003000 -0300" channel="Syfy">
+    <title lang="pt">A Visita</title>
+  </programme>
+  <programme start="20200706003000 -0300" stop="20200706011500 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200706011500 -0300" stop="20200706020000 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200706020000 -0300" stop="20200706024500 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200706024500 -0300" stop="20200706033000 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200706033000 -0300" stop="20200706041500 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200706041500 -0300" stop="20200706061500 -0300" channel="Syfy">
+    <title lang="pt">A Seita Maligna</title>
+  </programme>
+  <programme start="20200706061500 -0300" stop="20200706070000 -0300" channel="Syfy">
+    <title lang="pt">The Outpost</title>
+  </programme>
+  <programme start="20200706070000 -0300" stop="20200706074500 -0300" channel="Syfy">
+    <title lang="pt">The Outpost</title>
+  </programme>
+  <programme start="20200706074500 -0300" stop="20200706083000 -0300" channel="Syfy">
+    <title lang="pt">The Outpost</title>
+  </programme>
+  <programme start="20200706083000 -0300" stop="20200706092000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200706092000 -0300" stop="20200706101000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200706101000 -0300" stop="20200706110000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200706110000 -0300" stop="20200706115000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200706115000 -0300" stop="20200706123500 -0300" channel="Syfy">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20200706123500 -0300" stop="20200706132000 -0300" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20200706132000 -0300" stop="20200706140500 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200706140500 -0300" stop="20200706145000 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200706145000 -0300" stop="20200706164500 -0300" channel="Syfy">
+    <title lang="pt">Antimatéria</title>
+  </programme>
+  <programme start="20200706164500 -0300" stop="20200706182000 -0300" channel="Syfy">
+    <title lang="pt">O Despertar</title>
+  </programme>
+  <programme start="20200706182000 -0300" stop="20200706185000 -0300" channel="Syfy">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20200706185000 -0300" stop="20200706194000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200706194000 -0300" stop="20200706203000 -0300" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20200706203000 -0300" stop="20200706211500 -0300" channel="Syfy">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20200706211500 -0300" stop="20200706220000 -0300" channel="Syfy">
+    <title lang="pt">Lucifer</title>
+  </programme>
+  <programme start="20200706220000 -0300" stop="20200706224500 -0300" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20200706224500 -0300" stop="20200707003000 -0300" channel="Syfy">
+    <title lang="pt">O Cemitério Maldito 2</title>
+  </programme>
+  <programme start="20200630003000 -0300" stop="20200630010000 -0300" channel="Canal Brasil">
+    <title lang="pt">Larica Total - Atura o Parabéns</title>
+  </programme>
+  <programme start="20200630010000 -0300" stop="20200630013500 -0300" channel="Canal Brasil">
+    <title lang="pt">Larica Total - Audiovisual Boy</title>
+  </programme>
+  <programme start="20200630013500 -0300" stop="20200630033000 -0300" channel="Canal Brasil">
+    <title lang="pt">A Festa da Menina Morta</title>
+  </programme>
+  <programme start="20200630033000 -0300" stop="20200630034500 -0300" channel="Canal Brasil">
+    <title lang="pt">Pornolândia</title>
+  </programme>
+  <programme start="20200630034500 -0300" stop="20200630040000 -0300" channel="Canal Brasil">
+    <title lang="pt">Um Copo de Veneno</title>
+  </programme>
+  <programme start="20200630040000 -0300" stop="20200630052500 -0300" channel="Canal Brasil">
+    <title lang="pt">Especial Orgulho Lgbtqi+: Mr. Leather</title>
+  </programme>
+  <programme start="20200630052500 -0300" stop="20200630070000 -0300" channel="Canal Brasil">
+    <title lang="pt">O Desafio</title>
+  </programme>
+  <programme start="20200630070000 -0300" stop="20200630083500 -0300" channel="Canal Brasil">
+    <title lang="pt">Todas as Mulheres do Mundo</title>
+  </programme>
+  <programme start="20200630083500 -0300" stop="20200630093500 -0300" channel="Canal Brasil">
+    <title lang="pt">Rota de Fuga</title>
+  </programme>
+  <programme start="20200630093500 -0300" stop="20200630110000 -0300" channel="Canal Brasil">
+    <title lang="pt">Eu Não Faço a Menor Ideia do Que Eu Tô Fazendo Com a Minha Vida</title>
+  </programme>
+  <programme start="20200630110000 -0300" stop="20200630124500 -0300" channel="Canal Brasil">
+    <title lang="pt">In-Edit Brasil: Bunch Of Kunst - Um Filme sobre Os Sleaford Mods</title>
+  </programme>
+  <programme start="20200630124500 -0300" stop="20200630130000 -0300" channel="Canal Brasil">
+    <title lang="pt">Transmissão - Criolo</title>
+  </programme>
+  <programme start="20200630130000 -0300" stop="20200630133000 -0300" channel="Canal Brasil">
+    <title lang="pt">Curta na Tela: Paranoia Doce</title>
+  </programme>
+  <programme start="20200630133000 -0300" stop="20200630140000 -0300" channel="Canal Brasil">
+    <title lang="pt">A Arte do Encontro</title>
+  </programme>
+  <programme start="20200630140000 -0300" stop="20200630153500 -0300" channel="Canal Brasil">
+    <title lang="pt">Os Trombadinhas</title>
+  </programme>
+  <programme start="20200630153500 -0300" stop="20200630162000 -0300" channel="Canal Brasil">
+    <title lang="pt">Meio Expediente</title>
+  </programme>
+  <programme start="20200630162000 -0300" stop="20200630175000 -0300" channel="Canal Brasil">
+    <title lang="pt">Tempos de Paz</title>
+  </programme>
+  <programme start="20200630175000 -0300" stop="20200630190500 -0300" channel="Canal Brasil">
+    <title lang="pt">Mussum - Um Filme do Cacildis</title>
+  </programme>
+  <programme start="20200630190500 -0300" stop="20200630203000 -0300" channel="Canal Brasil">
+    <title lang="pt">Sequestro Relâmpago</title>
+  </programme>
+  <programme start="20200630203000 -0300" stop="20200630215000 -0300" channel="Canal Brasil">
+    <title lang="pt">Mobília em Casa - Móveis Coloniais de Acaju e a Cidade</title>
+  </programme>
+  <programme start="20200630215000 -0300" stop="20200630220000 -0300" channel="Canal Brasil">
+    <title lang="pt">Cinejornal</title>
+  </programme>
+  <programme start="20200630220000 -0300" stop="20200630235500 -0300" channel="Canal Brasil">
+    <title lang="pt">Estrangeiro Film Festival: Corpo e Alma</title>
+  </programme>
+  <programme start="20200630235500 -0300" stop="20200701014000 -0300" channel="Canal Brasil">
+    <title lang="pt">Boi Neon</title>
+  </programme>
+  <programme start="20200701014000 -0300" stop="20200701033000 -0300" channel="Canal Brasil">
+    <title lang="pt">Big Jato</title>
+  </programme>
+  <programme start="20200701033000 -0300" stop="20200701034600 -0300" channel="Canal Brasil">
+    <title lang="pt">Curta na Tela: Desvelo</title>
+  </programme>
+  <programme start="20200701034600 -0300" stop="20200701040000 -0300" channel="Canal Brasil">
+    <title lang="pt">Curta na Tela: O Beijo</title>
+  </programme>
+  <programme start="20200701040000 -0300" stop="20200701053500 -0300" channel="Canal Brasil">
+    <title lang="pt">Especial Orgulho Lgbtqi+: Hoje Eu Quero Voltar Sozinho</title>
+  </programme>
+  <programme start="20200701053500 -0300" stop="20200701055000 -0300" channel="Canal Brasil">
+    <title lang="pt">Pornolândia</title>
+  </programme>
+  <programme start="20200701055000 -0300" stop="20200701070000 -0300" channel="Canal Brasil">
+    <title lang="pt">Papão de 54</title>
+  </programme>
+  <programme start="20200701070000 -0300" stop="20200701074000 -0300" channel="Canal Brasil">
+    <title lang="pt">O País do Cinema</title>
+  </programme>
+  <programme start="20200701074000 -0300" stop="20200701081000 -0300" channel="Canal Brasil">
+    <title lang="pt">Curta na Tela</title>
+  </programme>
+  <programme start="20200701081000 -0300" stop="20200701095500 -0300" channel="Canal Brasil">
+    <title lang="pt">Portugal... Minha Saudade</title>
+  </programme>
+  <programme start="20200701095500 -0300" stop="20200701112000 -0300" channel="Canal Brasil">
+    <title lang="pt">Faixa Musical: Ney Matogrosso - Beijo Bandido</title>
+  </programme>
+  <programme start="20200701112000 -0300" stop="20200701130000 -0300" channel="Canal Brasil">
+    <title lang="pt">O Outro Lado da Rua</title>
+  </programme>
+  <programme start="20200701130000 -0300" stop="20200701133000 -0300" channel="Canal Brasil">
+    <title lang="pt">Curta na Tela</title>
+  </programme>
+  <programme start="20200701133000 -0300" stop="20200701134000 -0300" channel="Canal Brasil">
+    <title lang="pt">Cinejornal</title>
+  </programme>
+  <programme start="20200701134000 -0300" stop="20200701151500 -0300" channel="Canal Brasil">
+    <title lang="pt">O Pagador de Promessas</title>
+  </programme>
+  <programme start="20200701151500 -0300" stop="20200701153500 -0300" channel="Canal Brasil">
+    <title lang="pt">Transmissão - Criolo</title>
+  </programme>
+  <programme start="20200701153500 -0300" stop="20200701160000 -0300" channel="Canal Brasil">
+    <title lang="pt">Curta Na Tela: Ludibrium</title>
+  </programme>
+  <programme start="20200701160000 -0300" stop="20200701173500 -0300" channel="Canal Brasil">
+    <title lang="pt">In-Edit Brasil: Meu Amigo Fela</title>
+  </programme>
+  <programme start="20200701173500 -0300" stop="20200701180500 -0300" channel="Canal Brasil">
+    <title lang="pt">A Trilha do Rock no Brasil</title>
+  </programme>
+  <programme start="20200701180500 -0300" stop="20200701194500 -0300" channel="Canal Brasil">
+    <title lang="pt">Narradores de Javé</title>
+  </programme>
+  <programme start="20200701194500 -0300" stop="20200701200000 -0300" channel="Canal Brasil">
+    <title lang="pt">Ouro Velho, Mundo Novo</title>
+  </programme>
+  <programme start="20200701200000 -0300" stop="20200701213000 -0300" channel="Canal Brasil">
+    <title lang="pt">É Tudo Verdade: Tropicália</title>
+  </programme>
+  <programme start="20200701213000 -0300" stop="20200701231500 -0300" channel="Canal Brasil">
+    <title lang="pt">Madame Satã</title>
+  </programme>
+  <programme start="20200701231500 -0300" stop="20200702010000 -0300" channel="Canal Brasil">
+    <title lang="pt">Faroeste Caboclo</title>
+  </programme>
+  <programme start="20200702010000 -0300" stop="20200702022500 -0300" channel="Canal Brasil">
+    <title lang="pt">Tentação na Cama</title>
+  </programme>
+  <programme start="20200702022500 -0300" stop="20200702040000 -0300" channel="Canal Brasil">
+    <title lang="pt">Caçada Sangrenta</title>
+  </programme>
+  <programme start="20200702040000 -0300" stop="20200702060000 -0300" channel="Canal Brasil">
+    <title lang="pt">Especial Orgulho Lgbtqi+: Divinas Divas</title>
+  </programme>
+  <programme start="20200702060000 -0300" stop="20200702063000 -0300" channel="Canal Brasil">
+    <title lang="pt">Curta na Tela</title>
+  </programme>
+  <programme start="20200702063000 -0300" stop="20200702070000 -0300" channel="Canal Brasil">
+    <title lang="pt">A Trilha do Rock no Brasil</title>
+  </programme>
+  <programme start="20200702070000 -0300" stop="20200702073500 -0300" channel="Canal Brasil">
+    <title lang="pt">A Arte do Encontro</title>
+  </programme>
+  <programme start="20200702073500 -0300" stop="20200702091500 -0300" channel="Canal Brasil">
+    <title lang="pt">Um Caipira em Bariloche</title>
+  </programme>
+  <programme start="20200702091500 -0300" stop="20200702110500 -0300" channel="Canal Brasil">
+    <title lang="pt">Nelson 70 - Documentário</title>
+  </programme>
+  <programme start="20200702110500 -0300" stop="20200702130000 -0300" channel="Canal Brasil">
+    <title lang="pt">Faixa Musical: Sambabook - Zeca Pagodinho</title>
+  </programme>
+  <programme start="20200702130000 -0300" stop="20200702133000 -0300" channel="Canal Brasil">
+    <title lang="pt">Curta Na Tela: Ludibrium</title>
+  </programme>
+  <programme start="20200702133000 -0300" stop="20200702141000 -0300" channel="Canal Brasil">
+    <title lang="pt">O Som do Vinil</title>
+  </programme>
+  <programme start="20200702141000 -0300" stop="20200702143800 -0300" channel="Canal Brasil">
+    <title lang="pt">Maratona Xingu</title>
+  </programme>
+  <programme start="20200702143800 -0300" stop="20200702150300 -0300" channel="Canal Brasil">
+    <title lang="pt">Maratona Xingu</title>
+  </programme>
+  <programme start="20200702150300 -0300" stop="20200702152700 -0300" channel="Canal Brasil">
+    <title lang="pt">Maratona Xingu</title>
+  </programme>
+  <programme start="20200702152700 -0300" stop="20200702160000 -0300" channel="Canal Brasil">
+    <title lang="pt">Maratona Xingu</title>
+  </programme>
+  <programme start="20200702160000 -0300" stop="20200702174500 -0300" channel="Canal Brasil">
+    <title lang="pt">In-Edit Brasil: Bunch Of Kunst - Um Filme sobre Os Sleaford Mods</title>
+  </programme>
+  <programme start="20200702174500 -0300" stop="20200702182000 -0300" channel="Canal Brasil">
+    <title lang="pt">A Trilha do Rock no Brasil</title>
+  </programme>
+  <programme start="20200702182000 -0300" stop="20200702195000 -0300" channel="Canal Brasil">
+    <title lang="pt">É Tudo Verdade: Tropicália</title>
+  </programme>
+  <programme start="20200702195000 -0300" stop="20200702200000 -0300" channel="Canal Brasil">
+    <title lang="pt">Cinejornal</title>
+  </programme>
+  <programme start="20200702200000 -0300" stop="20200702203500 -0300" channel="Canal Brasil">
+    <title lang="pt">Lama dos Dias</title>
+  </programme>
+  <programme start="20200702203500 -0300" stop="20200702221500 -0300" channel="Canal Brasil">
+    <title lang="pt">O Outro Lado do Paraíso</title>
+  </programme>
+  <programme start="20200702221500 -0300" stop="20200703000000 -0300" channel="Canal Brasil">
+    <title lang="pt">O Auto da Compadecida</title>
+  </programme>
+  <programme start="20200703000000 -0300" stop="20200703003000 -0300" channel="Canal Brasil">
+    <title lang="pt">O País do Cinema</title>
+  </programme>
+  <programme start="20200703003000 -0300" stop="20200703022000 -0300" channel="Canal Brasil">
+    <title lang="pt">Além da Paixão</title>
+  </programme>
+  <programme start="20200703022000 -0300" stop="20200703035000 -0300" channel="Canal Brasil">
+    <title lang="pt">Gente Fina é outra Coisa</title>
+  </programme>
+  <programme start="20200703035000 -0300" stop="20200703051500 -0300" channel="Canal Brasil">
+    <title lang="pt">O Estranho Mundo de Zé do Caixão</title>
+  </programme>
+  <programme start="20200703051500 -0300" stop="20200703063000 -0300" channel="Canal Brasil">
+    <title lang="pt">Fábio Leão - Entre o Crime e o Ringue</title>
+  </programme>
+  <programme start="20200703063000 -0300" stop="20200703070000 -0300" channel="Canal Brasil">
+    <title lang="pt">A Trilha do Rock no Brasil</title>
+  </programme>
+  <programme start="20200703070000 -0300" stop="20200703073000 -0300" channel="Canal Brasil">
+    <title lang="pt">O Som do Vinil</title>
+  </programme>
+  <programme start="20200703073000 -0300" stop="20200703095200 -0300" channel="Canal Brasil">
+    <title lang="pt">Anchieta, José do Brasil</title>
+  </programme>
+  <programme start="20200703095200 -0300" stop="20200703112300 -0300" channel="Canal Brasil">
+    <title lang="pt">Golias contra o Homem das Bolinhas</title>
+  </programme>
+  <programme start="20200703112300 -0300" stop="20200703130000 -0300" channel="Canal Brasil">
+    <title lang="pt">Jorge Mautner - O Filho do Holocausto</title>
+  </programme>
+  <programme start="20200703130000 -0300" stop="20200703133000 -0300" channel="Canal Brasil">
+    <title lang="pt">Curta na Tela</title>
+  </programme>
+  <programme start="20200703133000 -0300" stop="20200703134500 -0300" channel="Canal Brasil">
+    <title lang="pt">Cinejornal</title>
+  </programme>
+  <programme start="20200703134500 -0300" stop="20200703143500 -0300" channel="Canal Brasil">
+    <title lang="pt">Éramos Reis</title>
+  </programme>
+  <programme start="20200703143500 -0300" stop="20200703160000 -0300" channel="Canal Brasil">
+    <title lang="pt">Máscara da Traição</title>
+  </programme>
+  <programme start="20200703160000 -0300" stop="20200703173000 -0300" channel="Canal Brasil">
+    <title lang="pt">É Tudo Verdade: Tropicália</title>
+  </programme>
+  <programme start="20200703173000 -0300" stop="20200703180000 -0300" channel="Canal Brasil">
+    <title lang="pt">A Trilha do Rock no Brasil</title>
+  </programme>
+  <programme start="20200703180000 -0300" stop="20200703183000 -0300" channel="Canal Brasil">
+    <title lang="pt">Rio de Topless</title>
+  </programme>
+  <programme start="20200703183000 -0300" stop="20200703190000 -0300" channel="Canal Brasil">
+    <title lang="pt">Lama dos Dias</title>
+  </programme>
+  <programme start="20200703190000 -0300" stop="20200703202500 -0300" channel="Canal Brasil">
+    <title lang="pt">In-Edit Brasil: Guardiões do Samba</title>
+  </programme>
+  <programme start="20200703202500 -0300" stop="20200703220000 -0300" channel="Canal Brasil">
+    <title lang="pt">Muita Calma Nessa Hora 2</title>
+  </programme>
+  <programme start="20200703220000 -0300" stop="20200703233000 -0300" channel="Canal Brasil">
+    <title lang="pt">Larica Total - Self-Ceviche Milenar</title>
+  </programme>
+  <programme start="20200703233000 -0300" stop="20200704011500 -0300" channel="Canal Brasil">
+    <title lang="pt">Madame Satã</title>
+  </programme>
+  <programme start="20200704011500 -0300" stop="20200704030000 -0300" channel="Canal Brasil">
+    <title lang="pt">A Rainha Diaba</title>
+  </programme>
+  <programme start="20200704030000 -0300" stop="20200704044500 -0300" channel="Canal Brasil">
+    <title lang="pt">O Bem Dotado, o Homem de Itu</title>
+  </programme>
+  <programme start="20200704044500 -0300" stop="20200704063000 -0300" channel="Canal Brasil">
+    <title lang="pt">Faroeste Caboclo</title>
+  </programme>
+  <programme start="20200704063000 -0300" stop="20200704070000 -0300" channel="Canal Brasil">
+    <title lang="pt">A Trilha do Rock no Brasil</title>
+  </programme>
+  <programme start="20200704070000 -0300" stop="20200704073000 -0300" channel="Canal Brasil">
+    <title lang="pt">Rio de Topless</title>
+  </programme>
+  <programme start="20200704073000 -0300" stop="20200704074500 -0300" channel="Canal Brasil">
+    <title lang="pt">Transmissão - Criolo</title>
+  </programme>
+  <programme start="20200704074500 -0300" stop="20200704094500 -0300" channel="Canal Brasil">
+    <title lang="pt">10 Segundos para Vencer</title>
+  </programme>
+  <programme start="20200704094500 -0300" stop="20200704111500 -0300" channel="Canal Brasil">
+    <title lang="pt">O Palhaço</title>
+  </programme>
+  <programme start="20200704111500 -0300" stop="20200704130000 -0300" channel="Canal Brasil">
+    <title lang="pt">O Auto da Compadecida</title>
+  </programme>
+  <programme start="20200704130000 -0300" stop="20200704133000 -0300" channel="Canal Brasil">
+    <title lang="pt">O País do Cinema</title>
+  </programme>
+  <programme start="20200704133000 -0300" stop="20200704150000 -0300" channel="Canal Brasil">
+    <title lang="pt">Larica Total - Self-Ceviche Milenar</title>
+  </programme>
+  <programme start="20200704150000 -0300" stop="20200704160000 -0300" channel="Canal Brasil">
+    <title lang="pt">Rota de Fuga</title>
+  </programme>
+  <programme start="20200704160000 -0300" stop="20200704172000 -0300" channel="Canal Brasil">
+    <title lang="pt">É Proibido Fumar</title>
+  </programme>
+  <programme start="20200704172000 -0300" stop="20200704173000 -0300" channel="Canal Brasil">
+    <title lang="pt">Cinejornal</title>
+  </programme>
+  <programme start="20200704173000 -0300" stop="20200704175500 -0300" channel="Canal Brasil">
+    <title lang="pt">A Trilha do Rock no Brasil</title>
+  </programme>
+  <programme start="20200704175500 -0300" stop="20200704182000 -0300" channel="Canal Brasil">
+    <title lang="pt">Curta na Tela</title>
+  </programme>
+  <programme start="20200704182000 -0300" stop="20200704190000 -0300" channel="Canal Brasil">
+    <title lang="pt">Pelé - Um Rei Desconhecido</title>
+  </programme>
+  <programme start="20200704190000 -0300" stop="20200704202500 -0300" channel="Canal Brasil">
+    <title lang="pt">In-Edit Brasil: Strike A Pose - A Vida após Madonna</title>
+  </programme>
+  <programme start="20200704202500 -0300" stop="20200704215000 -0300" channel="Canal Brasil">
+    <title lang="pt">Minha Mãe é uma Peça</title>
+  </programme>
+  <programme start="20200704215000 -0300" stop="20200704234500 -0300" channel="Canal Brasil">
+    <title lang="pt">Alemão</title>
+  </programme>
+  <programme start="20200704234500 -0300" stop="20200705013000 -0300" channel="Canal Brasil">
+    <title lang="pt">Matou a Família e Foi ao Cinema (1991)</title>
+  </programme>
+  <programme start="20200705013000 -0300" stop="20200705030000 -0300" channel="Canal Brasil">
+    <title lang="pt">Larica Total - Self-Ceviche Milenar</title>
+  </programme>
+  <programme start="20200705030000 -0300" stop="20200705045500 -0300" channel="Canal Brasil">
+    <title lang="pt">Estrangeiro Film Festival: Corpo e Alma</title>
+  </programme>
+  <programme start="20200705045500 -0300" stop="20200705063000 -0300" channel="Canal Brasil">
+    <title lang="pt">Violência na Carne</title>
+  </programme>
+  <programme start="20200705063000 -0300" stop="20200705070000 -0300" channel="Canal Brasil">
+    <title lang="pt">A Trilha do Rock no Brasil</title>
+  </programme>
+  <programme start="20200705070000 -0300" stop="20200705093000 -0300" channel="Canal Brasil">
+    <title lang="pt">Maratona Curta na Tela</title>
+  </programme>
+  <programme start="20200705093000 -0300" stop="20200705094000 -0300" channel="Canal Brasil">
+    <title lang="pt">Cinejornal</title>
+  </programme>
+  <programme start="20200705094000 -0300" stop="20200705110000 -0300" channel="Canal Brasil">
+    <title lang="pt">Larica Total - Self-Ceviche Milenar</title>
+  </programme>
+  <programme start="20200705110000 -0300" stop="20200705113000 -0300" channel="Canal Brasil">
+    <title lang="pt">Lama dos Dias</title>
+  </programme>
+  <programme start="20200705113000 -0300" stop="20200705130000 -0300" channel="Canal Brasil">
+    <title lang="pt">É Tudo Verdade: Tropicália</title>
+  </programme>
+  <programme start="20200705130000 -0300" stop="20200705143000 -0300" channel="Canal Brasil">
+    <title lang="pt">Os Normais</title>
+  </programme>
+  <programme start="20200705143000 -0300" stop="20200705155500 -0300" channel="Canal Brasil">
+    <title lang="pt">Polaróides Urbanas</title>
+  </programme>
+  <programme start="20200705155500 -0300" stop="20200705173000 -0300" channel="Canal Brasil">
+    <title lang="pt">Não Se Preocupe, Nada Vai Dar Certo!</title>
+  </programme>
+  <programme start="20200705173000 -0300" stop="20200705180000 -0300" channel="Canal Brasil">
+    <title lang="pt">A Trilha do Rock no Brasil</title>
+  </programme>
+  <programme start="20200705180000 -0300" stop="20200705194500 -0300" channel="Canal Brasil">
+    <title lang="pt">O Homem que Desafiou o Diabo</title>
+  </programme>
+  <programme start="20200705194500 -0300" stop="20200705212000 -0300" channel="Canal Brasil">
+    <title lang="pt">Divã</title>
+  </programme>
+  <programme start="20200705212000 -0300" stop="20200705225000 -0300" channel="Canal Brasil">
+    <title lang="pt">Um Homem Só</title>
+  </programme>
+  <programme start="20200705225000 -0300" stop="20200706005500 -0300" channel="Canal Brasil">
+    <title lang="pt">Canastra Suja</title>
+  </programme>
+  <programme start="20200706005500 -0300" stop="20200706021500 -0300" channel="Canal Brasil">
+    <title lang="pt">O Primeiro Dia</title>
+  </programme>
+  <programme start="20200706021500 -0300" stop="20200706040000 -0300" channel="Canal Brasil">
+    <title lang="pt">Boi Neon</title>
+  </programme>
+  <programme start="20200706040000 -0300" stop="20200706053000 -0300" channel="Canal Brasil">
+    <title lang="pt">Como Salvar Meu Casamento</title>
+  </programme>
+  <programme start="20200706053000 -0300" stop="20200706063000 -0300" channel="Canal Brasil">
+    <title lang="pt">GIG - A Uberização do Trabalho</title>
+  </programme>
+  <programme start="20200706063000 -0300" stop="20200706070000 -0300" channel="Canal Brasil">
+    <title lang="pt">A Trilha do Rock no Brasil</title>
+  </programme>
+  <programme start="20200706070000 -0300" stop="20200706072800 -0300" channel="Canal Brasil">
+    <title lang="pt">Maratona Xingu</title>
+  </programme>
+  <programme start="20200706072800 -0300" stop="20200706075300 -0300" channel="Canal Brasil">
+    <title lang="pt">Maratona Xingu</title>
+  </programme>
+  <programme start="20200706075300 -0300" stop="20200706081700 -0300" channel="Canal Brasil">
+    <title lang="pt">Maratona Xingu</title>
+  </programme>
+  <programme start="20200706081700 -0300" stop="20200706084500 -0300" channel="Canal Brasil">
+    <title lang="pt">Maratona Xingu</title>
+  </programme>
+  <programme start="20200706084500 -0300" stop="20200706090000 -0300" channel="Canal Brasil">
+    <title lang="pt">Um Copo de Veneno</title>
+  </programme>
+  <programme start="20200706090000 -0300" stop="20200706110000 -0300" channel="Canal Brasil">
+    <title lang="pt">O Amuleto de Ogum</title>
+  </programme>
+  <programme start="20200706110000 -0300" stop="20200706122000 -0300" channel="Canal Brasil">
+    <title lang="pt">In-Edit Brasil: Guardiões do Samba</title>
+  </programme>
+  <programme start="20200706122000 -0300" stop="20200706130000 -0300" channel="Canal Brasil">
+    <title lang="pt">Felipa e o Foguete</title>
+  </programme>
+  <programme start="20200706130000 -0300" stop="20200706133000 -0300" channel="Canal Brasil">
+    <title lang="pt">Curta Na Tela: Rise</title>
+  </programme>
+  <programme start="20200706133000 -0300" stop="20200706134000 -0300" channel="Canal Brasil">
+    <title lang="pt">Cinejornal</title>
+  </programme>
+  <programme start="20200706134000 -0300" stop="20200706135500 -0300" channel="Canal Brasil">
+    <title lang="pt">Ouro Velho, Mundo Novo</title>
+  </programme>
+  <programme start="20200706135500 -0300" stop="20200706153500 -0300" channel="Canal Brasil">
+    <title lang="pt">Narradores de Javé</title>
+  </programme>
+  <programme start="20200706153500 -0300" stop="20200706173000 -0300" channel="Canal Brasil">
+    <title lang="pt">Que Horas Ela Volta?</title>
+  </programme>
+  <programme start="20200706173000 -0300" stop="20200706180000 -0300" channel="Canal Brasil">
+    <title lang="pt">A Trilha do Rock no Brasil</title>
+  </programme>
+  <programme start="20200706180000 -0300" stop="20200706193000 -0300" channel="Canal Brasil">
+    <title lang="pt">Mês do Rock: Jovem aos 50 - a História de Meio Século da Jovem Guarda</title>
+  </programme>
+  <programme start="20200706193000 -0300" stop="20200706211000 -0300" channel="Canal Brasil">
+    <title lang="pt">De Pernas Pro Ar</title>
+  </programme>
+  <programme start="20200706211000 -0300" stop="20200706230000 -0300" channel="Canal Brasil">
+    <title lang="pt">Pendular</title>
+  </programme>
+  <programme start="20200706230000 -0300" stop="20200706233000 -0300" channel="Canal Brasil">
+    <title lang="pt">O Som do Vinil</title>
+  </programme>
+  <programme start="20200706233000 -0300" stop="20200707000000 -0300" channel="Canal Brasil">
+    <title lang="pt">A Arte do Encontro</title>
   </programme>
 </tv>
