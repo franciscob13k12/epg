@@ -4,9 +4,26 @@
     <display-name lang="pt">Telecine Premium</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20200629220000 -0300" stop="20200630001500 -0300" channel="Telecine Premium">
-    <title lang="pt">Downton Abbey</title>
-  </programme>
+  <channel id="Telecine Action">
+    <display-name lang="pt">Telecine Action</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Touch">
+    <display-name lang="pt">Telecine Touch</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Pipoca">
+    <display-name lang="pt">Telecine Pipoca</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Cult">
+    <display-name lang="pt">Telecine Cult</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Fun">
+    <display-name lang="pt">Telecine Fun</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <programme start="20200630001500 -0300" stop="20200630022500 -0300" channel="Telecine Premium">
     <title lang="pt">O Menino Que Queria Ser Rei</title>
   </programme>
@@ -237,5 +254,1235 @@
   </programme>
   <programme start="20200705220000 -0300" stop="20200706000000 -0300" channel="Telecine Premium">
     <title lang="pt">Minha Mãe é Uma Peça 3</title>
+  </programme>
+  <programme start="20200706000000 -0300" stop="20200706020000 -0300" channel="Telecine Premium">
+    <title lang="pt">Yesterday</title>
+  </programme>
+  <programme start="20200706020000 -0300" stop="20200706035000 -0300" channel="Telecine Premium">
+    <title lang="pt">O Príncipe Feliz</title>
+  </programme>
+  <programme start="20200706035000 -0300" stop="20200706054000 -0300" channel="Telecine Premium">
+    <title lang="pt">Zoe</title>
+  </programme>
+  <programme start="20200706054000 -0300" stop="20200706072000 -0300" channel="Telecine Premium">
+    <title lang="pt">A Vigilante</title>
+  </programme>
+  <programme start="20200706072000 -0300" stop="20200706091500 -0300" channel="Telecine Premium">
+    <title lang="pt">Irmãs Por Acaso</title>
+  </programme>
+  <programme start="20200706091500 -0300" stop="20200706105000 -0300" channel="Telecine Premium">
+    <title lang="pt">Astérix e o Segredo da Poção Mágica</title>
+  </programme>
+  <programme start="20200706105000 -0300" stop="20200706124000 -0300" channel="Telecine Premium">
+    <title lang="pt">Lugares Santos</title>
+  </programme>
+  <programme start="20200706124000 -0300" stop="20200706144500 -0300" channel="Telecine Premium">
+    <title lang="pt">A Vingança Está na Moda</title>
+  </programme>
+  <programme start="20200706144500 -0300" stop="20200706164500 -0300" channel="Telecine Premium">
+    <title lang="pt">De Pernas Pro Ar 3</title>
+  </programme>
+  <programme start="20200706164500 -0300" stop="20200706184000 -0300" channel="Telecine Premium">
+    <title lang="pt">Meu Amigo Enzo</title>
+  </programme>
+  <programme start="20200706184000 -0300" stop="20200706202500 -0300" channel="Telecine Premium">
+    <title lang="pt">Stuber - a Corrida Maluca</title>
+  </programme>
+  <programme start="20200706202500 -0300" stop="20200706220000 -0300" channel="Telecine Premium">
+    <title lang="pt">A Família Addams (2019)</title>
+  </programme>
+  <programme start="20200706220000 -0300" stop="20200707000500 -0300" channel="Telecine Premium">
+    <title lang="pt">Alita: Anjo de Combate</title>
+  </programme>
+  <programme start="20200630235500 -0300" stop="20200701013000 -0300" channel="Telecine Action">
+    <title lang="pt">Noite do Terror 2</title>
+  </programme>
+  <programme start="20200701013000 -0300" stop="20200701035500 -0300" channel="Telecine Action">
+    <title lang="pt">Divergente</title>
+  </programme>
+  <programme start="20200701035500 -0300" stop="20200701060500 -0300" channel="Telecine Action">
+    <title lang="pt">Do Inferno</title>
+  </programme>
+  <programme start="20200701060500 -0300" stop="20200701075000 -0300" channel="Telecine Action">
+    <title lang="pt">O Sequestro</title>
+  </programme>
+  <programme start="20200701075000 -0300" stop="20200701094500 -0300" channel="Telecine Action">
+    <title lang="pt">Os Aventureiros Do Fogo</title>
+  </programme>
+  <programme start="20200701094500 -0300" stop="20200701115000 -0300" channel="Telecine Action">
+    <title lang="pt">Bater ou Correr em Londres</title>
+  </programme>
+  <programme start="20200701115000 -0300" stop="20200701133000 -0300" channel="Telecine Action">
+    <title lang="pt">Alvo Duplo</title>
+  </programme>
+  <programme start="20200701133000 -0300" stop="20200701152000 -0300" channel="Telecine Action">
+    <title lang="pt">Os Mercenários</title>
+  </programme>
+  <programme start="20200701152000 -0300" stop="20200701173000 -0300" channel="Telecine Action">
+    <title lang="pt">Fúria em Alto Mar</title>
+  </programme>
+  <programme start="20200701173000 -0300" stop="20200701193500 -0300" channel="Telecine Action">
+    <title lang="pt">O Segredo De Davi</title>
+  </programme>
+  <programme start="20200701193500 -0300" stop="20200701220000 -0300" channel="Telecine Action">
+    <title lang="pt">Guardiões da Galáxia Vol. 2</title>
+  </programme>
+  <programme start="20200701220000 -0300" stop="20200702000000 -0300" channel="Telecine Action">
+    <title lang="pt">Contrabando</title>
+  </programme>
+  <programme start="20200702000000 -0300" stop="20200702014500 -0300" channel="Telecine Action">
+    <title lang="pt">Quarteto Fantástico (2005)</title>
+  </programme>
+  <programme start="20200702014500 -0300" stop="20200702035000 -0300" channel="Telecine Action">
+    <title lang="pt">Encurralados</title>
+  </programme>
+  <programme start="20200702035000 -0300" stop="20200702060000 -0300" channel="Telecine Action">
+    <title lang="pt">Os Mercenários 3</title>
+  </programme>
+  <programme start="20200702060000 -0300" stop="20200702080000 -0300" channel="Telecine Action">
+    <title lang="pt">A Legião Perdida</title>
+  </programme>
+  <programme start="20200702080000 -0300" stop="20200702093500 -0300" channel="Telecine Action">
+    <title lang="pt">Ameaça Explosiva</title>
+  </programme>
+  <programme start="20200702093500 -0300" stop="20200702112500 -0300" channel="Telecine Action">
+    <title lang="pt">Solomon Kane - O Caçador de Demônios</title>
+  </programme>
+  <programme start="20200702112500 -0300" stop="20200702131500 -0300" channel="Telecine Action">
+    <title lang="pt">O Passageiro</title>
+  </programme>
+  <programme start="20200702131500 -0300" stop="20200702151000 -0300" channel="Telecine Action">
+    <title lang="pt">Contrabando</title>
+  </programme>
+  <programme start="20200702151000 -0300" stop="20200702173500 -0300" channel="Telecine Action">
+    <title lang="pt">Hostis</title>
+  </programme>
+  <programme start="20200702173500 -0300" stop="20200702191000 -0300" channel="Telecine Action">
+    <title lang="pt">Um Lugar Silencioso</title>
+  </programme>
+  <programme start="20200702191000 -0300" stop="20200702220000 -0300" channel="Telecine Action">
+    <title lang="pt">Transformers: A Era da Extinção</title>
+  </programme>
+  <programme start="20200702220000 -0300" stop="20200702234000 -0300" channel="Telecine Action">
+    <title lang="pt">Busca Explosiva 4</title>
+  </programme>
+  <programme start="20200702234000 -0300" stop="20200703014500 -0300" channel="Telecine Action">
+    <title lang="pt">Rota de Fuga (2013)</title>
+  </programme>
+  <programme start="20200703014500 -0300" stop="20200703040500 -0300" channel="Telecine Action">
+    <title lang="pt">Hannibal</title>
+  </programme>
+  <programme start="20200703040500 -0300" stop="20200703054000 -0300" channel="Telecine Action">
+    <title lang="pt">A Enfermeira Assassina</title>
+  </programme>
+  <programme start="20200703054000 -0300" stop="20200703080500 -0300" channel="Telecine Action">
+    <title lang="pt">Hulk</title>
+  </programme>
+  <programme start="20200703080500 -0300" stop="20200703101000 -0300" channel="Telecine Action">
+    <title lang="pt">A Série Divergente: Convergente</title>
+  </programme>
+  <programme start="20200703101000 -0300" stop="20200703114500 -0300" channel="Telecine Action">
+    <title lang="pt">Altitude</title>
+  </programme>
+  <programme start="20200703114500 -0300" stop="20200703134000 -0300" channel="Telecine Action">
+    <title lang="pt">Max Payne</title>
+  </programme>
+  <programme start="20200703134000 -0300" stop="20200703152000 -0300" channel="Telecine Action">
+    <title lang="pt">Aliens Vs. Predador 2</title>
+  </programme>
+  <programme start="20200703152000 -0300" stop="20200703170500 -0300" channel="Telecine Action">
+    <title lang="pt">Morgan - A Evolução</title>
+  </programme>
+  <programme start="20200703170500 -0300" stop="20200703193500 -0300" channel="Telecine Action">
+    <title lang="pt">Robin Hood (2010)</title>
+  </programme>
+  <programme start="20200703193500 -0300" stop="20200703220000 -0300" channel="Telecine Action">
+    <title lang="pt">Cidade de Deus</title>
+  </programme>
+  <programme start="20200703220000 -0300" stop="20200703235500 -0300" channel="Telecine Action">
+    <title lang="pt">O Último Caçador de Bruxas</title>
+  </programme>
+  <programme start="20200703235500 -0300" stop="20200704015000 -0300" channel="Telecine Action">
+    <title lang="pt">Cemitério Maldito (1989)</title>
+  </programme>
+  <programme start="20200704015000 -0300" stop="20200704034500 -0300" channel="Telecine Action">
+    <title lang="pt">Kill Bill - Volume 1</title>
+  </programme>
+  <programme start="20200704034500 -0300" stop="20200704052000 -0300" channel="Telecine Action">
+    <title lang="pt">Sede de Sangue</title>
+  </programme>
+  <programme start="20200704052000 -0300" stop="20200704070000 -0300" channel="Telecine Action">
+    <title lang="pt">Mistérios Ocultos</title>
+  </programme>
+  <programme start="20200704070000 -0300" stop="20200704085000 -0300" channel="Telecine Action">
+    <title lang="pt">Dupla em Fúria</title>
+  </programme>
+  <programme start="20200704085000 -0300" stop="20200704104500 -0300" channel="Telecine Action">
+    <title lang="pt">Três Mosqueteiros, Os (1993)</title>
+  </programme>
+  <programme start="20200704104500 -0300" stop="20200704125000 -0300" channel="Telecine Action">
+    <title lang="pt">Robocop (2014)</title>
+  </programme>
+  <programme start="20200704125000 -0300" stop="20200704144000 -0300" channel="Telecine Action">
+    <title lang="pt">Rambo III</title>
+  </programme>
+  <programme start="20200704144000 -0300" stop="20200704170000 -0300" channel="Telecine Action">
+    <title lang="pt">Jack Reacher: O Último Tiro</title>
+  </programme>
+  <programme start="20200704170000 -0300" stop="20200704194000 -0300" channel="Telecine Action">
+    <title lang="pt">O Último Samurai</title>
+  </programme>
+  <programme start="20200704194000 -0300" stop="20200704220000 -0300" channel="Telecine Action">
+    <title lang="pt">Missão: Impossível - Nação Secreta</title>
+  </programme>
+  <programme start="20200704220000 -0300" stop="20200705002500 -0300" channel="Telecine Action">
+    <title lang="pt">O Exterminador Do Futuro 2 - O Julgamento Final</title>
+  </programme>
+  <programme start="20200705002500 -0300" stop="20200705022000 -0300" channel="Telecine Action">
+    <title lang="pt">Imortais</title>
+  </programme>
+  <programme start="20200705022000 -0300" stop="20200705043500 -0300" channel="Telecine Action">
+    <title lang="pt">Wolverine - Imortal</title>
+  </programme>
+  <programme start="20200705043500 -0300" stop="20200705061500 -0300" channel="Telecine Action">
+    <title lang="pt">Frankenstein (2015)</title>
+  </programme>
+  <programme start="20200705061500 -0300" stop="20200705080000 -0300" channel="Telecine Action">
+    <title lang="pt">Soldado Universal 3: Regeneração</title>
+  </programme>
+  <programme start="20200705080000 -0300" stop="20200705100000 -0300" channel="Telecine Action">
+    <title lang="pt">Quatro Irmãos</title>
+  </programme>
+  <programme start="20200705100000 -0300" stop="20200705121000 -0300" channel="Telecine Action">
+    <title lang="pt">Deuses Do Egito</title>
+  </programme>
+  <programme start="20200705121000 -0300" stop="20200705141500 -0300" channel="Telecine Action">
+    <title lang="pt">Rota de Fuga (2013)</title>
+  </programme>
+  <programme start="20200705141500 -0300" stop="20200705155500 -0300" channel="Telecine Action">
+    <title lang="pt">Busca Explosiva 4</title>
+  </programme>
+  <programme start="20200705155500 -0300" stop="20200705182500 -0300" channel="Telecine Action">
+    <title lang="pt">Robin Hood (2010)</title>
+  </programme>
+  <programme start="20200705182500 -0300" stop="20200705202000 -0300" channel="Telecine Action">
+    <title lang="pt">X-men - O Confronto Final</title>
+  </programme>
+  <programme start="20200705202000 -0300" stop="20200705220000 -0300" channel="Telecine Action">
+    <title lang="pt">Invasão</title>
+  </programme>
+  <programme start="20200705220000 -0300" stop="20200705235500 -0300" channel="Telecine Action">
+    <title lang="pt">Percy Jackson e o Mar de Monstros</title>
+  </programme>
+  <programme start="20200705235500 -0300" stop="20200706022000 -0300" channel="Telecine Action">
+    <title lang="pt">O Hobbit: A Batalha dos Cinco Exércitos</title>
+  </programme>
+  <programme start="20200706022000 -0300" stop="20200706041500 -0300" channel="Telecine Action">
+    <title lang="pt">Velozes E Furiosos: Desafio Em Tóquio</title>
+  </programme>
+  <programme start="20200706041500 -0300" stop="20200706060500 -0300" channel="Telecine Action">
+    <title lang="pt">Corrida Mortal</title>
+  </programme>
+  <programme start="20200706060500 -0300" stop="20200706073500 -0300" channel="Telecine Action">
+    <title lang="pt">Diablo</title>
+  </programme>
+  <programme start="20200706073500 -0300" stop="20200706094500 -0300" channel="Telecine Action">
+    <title lang="pt">A Múmia (1999)</title>
+  </programme>
+  <programme start="20200706094500 -0300" stop="20200706114000 -0300" channel="Telecine Action">
+    <title lang="pt">Imortais</title>
+  </programme>
+  <programme start="20200706114000 -0300" stop="20200706133500 -0300" channel="Telecine Action">
+    <title lang="pt">O Último Caçador de Bruxas</title>
+  </programme>
+  <programme start="20200706133500 -0300" stop="20200706152500 -0300" channel="Telecine Action">
+    <title lang="pt">Caçada Brutal</title>
+  </programme>
+  <programme start="20200706152500 -0300" stop="20200706175000 -0300" channel="Telecine Action">
+    <title lang="pt">O Exterminador Do Futuro 2 - O Julgamento Final</title>
+  </programme>
+  <programme start="20200706175000 -0300" stop="20200706195000 -0300" channel="Telecine Action">
+    <title lang="pt">Eu, Robô</title>
+  </programme>
+  <programme start="20200706195000 -0300" stop="20200706220000 -0300" channel="Telecine Action">
+    <title lang="pt">Fúria em Alto Mar</title>
+  </programme>
+  <programme start="20200706220000 -0300" stop="20200707002500 -0300" channel="Telecine Action">
+    <title lang="pt">Sete Homens E Um Destino (2016)</title>
+  </programme>
+  <programme start="20200630002500 -0300" stop="20200630020500 -0300" channel="Telecine Touch">
+    <title lang="pt">127 Horas</title>
+  </programme>
+  <programme start="20200630020500 -0300" stop="20200630041500 -0300" channel="Telecine Touch">
+    <title lang="pt">O Outro Lado do Céu 2: O Fogo da Fé</title>
+  </programme>
+  <programme start="20200630041500 -0300" stop="20200630060000 -0300" channel="Telecine Touch">
+    <title lang="pt">Meu Nome é Emily</title>
+  </programme>
+  <programme start="20200630060000 -0300" stop="20200630075000 -0300" channel="Telecine Touch">
+    <title lang="pt">Quase Um Anjo</title>
+  </programme>
+  <programme start="20200630075000 -0300" stop="20200630100500 -0300" channel="Telecine Touch">
+    <title lang="pt">Um Homem de Família</title>
+  </programme>
+  <programme start="20200630100500 -0300" stop="20200630115000 -0300" channel="Telecine Touch">
+    <title lang="pt">Na Trilha da Vitória</title>
+  </programme>
+  <programme start="20200630115000 -0300" stop="20200630140000 -0300" channel="Telecine Touch">
+    <title lang="pt">Chocolate (2016)</title>
+  </programme>
+  <programme start="20200630140000 -0300" stop="20200630161500 -0300" channel="Telecine Touch">
+    <title lang="pt">Orgulho E Preconceito</title>
+  </programme>
+  <programme start="20200630161500 -0300" stop="20200630181000 -0300" channel="Telecine Touch">
+    <title lang="pt">Sexo Sem Compromisso</title>
+  </programme>
+  <programme start="20200630181000 -0300" stop="20200630203500 -0300" channel="Telecine Touch">
+    <title lang="pt">Creed: Nascido Para Lutar</title>
+  </programme>
+  <programme start="20200630203500 -0300" stop="20200630220000 -0300" channel="Telecine Touch">
+    <title lang="pt">Sócrates</title>
+  </programme>
+  <programme start="20200630220000 -0300" stop="20200701001000 -0300" channel="Telecine Touch">
+    <title lang="pt">Notorious B.i.g. - Nenhum Sonho é Grande Demais</title>
+  </programme>
+  <programme start="20200701001000 -0300" stop="20200701020000 -0300" channel="Telecine Touch">
+    <title lang="pt">Darfur - Deserto de Sangue</title>
+  </programme>
+  <programme start="20200701020000 -0300" stop="20200701043000 -0300" channel="Telecine Touch">
+    <title lang="pt">Prenda-me Se For Capaz</title>
+  </programme>
+  <programme start="20200701043000 -0300" stop="20200701063500 -0300" channel="Telecine Touch">
+    <title lang="pt">Maudie: Sua Vida E Sua Arte</title>
+  </programme>
+  <programme start="20200701063500 -0300" stop="20200701081000 -0300" channel="Telecine Touch">
+    <title lang="pt">Receita Para o Amor</title>
+  </programme>
+  <programme start="20200701081000 -0300" stop="20200701094500 -0300" channel="Telecine Touch">
+    <title lang="pt">Orgulho, Preconceito e Azevinho</title>
+  </programme>
+  <programme start="20200701094500 -0300" stop="20200701113000 -0300" channel="Telecine Touch">
+    <title lang="pt">Dou-lhes Um Ano</title>
+  </programme>
+  <programme start="20200701113000 -0300" stop="20200701131500 -0300" channel="Telecine Touch">
+    <title lang="pt">Paixão Inocente</title>
+  </programme>
+  <programme start="20200701131500 -0300" stop="20200701151500 -0300" channel="Telecine Touch">
+    <title lang="pt">Duets - Vem Cantar Comigo</title>
+  </programme>
+  <programme start="20200701151500 -0300" stop="20200701171000 -0300" channel="Telecine Touch">
+    <title lang="pt">Amor Impossível</title>
+  </programme>
+  <programme start="20200701171000 -0300" stop="20200701200500 -0300" channel="Telecine Touch">
+    <title lang="pt">Entre Irmãs</title>
+  </programme>
+  <programme start="20200701200500 -0300" stop="20200701220000 -0300" channel="Telecine Touch">
+    <title lang="pt">Christopher Robin - Um Reencontro Inesquecível</title>
+  </programme>
+  <programme start="20200701220000 -0300" stop="20200701235000 -0300" channel="Telecine Touch">
+    <title lang="pt">O Homem Que Inventou O Natal</title>
+  </programme>
+  <programme start="20200701235000 -0300" stop="20200702015000 -0300" channel="Telecine Touch">
+    <title lang="pt">Intocáveis</title>
+  </programme>
+  <programme start="20200702015000 -0300" stop="20200702035500 -0300" channel="Telecine Touch">
+    <title lang="pt">A Música do Silêncio</title>
+  </programme>
+  <programme start="20200702035500 -0300" stop="20200702060000 -0300" channel="Telecine Touch">
+    <title lang="pt">Nostalgia</title>
+  </programme>
+  <programme start="20200702060000 -0300" stop="20200702075000 -0300" channel="Telecine Touch">
+    <title lang="pt">As Palavras</title>
+  </programme>
+  <programme start="20200702075000 -0300" stop="20200702093500 -0300" channel="Telecine Touch">
+    <title lang="pt">A Vida Por Um Fio</title>
+  </programme>
+  <programme start="20200702093500 -0300" stop="20200702111500 -0300" channel="Telecine Touch">
+    <title lang="pt">Espectador Profissional</title>
+  </programme>
+  <programme start="20200702111500 -0300" stop="20200702125500 -0300" channel="Telecine Touch">
+    <title lang="pt">Alibi.Com</title>
+  </programme>
+  <programme start="20200702125500 -0300" stop="20200702145000 -0300" channel="Telecine Touch">
+    <title lang="pt">O Natal Dos Coopers</title>
+  </programme>
+  <programme start="20200702145000 -0300" stop="20200702165000 -0300" channel="Telecine Touch">
+    <title lang="pt">Hairspray: Em Busca da Fama</title>
+  </programme>
+  <programme start="20200702165000 -0300" stop="20200702183000 -0300" channel="Telecine Touch">
+    <title lang="pt">Amor em Construção</title>
+  </programme>
+  <programme start="20200702183000 -0300" stop="20200702201000 -0300" channel="Telecine Touch">
+    <title lang="pt">Altas Expectativas</title>
+  </programme>
+  <programme start="20200702201000 -0300" stop="20200702220000 -0300" channel="Telecine Touch">
+    <title lang="pt">Tudo e Todas as Coisas</title>
+  </programme>
+  <programme start="20200702220000 -0300" stop="20200702235000 -0300" channel="Telecine Touch">
+    <title lang="pt">Filmes Que Amamos: De Repente 30</title>
+  </programme>
+  <programme start="20200702235000 -0300" stop="20200703015500 -0300" channel="Telecine Touch">
+    <title lang="pt">Juntos Pelo Acaso</title>
+  </programme>
+  <programme start="20200703015500 -0300" stop="20200703034000 -0300" channel="Telecine Touch">
+    <title lang="pt">Dou-lhes Um Ano</title>
+  </programme>
+  <programme start="20200703034000 -0300" stop="20200703052500 -0300" channel="Telecine Touch">
+    <title lang="pt">A Escolha Perfeita (2016)</title>
+  </programme>
+  <programme start="20200703052500 -0300" stop="20200703070000 -0300" channel="Telecine Touch">
+    <title lang="pt">Orgulho, Preconceito e Azevinho</title>
+  </programme>
+  <programme start="20200703070000 -0300" stop="20200703084000 -0300" channel="Telecine Touch">
+    <title lang="pt">Mistérios na Rádio</title>
+  </programme>
+  <programme start="20200703084000 -0300" stop="20200703104000 -0300" channel="Telecine Touch">
+    <title lang="pt">Duets - Vem Cantar Comigo</title>
+  </programme>
+  <programme start="20200703104000 -0300" stop="20200703122500 -0300" channel="Telecine Touch">
+    <title lang="pt">Além da Vida</title>
+  </programme>
+  <programme start="20200703122500 -0300" stop="20200703140500 -0300" channel="Telecine Touch">
+    <title lang="pt">Obrigado Por Fumar</title>
+  </programme>
+  <programme start="20200703140500 -0300" stop="20200703160000 -0300" channel="Telecine Touch">
+    <title lang="pt">Christopher Robin - Um Reencontro Inesquecível</title>
+  </programme>
+  <programme start="20200703160000 -0300" stop="20200703175000 -0300" channel="Telecine Touch">
+    <title lang="pt">O Homem Que Inventou O Natal</title>
+  </programme>
+  <programme start="20200703175000 -0300" stop="20200703195000 -0300" channel="Telecine Touch">
+    <title lang="pt">Intocáveis</title>
+  </programme>
+  <programme start="20200703195000 -0300" stop="20200703220000 -0300" channel="Telecine Touch">
+    <title lang="pt">Doentes de Amor</title>
+  </programme>
+  <programme start="20200703220000 -0300" stop="20200703233500 -0300" channel="Telecine Touch">
+    <title lang="pt">Muito Bem Acompanhada</title>
+  </programme>
+  <programme start="20200703233500 -0300" stop="20200704011500 -0300" channel="Telecine Touch">
+    <title lang="pt">O Retorno do Herói</title>
+  </programme>
+  <programme start="20200704011500 -0300" stop="20200704030500 -0300" channel="Telecine Touch">
+    <title lang="pt">As Palavras</title>
+  </programme>
+  <programme start="20200704030500 -0300" stop="20200704050000 -0300" channel="Telecine Touch">
+    <title lang="pt">Solteiros Com Filhos</title>
+  </programme>
+  <programme start="20200704050000 -0300" stop="20200704070500 -0300" channel="Telecine Touch">
+    <title lang="pt">A Música do Silêncio</title>
+  </programme>
+  <programme start="20200704070500 -0300" stop="20200704090500 -0300" channel="Telecine Touch">
+    <title lang="pt">Hairspray: Em Busca da Fama</title>
+  </programme>
+  <programme start="20200704090500 -0300" stop="20200704110000 -0300" channel="Telecine Touch">
+    <title lang="pt">Amor Impossível</title>
+  </programme>
+  <programme start="20200704110000 -0300" stop="20200704124000 -0300" channel="Telecine Touch">
+    <title lang="pt">Amor em Construção</title>
+  </programme>
+  <programme start="20200704124000 -0300" stop="20200704142500 -0300" channel="Telecine Touch">
+    <title lang="pt">Tudo e Todas as Coisas</title>
+  </programme>
+  <programme start="20200704142500 -0300" stop="20200704160500 -0300" channel="Telecine Touch">
+    <title lang="pt">Escrito nas Estrelas</title>
+  </programme>
+  <programme start="20200704160500 -0300" stop="20200704181000 -0300" channel="Telecine Touch">
+    <title lang="pt">Juntos Pelo Acaso</title>
+  </programme>
+  <programme start="20200704181000 -0300" stop="20200704200000 -0300" channel="Telecine Touch">
+    <title lang="pt">De Repente 30</title>
+  </programme>
+  <programme start="20200704200000 -0300" stop="20200704220000 -0300" channel="Telecine Touch">
+    <title lang="pt">Mesmo Se Nada Der Certo</title>
+  </programme>
+  <programme start="20200704220000 -0300" stop="20200704234500 -0300" channel="Telecine Touch">
+    <title lang="pt">O Garoto da Casa ao Lado</title>
+  </programme>
+  <programme start="20200704234500 -0300" stop="20200705015500 -0300" channel="Telecine Touch">
+    <title lang="pt">O Lado Bom da Vida</title>
+  </programme>
+  <programme start="20200705015500 -0300" stop="20200705033500 -0300" channel="Telecine Touch">
+    <title lang="pt">Espectador Profissional</title>
+  </programme>
+  <programme start="20200705033500 -0300" stop="20200705052000 -0300" channel="Telecine Touch">
+    <title lang="pt">A Vida Por Um Fio</title>
+  </programme>
+  <programme start="20200705052000 -0300" stop="20200705070000 -0300" channel="Telecine Touch">
+    <title lang="pt">Obrigado Por Fumar</title>
+  </programme>
+  <programme start="20200705070000 -0300" stop="20200705085500 -0300" channel="Telecine Touch">
+    <title lang="pt">Solteiros Com Filhos</title>
+  </programme>
+  <programme start="20200705085500 -0300" stop="20200705105000 -0300" channel="Telecine Touch">
+    <title lang="pt">O Natal Dos Coopers</title>
+  </programme>
+  <programme start="20200705105000 -0300" stop="20200705125500 -0300" channel="Telecine Touch">
+    <title lang="pt">Norman: Confie Em Mim</title>
+  </programme>
+  <programme start="20200705125500 -0300" stop="20200705150500 -0300" channel="Telecine Touch">
+    <title lang="pt">Doentes de Amor</title>
+  </programme>
+  <programme start="20200705150500 -0300" stop="20200705165000 -0300" channel="Telecine Touch">
+    <title lang="pt">Tal Mãe, Tal Filha</title>
+  </programme>
+  <programme start="20200705165000 -0300" stop="20200705183000 -0300" channel="Telecine Touch">
+    <title lang="pt">O Retorno do Herói</title>
+  </programme>
+  <programme start="20200705183000 -0300" stop="20200705200500 -0300" channel="Telecine Touch">
+    <title lang="pt">Muito Bem Acompanhada</title>
+  </programme>
+  <programme start="20200705200500 -0300" stop="20200705220000 -0300" channel="Telecine Touch">
+    <title lang="pt">Pegando Fogo</title>
+  </programme>
+  <programme start="20200705220000 -0300" stop="20200706001500 -0300" channel="Telecine Touch">
+    <title lang="pt">Ben-Hur (2016)</title>
+  </programme>
+  <programme start="20200706001500 -0300" stop="20200706020000 -0300" channel="Telecine Touch">
+    <title lang="pt">2:22 - Encontro Marcado</title>
+  </programme>
+  <programme start="20200706020000 -0300" stop="20200706034500 -0300" channel="Telecine Touch">
+    <title lang="pt">Os Curados</title>
+  </programme>
+  <programme start="20200706034500 -0300" stop="20200706053000 -0300" channel="Telecine Touch">
+    <title lang="pt">Além da Vida</title>
+  </programme>
+  <programme start="20200706053000 -0300" stop="20200706075000 -0300" channel="Telecine Touch">
+    <title lang="pt">Além da Liberdade</title>
+  </programme>
+  <programme start="20200706075000 -0300" stop="20200706094000 -0300" channel="Telecine Touch">
+    <title lang="pt">Que Haja Luz</title>
+  </programme>
+  <programme start="20200706094000 -0300" stop="20200706112000 -0300" channel="Telecine Touch">
+    <title lang="pt">Escrito nas Estrelas</title>
+  </programme>
+  <programme start="20200706112000 -0300" stop="20200706130500 -0300" channel="Telecine Touch">
+    <title lang="pt">As Duas Faces de Janeiro</title>
+  </programme>
+  <programme start="20200706130500 -0300" stop="20200706150500 -0300" channel="Telecine Touch">
+    <title lang="pt">O Último dos Moicanos</title>
+  </programme>
+  <programme start="20200706150500 -0300" stop="20200706171000 -0300" channel="Telecine Touch">
+    <title lang="pt">Sob o Sol do Oeste</title>
+  </programme>
+  <programme start="20200706171000 -0300" stop="20200706184500 -0300" channel="Telecine Touch">
+    <title lang="pt">Psycho Granny - O Mal Não Envelhece</title>
+  </programme>
+  <programme start="20200706184500 -0300" stop="20200706202500 -0300" channel="Telecine Touch">
+    <title lang="pt">O Garoto da Casa ao Lado</title>
+  </programme>
+  <programme start="20200706202500 -0300" stop="20200706220000 -0300" channel="Telecine Touch">
+    <title lang="pt">Um Garoto Como Jake</title>
+  </programme>
+  <programme start="20200706220000 -0300" stop="20200706235500 -0300" channel="Telecine Touch">
+    <title lang="pt">Deus Não Está Morto: Uma Luz na Escuridão</title>
+  </programme>
+  <programme start="20200630000000 -0300" stop="20200630020000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Superação: O Milagre da Fé</title>
+  </programme>
+  <programme start="20200630020000 -0300" stop="20200630040000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Um Homem De Família (2016)</title>
+  </programme>
+  <programme start="20200630040000 -0300" stop="20200630060000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Florence: Quem é Essa Mulher?</title>
+  </programme>
+  <programme start="20200630060000 -0300" stop="20200630081000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Lado Bom da Vida</title>
+  </programme>
+  <programme start="20200630081000 -0300" stop="20200630102500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Star Trek (2009)</title>
+  </programme>
+  <programme start="20200630102500 -0300" stop="20200630124500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Han Solo: Uma História Star Wars</title>
+  </programme>
+  <programme start="20200630124500 -0300" stop="20200630142500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Belle e Sebastian - Amigos Para Sempre</title>
+  </programme>
+  <programme start="20200630142500 -0300" stop="20200630162000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Um Suburbano Sortudo</title>
+  </programme>
+  <programme start="20200630162000 -0300" stop="20200630181000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Fora de Série</title>
+  </programme>
+  <programme start="20200630181000 -0300" stop="20200630201500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Alita: Anjo de Combate</title>
+  </programme>
+  <programme start="20200630201500 -0300" stop="20200630220000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">As Trapaceiras</title>
+  </programme>
+  <programme start="20200630220000 -0300" stop="20200701002500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Bohemian Rhapsody</title>
+  </programme>
+  <programme start="20200701002500 -0300" stop="20200701024000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Castelo de Vidro</title>
+  </programme>
+  <programme start="20200701024000 -0300" stop="20200701043000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Consequências</title>
+  </programme>
+  <programme start="20200701043000 -0300" stop="20200701062500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Rédeas da Redenção</title>
+  </programme>
+  <programme start="20200701062500 -0300" stop="20200701081000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Quando Você Menos Espera</title>
+  </programme>
+  <programme start="20200701081000 -0300" stop="20200701102000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Hospedeira</title>
+  </programme>
+  <programme start="20200701102000 -0300" stop="20200701124000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Speed Racer</title>
+  </programme>
+  <programme start="20200701124000 -0300" stop="20200701143500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Como Treinar o Seu Dragão 3</title>
+  </programme>
+  <programme start="20200701143500 -0300" stop="20200701163000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Sansão</title>
+  </programme>
+  <programme start="20200701163000 -0300" stop="20200701180500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Preço da Ganância</title>
+  </programme>
+  <programme start="20200701180500 -0300" stop="20200701200000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Paulo, Apóstolo de Cristo</title>
+  </programme>
+  <programme start="20200701200000 -0300" stop="20200701220000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Superação: O Milagre da Fé</title>
+  </programme>
+  <programme start="20200701220000 -0300" stop="20200702000000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Minha Mãe é Uma Peça 3</title>
+  </programme>
+  <programme start="20200702000000 -0300" stop="20200702014000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Pedro Coelho</title>
+  </programme>
+  <programme start="20200702014000 -0300" stop="20200702033000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Uma Aventura Lego</title>
+  </programme>
+  <programme start="20200702033000 -0300" stop="20200702053000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Como é Cruel Viver Assim</title>
+  </programme>
+  <programme start="20200702053000 -0300" stop="20200702075000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Homens de Coragem</title>
+  </programme>
+  <programme start="20200702075000 -0300" stop="20200702093500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Agente Mirim</title>
+  </programme>
+  <programme start="20200702093500 -0300" stop="20200702111500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Pedro Coelho</title>
+  </programme>
+  <programme start="20200702111500 -0300" stop="20200702132500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">De Repente Uma Família</title>
+  </programme>
+  <programme start="20200702132500 -0300" stop="20200702151500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Um Perfil Para Dois</title>
+  </programme>
+  <programme start="20200702151500 -0300" stop="20200702171000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Para Sempre</title>
+  </programme>
+  <programme start="20200702171000 -0300" stop="20200702191200 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Minha Mãe é Uma Peça 3</title>
+  </programme>
+  <programme start="20200702191200 -0300" stop="20200702210000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">As Branquelas</title>
+  </programme>
+  <programme start="20200702210000 -0300" stop="20200702231000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Sessão Fique em Casa: Dupla Explosiva</title>
+  </programme>
+  <programme start="20200702231000 -0300" stop="20200703014500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Missão: Impossível - Efeito Fallout</title>
+  </programme>
+  <programme start="20200703014500 -0300" stop="20200703041000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Z: A Cidade Perdida</title>
+  </programme>
+  <programme start="20200703041000 -0300" stop="20200703062000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Jantar</title>
+  </programme>
+  <programme start="20200703062000 -0300" stop="20200703083500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Trumbo: Lista Negra</title>
+  </programme>
+  <programme start="20200703083500 -0300" stop="20200703103000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Para Sempre</title>
+  </programme>
+  <programme start="20200703103000 -0300" stop="20200703122500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Jornada da Vida</title>
+  </programme>
+  <programme start="20200703122500 -0300" stop="20200703142000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Simonal</title>
+  </programme>
+  <programme start="20200703142000 -0300" stop="20200703164000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Ódio Que Você Semeia</title>
+  </programme>
+  <programme start="20200703164000 -0300" stop="20200703183000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Morte Te Dá Parabéns 2</title>
+  </programme>
+  <programme start="20200703183000 -0300" stop="20200703201500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Casamento Sangrento</title>
+  </programme>
+  <programme start="20200703201500 -0300" stop="20200703220000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Sequestro</title>
+  </programme>
+  <programme start="20200703220000 -0300" stop="20200703235000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Buscando...</title>
+  </programme>
+  <programme start="20200703235000 -0300" stop="20200704021000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Papillon</title>
+  </programme>
+  <programme start="20200704021000 -0300" stop="20200704042000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Revolução em Paris</title>
+  </programme>
+  <programme start="20200704042000 -0300" stop="20200704062000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Bem-vindos a Marwen</title>
+  </programme>
+  <programme start="20200704062000 -0300" stop="20200704080500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Abdução</title>
+  </programme>
+  <programme start="20200704080500 -0300" stop="20200704102500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Homens de Coragem (2017)</title>
+  </programme>
+  <programme start="20200704102500 -0300" stop="20200704124000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Dupla Explosiva</title>
+  </programme>
+  <programme start="20200704124000 -0300" stop="20200704150000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Maze Runner: Prova de Fogo</title>
+  </programme>
+  <programme start="20200704150000 -0300" stop="20200704170000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Lutando Pela Família</title>
+  </programme>
+  <programme start="20200704170000 -0300" stop="20200704193500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Missão: Impossível - Efeito Fallout</title>
+  </programme>
+  <programme start="20200704193500 -0300" stop="20200704220000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Velozes &amp; Furiosos: Hobbs &amp; Shaw</title>
+  </programme>
+  <programme start="20200704220000 -0300" stop="20200705002000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Dia do Atentado</title>
+  </programme>
+  <programme start="20200705002000 -0300" stop="20200705020000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Proud Mary</title>
+  </programme>
+  <programme start="20200705020000 -0300" stop="20200705035000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Buscando...</title>
+  </programme>
+  <programme start="20200705035000 -0300" stop="20200705062000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Graças a Deus</title>
+  </programme>
+  <programme start="20200705062000 -0300" stop="20200705083000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Minha Fama de Mau</title>
+  </programme>
+  <programme start="20200705083000 -0300" stop="20200705102000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Poderes Extraordinários</title>
+  </programme>
+  <programme start="20200705102000 -0300" stop="20200705130500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Hobbit: A Desolação de Smaug</title>
+  </programme>
+  <programme start="20200705130500 -0300" stop="20200705145000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Hércules</title>
+  </programme>
+  <programme start="20200705145000 -0300" stop="20200705163000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Os Guardiões</title>
+  </programme>
+  <programme start="20200705163000 -0300" stop="20200705182000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Combo Triplo Família Addams: A Família Addams (1991)</title>
+  </programme>
+  <programme start="20200705182000 -0300" stop="20200705200000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Combo Triplo Família Addams: A Família Addams 2</title>
+  </programme>
+  <programme start="20200705200000 -0300" stop="20200705213500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Família Addams (2019)</title>
+  </programme>
+  <programme start="20200705213500 -0300" stop="20200705235500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Homem-aranha: De Volta Ao Lar</title>
+  </programme>
+  <programme start="20200705235500 -0300" stop="20200706014500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Noite do Jogo</title>
+  </programme>
+  <programme start="20200706014500 -0300" stop="20200706034000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Minha Garota Para Sempre</title>
+  </programme>
+  <programme start="20200706034000 -0300" stop="20200706060500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Get On Up - A História de James Brown</title>
+  </programme>
+  <programme start="20200706060500 -0300" stop="20200706082500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Homem Que Matou Dom Quixote</title>
+  </programme>
+  <programme start="20200706082500 -0300" stop="20200706102500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Lutando Pela Família</title>
+  </programme>
+  <programme start="20200706102500 -0300" stop="20200706121500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Morte Te Dá Parabéns 2</title>
+  </programme>
+  <programme start="20200706121500 -0300" stop="20200706141000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Minha Garota Para Sempre</title>
+  </programme>
+  <programme start="20200706141000 -0300" stop="20200706160000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Roda Gigante</title>
+  </programme>
+  <programme start="20200706160000 -0300" stop="20200706175000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Noite do Jogo</title>
+  </programme>
+  <programme start="20200706175000 -0300" stop="20200706194000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Bate Coração</title>
+  </programme>
+  <programme start="20200706194000 -0300" stop="20200706220000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Homem-aranha: De Volta Ao Lar</title>
+  </programme>
+  <programme start="20200706220000 -0300" stop="20200707000000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">X-men: Fênix Negra</title>
+  </programme>
+  <programme start="20200630234500 -0300" stop="20200701012000 -0300" channel="Telecine Cult">
+    <title lang="pt">Sessão Bang Bang: Duelo no Oeste</title>
+  </programme>
+  <programme start="20200701012000 -0300" stop="20200701034000 -0300" channel="Telecine Cult">
+    <title lang="pt">Marnie, Confissões De Uma Ladra</title>
+  </programme>
+  <programme start="20200701034000 -0300" stop="20200701055000 -0300" channel="Telecine Cult">
+    <title lang="pt">Maravilhoso Boccaccio</title>
+  </programme>
+  <programme start="20200701055000 -0300" stop="20200701071000 -0300" channel="Telecine Cult">
+    <title lang="pt">Duelo em Monterey</title>
+  </programme>
+  <programme start="20200701071000 -0300" stop="20200701090000 -0300" channel="Telecine Cult">
+    <title lang="pt">Tristana, Uma Paixão Mórbida</title>
+  </programme>
+  <programme start="20200701090000 -0300" stop="20200701105500 -0300" channel="Telecine Cult">
+    <title lang="pt">Outubro</title>
+  </programme>
+  <programme start="20200701105500 -0300" stop="20200701140500 -0300" channel="Telecine Cult">
+    <title lang="pt">Três Homens em Conflito</title>
+  </programme>
+  <programme start="20200701140500 -0300" stop="20200701164000 -0300" channel="Telecine Cult">
+    <title lang="pt">Brazil: O Filme</title>
+  </programme>
+  <programme start="20200701164000 -0300" stop="20200701181000 -0300" channel="Telecine Cult">
+    <title lang="pt">Festim Diabólico</title>
+  </programme>
+  <programme start="20200701181000 -0300" stop="20200701201500 -0300" channel="Telecine Cult">
+    <title lang="pt">Gigolô Americano</title>
+  </programme>
+  <programme start="20200701201500 -0300" stop="20200701220000 -0300" channel="Telecine Cult">
+    <title lang="pt">Programa Duplo: 48 Horas</title>
+  </programme>
+  <programme start="20200701220000 -0300" stop="20200701234500 -0300" channel="Telecine Cult">
+    <title lang="pt">Programa Duplo: 48 Horas - Parte 2</title>
+  </programme>
+  <programme start="20200701234500 -0300" stop="20200702014000 -0300" channel="Telecine Cult">
+    <title lang="pt">Curiosa</title>
+  </programme>
+  <programme start="20200702014000 -0300" stop="20200702040500 -0300" channel="Telecine Cult">
+    <title lang="pt">Love</title>
+  </programme>
+  <programme start="20200702040500 -0300" stop="20200702065000 -0300" channel="Telecine Cult">
+    <title lang="pt">A Casa Que Jack Construiu</title>
+  </programme>
+  <programme start="20200702065000 -0300" stop="20200702090000 -0300" channel="Telecine Cult">
+    <title lang="pt">O Último Concerto de Rock</title>
+  </programme>
+  <programme start="20200702090000 -0300" stop="20200702102000 -0300" channel="Telecine Cult">
+    <title lang="pt">O Batedor De Carteiras</title>
+  </programme>
+  <programme start="20200702102000 -0300" stop="20200702121000 -0300" channel="Telecine Cult">
+    <title lang="pt">3 Faces</title>
+  </programme>
+  <programme start="20200702121000 -0300" stop="20200702140000 -0300" channel="Telecine Cult">
+    <title lang="pt">Waking Life</title>
+  </programme>
+  <programme start="20200702140000 -0300" stop="20200702162000 -0300" channel="Telecine Cult">
+    <title lang="pt">Mississippi em Chamas</title>
+  </programme>
+  <programme start="20200702162000 -0300" stop="20200702181500 -0300" channel="Telecine Cult">
+    <title lang="pt">Adiós, Sabata</title>
+  </programme>
+  <programme start="20200702181500 -0300" stop="20200702200000 -0300" channel="Telecine Cult">
+    <title lang="pt">Orlando, a Mulher Imortal</title>
+  </programme>
+  <programme start="20200702200000 -0300" stop="20200702220000 -0300" channel="Telecine Cult">
+    <title lang="pt">Sessão Cine Classic: Crepúsculo dos Deuses</title>
+  </programme>
+  <programme start="20200702220000 -0300" stop="20200703001000 -0300" channel="Telecine Cult">
+    <title lang="pt">Sessão Cine Classic: O Homem Que Sabia Demais</title>
+  </programme>
+  <programme start="20200703001000 -0300" stop="20200703023000 -0300" channel="Telecine Cult">
+    <title lang="pt">Touro Indomável</title>
+  </programme>
+  <programme start="20200703023000 -0300" stop="20200703041000 -0300" channel="Telecine Cult">
+    <title lang="pt">Beijos Proibidos</title>
+  </programme>
+  <programme start="20200703041000 -0300" stop="20200703061000 -0300" channel="Telecine Cult">
+    <title lang="pt">Um Assunto de Mulheres</title>
+  </programme>
+  <programme start="20200703061000 -0300" stop="20200703080000 -0300" channel="Telecine Cult">
+    <title lang="pt">O Ídolo</title>
+  </programme>
+  <programme start="20200703080000 -0300" stop="20200703100000 -0300" channel="Telecine Cult">
+    <title lang="pt">Os Boas Vidas</title>
+  </programme>
+  <programme start="20200703100000 -0300" stop="20200703120500 -0300" channel="Telecine Cult">
+    <title lang="pt">Bergman - 100 Anos</title>
+  </programme>
+  <programme start="20200703120500 -0300" stop="20200703135000 -0300" channel="Telecine Cult">
+    <title lang="pt">Cinzas no Paraíso</title>
+  </programme>
+  <programme start="20200703135000 -0300" stop="20200703154500 -0300" channel="Telecine Cult">
+    <title lang="pt">Através das Oliveiras</title>
+  </programme>
+  <programme start="20200703154500 -0300" stop="20200703180500 -0300" channel="Telecine Cult">
+    <title lang="pt">A Felicidade Não Se Compra</title>
+  </programme>
+  <programme start="20200703180500 -0300" stop="20200703201000 -0300" channel="Telecine Cult">
+    <title lang="pt">De Volta Para o Futuro</title>
+  </programme>
+  <programme start="20200703201000 -0300" stop="20200703220000 -0300" channel="Telecine Cult">
+    <title lang="pt">Dirty Dancing - Ritmo Quente</title>
+  </programme>
+  <programme start="20200703220000 -0300" stop="20200704004000 -0300" channel="Telecine Cult">
+    <title lang="pt">Aquarius</title>
+  </programme>
+  <programme start="20200704004000 -0300" stop="20200704025500 -0300" channel="Telecine Cult">
+    <title lang="pt">Se Meu Apartamento Falasse</title>
+  </programme>
+  <programme start="20200704025500 -0300" stop="20200704044500 -0300" channel="Telecine Cult">
+    <title lang="pt">Ata-me</title>
+  </programme>
+  <programme start="20200704044500 -0300" stop="20200704062000 -0300" channel="Telecine Cult">
+    <title lang="pt">11 Minutos</title>
+  </programme>
+  <programme start="20200704062000 -0300" stop="20200704080000 -0300" channel="Telecine Cult">
+    <title lang="pt">A Incrível Jornada De Jacqueline</title>
+  </programme>
+  <programme start="20200704080000 -0300" stop="20200704100000 -0300" channel="Telecine Cult">
+    <title lang="pt">Viver É Fácil Com Os Olhos Fechados</title>
+  </programme>
+  <programme start="20200704100000 -0300" stop="20200704114500 -0300" channel="Telecine Cult">
+    <title lang="pt">O Estranho (1946)</title>
+  </programme>
+  <programme start="20200704114500 -0300" stop="20200704135500 -0300" channel="Telecine Cult">
+    <title lang="pt">O Homem Que Sabia Demais</title>
+  </programme>
+  <programme start="20200704135500 -0300" stop="20200704155500 -0300" channel="Telecine Cult">
+    <title lang="pt">Se Meu Fusca Falasse</title>
+  </programme>
+  <programme start="20200704155500 -0300" stop="20200704174500 -0300" channel="Telecine Cult">
+    <title lang="pt">Smith!</title>
+  </programme>
+  <programme start="20200704174500 -0300" stop="20200704201500 -0300" channel="Telecine Cult">
+    <title lang="pt">Romeu e Julieta (1968)</title>
+  </programme>
+  <programme start="20200704201500 -0300" stop="20200704220000 -0300" channel="Telecine Cult">
+    <title lang="pt">Sessão Novos Clássicos: Flashdance</title>
+  </programme>
+  <programme start="20200704220000 -0300" stop="20200704235500 -0300" channel="Telecine Cult">
+    <title lang="pt">Sessão Novos Clássicos: Em Algum Lugar do Passado</title>
+  </programme>
+  <programme start="20200704235500 -0300" stop="20200705032000 -0300" channel="Telecine Cult">
+    <title lang="pt">A Lista de Schindler</title>
+  </programme>
+  <programme start="20200705032000 -0300" stop="20200705050500 -0300" channel="Telecine Cult">
+    <title lang="pt">Era O Hotel Cambridge</title>
+  </programme>
+  <programme start="20200705050500 -0300" stop="20200705064500 -0300" channel="Telecine Cult">
+    <title lang="pt">Cães Selvagens</title>
+  </programme>
+  <programme start="20200705064500 -0300" stop="20200705082500 -0300" channel="Telecine Cult">
+    <title lang="pt">O Sonho De Francisco</title>
+  </programme>
+  <programme start="20200705082500 -0300" stop="20200705093500 -0300" channel="Telecine Cult">
+    <title lang="pt">Da Derrota à Vitória</title>
+  </programme>
+  <programme start="20200705093500 -0300" stop="20200705111500 -0300" channel="Telecine Cult">
+    <title lang="pt">Lamén Shop</title>
+  </programme>
+  <programme start="20200705111500 -0300" stop="20200705130500 -0300" channel="Telecine Cult">
+    <title lang="pt">Digam o Que Quiserem</title>
+  </programme>
+  <programme start="20200705130500 -0300" stop="20200705150500 -0300" channel="Telecine Cult">
+    <title lang="pt">O Enigma Da Pirâmide</title>
+  </programme>
+  <programme start="20200705150500 -0300" stop="20200705165500 -0300" channel="Telecine Cult">
+    <title lang="pt">Ilha dos Cachorros</title>
+  </programme>
+  <programme start="20200705165500 -0300" stop="20200705195000 -0300" channel="Telecine Cult">
+    <title lang="pt">Era Uma Vez No Oeste</title>
+  </programme>
+  <programme start="20200705195000 -0300" stop="20200705220000 -0300" channel="Telecine Cult">
+    <title lang="pt">Programa Duplo Oliver Stone: Platoon</title>
+  </programme>
+  <programme start="20200705220000 -0300" stop="20200706003000 -0300" channel="Telecine Cult">
+    <title lang="pt">Programa Duplo Oliver Stone: Nascido em 4 de Julho</title>
+  </programme>
+  <programme start="20200706003000 -0300" stop="20200706024000 -0300" channel="Telecine Cult">
+    <title lang="pt">No (2012)</title>
+  </programme>
+  <programme start="20200706024000 -0300" stop="20200706042500 -0300" channel="Telecine Cult">
+    <title lang="pt">O Bando À Parte</title>
+  </programme>
+  <programme start="20200706042500 -0300" stop="20200706060500 -0300" channel="Telecine Cult">
+    <title lang="pt">O Affair</title>
+  </programme>
+  <programme start="20200706060500 -0300" stop="20200706083500 -0300" channel="Telecine Cult">
+    <title lang="pt">Entardecer</title>
+  </programme>
+  <programme start="20200706083500 -0300" stop="20200706104000 -0300" channel="Telecine Cult">
+    <title lang="pt">Faça a Coisa Certa</title>
+  </programme>
+  <programme start="20200706104000 -0300" stop="20200706122500 -0300" channel="Telecine Cult">
+    <title lang="pt">Dez</title>
+  </programme>
+  <programme start="20200706122500 -0300" stop="20200706153000 -0300" channel="Telecine Cult">
+    <title lang="pt">Maratona: O Poderoso Chefão</title>
+  </programme>
+  <programme start="20200706153000 -0300" stop="20200706190000 -0300" channel="Telecine Cult">
+    <title lang="pt">Maratona: O Poderoso Chefão - Parte Ii</title>
+  </programme>
+  <programme start="20200706190000 -0300" stop="20200706220000 -0300" channel="Telecine Cult">
+    <title lang="pt">Maratona: O Poderoso Chefão - Parte Iii</title>
+  </programme>
+  <programme start="20200706220000 -0300" stop="20200707003500 -0300" channel="Telecine Cult">
+    <title lang="pt">Metrópolis</title>
+  </programme>
+  <programme start="20200630233500 -0300" stop="20200701013000 -0300" channel="Telecine Fun">
+    <title lang="pt">Imagine Só!</title>
+  </programme>
+  <programme start="20200701013000 -0300" stop="20200701031000 -0300" channel="Telecine Fun">
+    <title lang="pt">Lance Livre</title>
+  </programme>
+  <programme start="20200701031000 -0300" stop="20200701045000 -0300" channel="Telecine Fun">
+    <title lang="pt">Saindo do Armário</title>
+  </programme>
+  <programme start="20200701045000 -0300" stop="20200701063000 -0300" channel="Telecine Fun">
+    <title lang="pt">Uma Quase Dupla</title>
+  </programme>
+  <programme start="20200701063000 -0300" stop="20200701080500 -0300" channel="Telecine Fun">
+    <title lang="pt">Uma Professora Muito Maluquinha</title>
+  </programme>
+  <programme start="20200701080500 -0300" stop="20200701095000 -0300" channel="Telecine Fun">
+    <title lang="pt">Os Seis Signos da Luz</title>
+  </programme>
+  <programme start="20200701095000 -0300" stop="20200701113500 -0300" channel="Telecine Fun">
+    <title lang="pt">Os Investigadores E A Maldição Da Montanha</title>
+  </programme>
+  <programme start="20200701113500 -0300" stop="20200701132000 -0300" channel="Telecine Fun">
+    <title lang="pt">Hunter x Hunter: A Última Missão</title>
+  </programme>
+  <programme start="20200701132000 -0300" stop="20200701151000 -0300" channel="Telecine Fun">
+    <title lang="pt">Detona Ralph</title>
+  </programme>
+  <programme start="20200701151000 -0300" stop="20200701163500 -0300" channel="Telecine Fun">
+    <title lang="pt">Ladybug: Aventura dos Insetos</title>
+  </programme>
+  <programme start="20200701163500 -0300" stop="20200701182000 -0300" channel="Telecine Fun">
+    <title lang="pt">Festa No Céu</title>
+  </programme>
+  <programme start="20200701182000 -0300" stop="20200701203500 -0300" channel="Telecine Fun">
+    <title lang="pt">O Lar das Crianças Peculiares</title>
+  </programme>
+  <programme start="20200701203500 -0300" stop="20200701220000 -0300" channel="Telecine Fun">
+    <title lang="pt">Tito e os Pássaros</title>
+  </programme>
+  <programme start="20200701220000 -0300" stop="20200701233500 -0300" channel="Telecine Fun">
+    <title lang="pt">Johnny English 3.0</title>
+  </programme>
+  <programme start="20200701233500 -0300" stop="20200702011500 -0300" channel="Telecine Fun">
+    <title lang="pt">Uma Família Feliz</title>
+  </programme>
+  <programme start="20200702011500 -0300" stop="20200702025000 -0300" channel="Telecine Fun">
+    <title lang="pt">Gato Sórdido</title>
+  </programme>
+  <programme start="20200702025000 -0300" stop="20200702044500 -0300" channel="Telecine Fun">
+    <title lang="pt">Os Homens São de Marte... E é Pra Lá Que Eu Vou</title>
+  </programme>
+  <programme start="20200702044500 -0300" stop="20200702064500 -0300" channel="Telecine Fun">
+    <title lang="pt">As Testemunhas de Madea</title>
+  </programme>
+  <programme start="20200702064500 -0300" stop="20200702083000 -0300" channel="Telecine Fun">
+    <title lang="pt">Daddy Cool: Ex Em Domicílio</title>
+  </programme>
+  <programme start="20200702083000 -0300" stop="20200702095500 -0300" channel="Telecine Fun">
+    <title lang="pt">Selkirk, o Verdadeiro Robinson Crusoé</title>
+  </programme>
+  <programme start="20200702095500 -0300" stop="20200702114000 -0300" channel="Telecine Fun">
+    <title lang="pt">Meu Malvado Favorito 2</title>
+  </programme>
+  <programme start="20200702114000 -0300" stop="20200702131500 -0300" channel="Telecine Fun">
+    <title lang="pt">O Lorax - Em Busca da Trúfula Perdida</title>
+  </programme>
+  <programme start="20200702131500 -0300" stop="20200702144500 -0300" channel="Telecine Fun">
+    <title lang="pt">O Garoto-Formiga 3</title>
+  </programme>
+  <programme start="20200702144500 -0300" stop="20200702164000 -0300" channel="Telecine Fun">
+    <title lang="pt">O Cachorro Bombeiro</title>
+  </programme>
+  <programme start="20200702164000 -0300" stop="20200702183000 -0300" channel="Telecine Fun">
+    <title lang="pt">Abulele: Meu Amigo Monstro</title>
+  </programme>
+  <programme start="20200702183000 -0300" stop="20200702201500 -0300" channel="Telecine Fun">
+    <title lang="pt">Matilda</title>
+  </programme>
+  <programme start="20200702201500 -0300" stop="20200702220000 -0300" channel="Telecine Fun">
+    <title lang="pt">A Bailarina</title>
+  </programme>
+  <programme start="20200702220000 -0300" stop="20200702235000 -0300" channel="Telecine Fun">
+    <title lang="pt">Esqueceram de Mim</title>
+  </programme>
+  <programme start="20200702235000 -0300" stop="20200703014000 -0300" channel="Telecine Fun">
+    <title lang="pt">O Mistério do Relógio Na Parede</title>
+  </programme>
+  <programme start="20200703014000 -0300" stop="20200703032000 -0300" channel="Telecine Fun">
+    <title lang="pt">Doces Ou Travessuras</title>
+  </programme>
+  <programme start="20200703032000 -0300" stop="20200703052000 -0300" channel="Telecine Fun">
+    <title lang="pt">Um Professor Substituto</title>
+  </programme>
+  <programme start="20200703052000 -0300" stop="20200703071500 -0300" channel="Telecine Fun">
+    <title lang="pt">O Que Esperar Quando Você Está Esperando</title>
+  </programme>
+  <programme start="20200703071500 -0300" stop="20200703090000 -0300" channel="Telecine Fun">
+    <title lang="pt">Uma Turma Divertida: A Caminho de Casa</title>
+  </programme>
+  <programme start="20200703090000 -0300" stop="20200703105000 -0300" channel="Telecine Fun">
+    <title lang="pt">La Vingança</title>
+  </programme>
+  <programme start="20200703105000 -0300" stop="20200703125500 -0300" channel="Telecine Fun">
+    <title lang="pt">As Testemunhas de Madea</title>
+  </programme>
+  <programme start="20200703125500 -0300" stop="20200703145000 -0300" channel="Telecine Fun">
+    <title lang="pt">Imagine Só!</title>
+  </programme>
+  <programme start="20200703145000 -0300" stop="20200703164000 -0300" channel="Telecine Fun">
+    <title lang="pt">Que Família É Essa?</title>
+  </programme>
+  <programme start="20200703164000 -0300" stop="20200703182000 -0300" channel="Telecine Fun">
+    <title lang="pt">Nacho Libre</title>
+  </programme>
+  <programme start="20200703182000 -0300" stop="20200703200000 -0300" channel="Telecine Fun">
+    <title lang="pt">Com a Bola Toda (2004)</title>
+  </programme>
+  <programme start="20200703200000 -0300" stop="20200703220000 -0300" channel="Telecine Fun">
+    <title lang="pt">Malasartes E O Duelo Com A Morte</title>
+  </programme>
+  <programme start="20200703220000 -0300" stop="20200704001000 -0300" channel="Telecine Fun">
+    <title lang="pt">Volta ao Mundo em 80 Dias - Uma Aposta Muito Louca</title>
+  </programme>
+  <programme start="20200704001000 -0300" stop="20200704020500 -0300" channel="Telecine Fun">
+    <title lang="pt">Última Viagem a Vegas</title>
+  </programme>
+  <programme start="20200704020500 -0300" stop="20200704034500 -0300" channel="Telecine Fun">
+    <title lang="pt">Deu Tudo Errado</title>
+  </programme>
+  <programme start="20200704034500 -0300" stop="20200704052000 -0300" channel="Telecine Fun">
+    <title lang="pt">Uma Noite E Tanto</title>
+  </programme>
+  <programme start="20200704052000 -0300" stop="20200704070500 -0300" channel="Telecine Fun">
+    <title lang="pt">Hunter x Hunter: A Última Missão</title>
+  </programme>
+  <programme start="20200704070500 -0300" stop="20200704084000 -0300" channel="Telecine Fun">
+    <title lang="pt">O Lorax - Em Busca da Trúfula Perdida</title>
+  </programme>
+  <programme start="20200704084000 -0300" stop="20200704102000 -0300" channel="Telecine Fun">
+    <title lang="pt">Uma Família Feliz</title>
+  </programme>
+  <programme start="20200704102000 -0300" stop="20200704114500 -0300" channel="Telecine Fun">
+    <title lang="pt">Ladybug: Aventura dos Insetos</title>
+  </programme>
+  <programme start="20200704114500 -0300" stop="20200704133000 -0300" channel="Telecine Fun">
+    <title lang="pt">Belle E Sebastian - A Aventura Continua</title>
+  </programme>
+  <programme start="20200704133000 -0300" stop="20200704151500 -0300" channel="Telecine Fun">
+    <title lang="pt">Matilda</title>
+  </programme>
+  <programme start="20200704151500 -0300" stop="20200704165500 -0300" channel="Telecine Fun">
+    <title lang="pt">Doces Ou Travessuras</title>
+  </programme>
+  <programme start="20200704165500 -0300" stop="20200704183000 -0300" channel="Telecine Fun">
+    <title lang="pt">Johnny English 3.0</title>
+  </programme>
+  <programme start="20200704183000 -0300" stop="20200704201000 -0300" channel="Telecine Fun">
+    <title lang="pt">D.P.A. - Detetives Do Prédio Azul</title>
+  </programme>
+  <programme start="20200704201000 -0300" stop="20200704220000 -0300" channel="Telecine Fun">
+    <title lang="pt">Os Seis Signos da Luz</title>
+  </programme>
+  <programme start="20200704220000 -0300" stop="20200704234000 -0300" channel="Telecine Fun">
+    <title lang="pt">Minions</title>
+  </programme>
+  <programme start="20200704234000 -0300" stop="20200705022000 -0300" channel="Telecine Fun">
+    <title lang="pt">Harry Potter e o Enigma do Príncipe</title>
+  </programme>
+  <programme start="20200705022000 -0300" stop="20200705040500 -0300" channel="Telecine Fun">
+    <title lang="pt">Par Perfeito</title>
+  </programme>
+  <programme start="20200705040500 -0300" stop="20200705060500 -0300" channel="Telecine Fun">
+    <title lang="pt">Um Milhão De Maneiras De Pegar Na Pistola</title>
+  </programme>
+  <programme start="20200705060500 -0300" stop="20200705073500 -0300" channel="Telecine Fun">
+    <title lang="pt">Se Puder... Dirija!</title>
+  </programme>
+  <programme start="20200705073500 -0300" stop="20200705090500 -0300" channel="Telecine Fun">
+    <title lang="pt">O Garoto-Formiga 3</title>
+  </programme>
+  <programme start="20200705090500 -0300" stop="20200705110000 -0300" channel="Telecine Fun">
+    <title lang="pt">O Cachorro Bombeiro</title>
+  </programme>
+  <programme start="20200705110000 -0300" stop="20200705125000 -0300" channel="Telecine Fun">
+    <title lang="pt">Abulele: Meu Amigo Monstro</title>
+  </programme>
+  <programme start="20200705125000 -0300" stop="20200705143000 -0300" channel="Telecine Fun">
+    <title lang="pt">A Bailarina</title>
+  </programme>
+  <programme start="20200705143000 -0300" stop="20200705162500 -0300" channel="Telecine Fun">
+    <title lang="pt">Esqueceram de Mim</title>
+  </programme>
+  <programme start="20200705162500 -0300" stop="20200705182000 -0300" channel="Telecine Fun">
+    <title lang="pt">O Mistério do Relógio Na Parede</title>
+  </programme>
+  <programme start="20200705182000 -0300" stop="20200705201500 -0300" channel="Telecine Fun">
+    <title lang="pt">Lego Ninjago: O Filme</title>
+  </programme>
+  <programme start="20200705201500 -0300" stop="20200705220000 -0300" channel="Telecine Fun">
+    <title lang="pt">Programa Duplo: Legalmente Loira</title>
+  </programme>
+  <programme start="20200705220000 -0300" stop="20200705234500 -0300" channel="Telecine Fun">
+    <title lang="pt">Programa Duplo: Legalmente Loira 2</title>
+  </programme>
+  <programme start="20200705234500 -0300" stop="20200706014500 -0300" channel="Telecine Fun">
+    <title lang="pt">Homem Ao Mar</title>
+  </programme>
+  <programme start="20200706014500 -0300" stop="20200706033500 -0300" channel="Telecine Fun">
+    <title lang="pt">Ted</title>
+  </programme>
+  <programme start="20200706033500 -0300" stop="20200706051000 -0300" channel="Telecine Fun">
+    <title lang="pt">Nacho Libre</title>
+  </programme>
+  <programme start="20200706051000 -0300" stop="20200706062500 -0300" channel="Telecine Fun">
+    <title lang="pt">Jackass 2.5</title>
+  </programme>
+  <programme start="20200706062500 -0300" stop="20200706075500 -0300" channel="Telecine Fun">
+    <title lang="pt">O Comédia</title>
+  </programme>
+  <programme start="20200706075500 -0300" stop="20200706094000 -0300" channel="Telecine Fun">
+    <title lang="pt">Belle E Sebastian - A Aventura Continua</title>
+  </programme>
+  <programme start="20200706094000 -0300" stop="20200706111000 -0300" channel="Telecine Fun">
+    <title lang="pt">31 Minutos - O Filme</title>
+  </programme>
+  <programme start="20200706111000 -0300" stop="20200706123500 -0300" channel="Telecine Fun">
+    <title lang="pt">Cão Que Ladra Não Morde</title>
+  </programme>
+  <programme start="20200706123500 -0300" stop="20200706141000 -0300" channel="Telecine Fun">
+    <title lang="pt">Caminhando Com Dinossauros</title>
+  </programme>
+  <programme start="20200706141000 -0300" stop="20200706155000 -0300" channel="Telecine Fun">
+    <title lang="pt">Minions</title>
+  </programme>
+  <programme start="20200706155000 -0300" stop="20200706180000 -0300" channel="Telecine Fun">
+    <title lang="pt">Volta ao Mundo em 80 Dias - Uma Aposta Muito Louca</title>
+  </programme>
+  <programme start="20200706180000 -0300" stop="20200706200000 -0300" channel="Telecine Fun">
+    <title lang="pt">Click</title>
+  </programme>
+  <programme start="20200706200000 -0300" stop="20200706220000 -0300" channel="Telecine Fun">
+    <title lang="pt">A Escolha Perfeita (2012)</title>
+  </programme>
+  <programme start="20200706220000 -0300" stop="20200706234000 -0300" channel="Telecine Fun">
+    <title lang="pt">Valente</title>
+  </programme>
+  <programme start="20200706234000 -0300" stop="20200707011500 -0300" channel="Telecine Fun">
+    <title lang="pt">O Grinch (2018)</title>
   </programme>
 </tv>
