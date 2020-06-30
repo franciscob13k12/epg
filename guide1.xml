@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Telecine Premium">
+    <display-name lang="pt">Telecine Premium</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20200629220000 -0300" stop="20200630001500 -0300" channel="Telecine Premium">
+    <title lang="pt">Downton Abbey</title>
+  </programme>
+  <programme start="20200630001500 -0300" stop="20200630022500 -0300" channel="Telecine Premium">
+    <title lang="pt">O Menino Que Queria Ser Rei</title>
+  </programme>
+  <programme start="20200630022500 -0300" stop="20200630041500 -0300" channel="Telecine Premium">
+    <title lang="pt">Artista do Desastre</title>
+  </programme>
+  <programme start="20200630041500 -0300" stop="20200630060500 -0300" channel="Telecine Premium">
+    <title lang="pt">Raízes de Sangue</title>
+  </programme>
+  <programme start="20200630060500 -0300" stop="20200630081500 -0300" channel="Telecine Premium">
+    <title lang="pt">Máquinas Mortais</title>
+  </programme>
+  <programme start="20200630081500 -0300" stop="20200630100000 -0300" channel="Telecine Premium">
+    <title lang="pt">Minha Irmã de Paris</title>
+  </programme>
+  <programme start="20200630100000 -0300" stop="20200630115000 -0300" channel="Telecine Premium">
+    <title lang="pt">Lutador Misterioso</title>
+  </programme>
+  <programme start="20200630115000 -0300" stop="20200630135500 -0300" channel="Telecine Premium">
+    <title lang="pt">Nós</title>
+  </programme>
+  <programme start="20200630135500 -0300" stop="20200630155000 -0300" channel="Telecine Premium">
+    <title lang="pt">O Predador (2018)</title>
+  </programme>
+  <programme start="20200630155000 -0300" stop="20200630175000 -0300" channel="Telecine Premium">
+    <title lang="pt">X-men: Fênix Negra</title>
+  </programme>
+  <programme start="20200630175000 -0300" stop="20200630195500 -0300" channel="Telecine Premium">
+    <title lang="pt">John Delorean: Visionário ou Vigarista?</title>
+  </programme>
+  <programme start="20200630195500 -0300" stop="20200630220000 -0300" channel="Telecine Premium">
+    <title lang="pt">Delorean - do Motor ao Crime</title>
+  </programme>
+  <programme start="20200630220000 -0300" stop="20200701000500 -0300" channel="Telecine Premium">
+    <title lang="pt">Jumanji: Bem-vindo à Selva</title>
+  </programme>
+  <programme start="20200701000500 -0300" stop="20200701015000 -0300" channel="Telecine Premium">
+    <title lang="pt">Ma (2019)</title>
+  </programme>
+  <programme start="20200701015000 -0300" stop="20200701035500 -0300" channel="Telecine Premium">
+    <title lang="pt">Hebe: A Estrela do Brasil</title>
+  </programme>
+  <programme start="20200701035500 -0300" stop="20200701053500 -0300" channel="Telecine Premium">
+    <title lang="pt">Cruise: Destino em Colisão</title>
+  </programme>
+  <programme start="20200701053500 -0300" stop="20200701082500 -0300" channel="Telecine Premium">
+    <title lang="pt">Blade Runner 2049</title>
+  </programme>
+  <programme start="20200701082500 -0300" stop="20200701104000 -0300" channel="Telecine Premium">
+    <title lang="pt">O Gênio e o Louco</title>
+  </programme>
+  <programme start="20200701104000 -0300" stop="20200701122500 -0300" channel="Telecine Premium">
+    <title lang="pt">Memória de Um Crime</title>
+  </programme>
+  <programme start="20200701122500 -0300" stop="20200701141000 -0300" channel="Telecine Premium">
+    <title lang="pt">15h17: Trem Para Paris</title>
+  </programme>
+  <programme start="20200701141000 -0300" stop="20200701155000 -0300" channel="Telecine Premium">
+    <title lang="pt">Maligno</title>
+  </programme>
+  <programme start="20200701155000 -0300" stop="20200701180000 -0300" channel="Telecine Premium">
+    <title lang="pt">Ad Astra: Rumo Às Estrelas</title>
+  </programme>
+  <programme start="20200701180000 -0300" stop="20200701195000 -0300" channel="Telecine Premium">
+    <title lang="pt">Lealdade à Prova</title>
+  </programme>
+  <programme start="20200701195000 -0300" stop="20200701220000 -0300" channel="Telecine Premium">
+    <title lang="pt">Sicario: Dia do Soldado</title>
+  </programme>
+  <programme start="20200701220000 -0300" stop="20200701235500 -0300" channel="Telecine Premium">
+    <title lang="pt">O Assassino: O Primeiro Alvo</title>
+  </programme>
+  <programme start="20200701235500 -0300" stop="20200702013500 -0300" channel="Telecine Premium">
+    <title lang="pt">Tolerância Zero</title>
+  </programme>
+  <programme start="20200702013500 -0300" stop="20200702032500 -0300" channel="Telecine Premium">
+    <title lang="pt">Poderia Me Perdoar?</title>
+  </programme>
+  <programme start="20200702032500 -0300" stop="20200702051500 -0300" channel="Telecine Premium">
+    <title lang="pt">Nina - no Palco e na Vida</title>
+  </programme>
+  <programme start="20200702051500 -0300" stop="20200702070000 -0300" channel="Telecine Premium">
+    <title lang="pt">Os Assassinatos de Amityville</title>
+  </programme>
+  <programme start="20200702070000 -0300" stop="20200702085000 -0300" channel="Telecine Premium">
+    <title lang="pt">As Aventuras de Errol Flynn</title>
+  </programme>
+  <programme start="20200702085000 -0300" stop="20200702104000 -0300" channel="Telecine Premium">
+    <title lang="pt">A Espiã Vermelha</title>
+  </programme>
+  <programme start="20200702104000 -0300" stop="20200702121500 -0300" channel="Telecine Premium">
+    <title lang="pt">Tudo Acaba Em Festa</title>
+  </programme>
+  <programme start="20200702121500 -0300" stop="20200702135500 -0300" channel="Telecine Premium">
+    <title lang="pt">O Parque dos Sonhos</title>
+  </programme>
+  <programme start="20200702135500 -0300" stop="20200702154500 -0300" channel="Telecine Premium">
+    <title lang="pt">Dragon Ball Super: Broly - o Filme</title>
+  </programme>
+  <programme start="20200702154500 -0300" stop="20200702175500 -0300" channel="Telecine Premium">
+    <title lang="pt">O Menino Que Queria Ser Rei</title>
+  </programme>
+  <programme start="20200702175500 -0300" stop="20200702200000 -0300" channel="Telecine Premium">
+    <title lang="pt">Socorro, Virei Uma Garota!</title>
+  </programme>
+  <programme start="20200702200000 -0300" stop="20200702220000 -0300" channel="Telecine Premium">
+    <title lang="pt">Abigail e a Cidade Proibida</title>
+  </programme>
+  <programme start="20200702220000 -0300" stop="20200702233500 -0300" channel="Telecine Premium">
+    <title lang="pt">Pets: A Vida Secreta dos Bichos 2</title>
+  </programme>
+  <programme start="20200702233500 -0300" stop="20200703012500 -0300" channel="Telecine Premium">
+    <title lang="pt">Entrevista Com Deus</title>
+  </programme>
+  <programme start="20200703012500 -0300" stop="20200703033500 -0300" channel="Telecine Premium">
+    <title lang="pt">Sicario: Dia do Soldado</title>
+  </programme>
+  <programme start="20200703033500 -0300" stop="20200703053500 -0300" channel="Telecine Premium">
+    <title lang="pt">As Discípulas de Charles Manson</title>
+  </programme>
+  <programme start="20200703053500 -0300" stop="20200703072000 -0300" channel="Telecine Premium">
+    <title lang="pt">Anjo Meu</title>
+  </programme>
+  <programme start="20200703072000 -0300" stop="20200703090000 -0300" channel="Telecine Premium">
+    <title lang="pt">Maligno</title>
+  </programme>
+  <programme start="20200703090000 -0300" stop="20200703104500 -0300" channel="Telecine Premium">
+    <title lang="pt">15h17: Trem Para Paris</title>
+  </programme>
+  <programme start="20200703104500 -0300" stop="20200703123500 -0300" channel="Telecine Premium">
+    <title lang="pt">Lealdade à Prova</title>
+  </programme>
+  <programme start="20200703123500 -0300" stop="20200703143500 -0300" channel="Telecine Premium">
+    <title lang="pt">Além da Morte</title>
+  </programme>
+  <programme start="20200703143500 -0300" stop="20200703161500 -0300" channel="Telecine Premium">
+    <title lang="pt">Tolerância Zero</title>
+  </programme>
+  <programme start="20200703161500 -0300" stop="20200703180000 -0300" channel="Telecine Premium">
+    <title lang="pt">Ma (2019)</title>
+  </programme>
+  <programme start="20200703180000 -0300" stop="20200703200000 -0300" channel="Telecine Premium">
+    <title lang="pt">De Pernas Pro Ar 3</title>
+  </programme>
+  <programme start="20200703200000 -0300" stop="20200703220000 -0300" channel="Telecine Premium">
+    <title lang="pt">Operação Supletivo</title>
+  </programme>
+  <programme start="20200703220000 -0300" stop="20200704000000 -0300" channel="Telecine Premium">
+    <title lang="pt">Oito Mulheres e Um Segredo</title>
+  </programme>
+  <programme start="20200704000000 -0300" stop="20200704020000 -0300" channel="Telecine Premium">
+    <title lang="pt">Minha Mãe é Uma Peça 3</title>
+  </programme>
+  <programme start="20200704020000 -0300" stop="20200704033500 -0300" channel="Telecine Premium">
+    <title lang="pt">Reencontro Mortal</title>
+  </programme>
+  <programme start="20200704033500 -0300" stop="20200704051000 -0300" channel="Telecine Premium">
+    <title lang="pt">Continue Assistindo</title>
+  </programme>
+  <programme start="20200704051000 -0300" stop="20200704070000 -0300" channel="Telecine Premium">
+    <title lang="pt">A Namorada do Meu Irmão</title>
+  </programme>
+  <programme start="20200704070000 -0300" stop="20200704083500 -0300" channel="Telecine Premium">
+    <title lang="pt">O Parque dos Sonhos</title>
+  </programme>
+  <programme start="20200704083500 -0300" stop="20200704102500 -0300" channel="Telecine Premium">
+    <title lang="pt">Dragon Ball Super: Broly - o Filme</title>
+  </programme>
+  <programme start="20200704102500 -0300" stop="20200704120500 -0300" channel="Telecine Premium">
+    <title lang="pt">O Velho e a Arma</title>
+  </programme>
+  <programme start="20200704120500 -0300" stop="20200704140500 -0300" channel="Telecine Premium">
+    <title lang="pt">Abigail e a Cidade Proibida</title>
+  </programme>
+  <programme start="20200704140500 -0300" stop="20200704155500 -0300" channel="Telecine Premium">
+    <title lang="pt">O Sol Também é Uma Estrela</title>
+  </programme>
+  <programme start="20200704155500 -0300" stop="20200704174500 -0300" channel="Telecine Premium">
+    <title lang="pt">Entrevista Com Deus</title>
+  </programme>
+  <programme start="20200704174500 -0300" stop="20200704194500 -0300" channel="Telecine Premium">
+    <title lang="pt">O Assassino: O Primeiro Alvo</title>
+  </programme>
+  <programme start="20200704194500 -0300" stop="20200704215000 -0300" channel="Telecine Premium">
+    <title lang="pt">Liga da Justiça</title>
+  </programme>
+  <programme start="20200704215000 -0300" stop="20200704220000 -0300" channel="Telecine Premium">
+    <title lang="pt">Lou</title>
+  </programme>
+  <programme start="20200704220000 -0300" stop="20200704233500 -0300" channel="Telecine Premium">
+    <title lang="pt">A Família Addams (2019)</title>
+  </programme>
+  <programme start="20200704233500 -0300" stop="20200705013000 -0300" channel="Telecine Premium">
+    <title lang="pt">Meu Amigo Enzo</title>
+  </programme>
+  <programme start="20200705013000 -0300" stop="20200705030500 -0300" channel="Telecine Premium">
+    <title lang="pt">Você Nunca Esteve Realmente Aqui</title>
+  </programme>
+  <programme start="20200705030500 -0300" stop="20200705045500 -0300" channel="Telecine Premium">
+    <title lang="pt">A Espiã Vermelha</title>
+  </programme>
+  <programme start="20200705045500 -0300" stop="20200705063500 -0300" channel="Telecine Premium">
+    <title lang="pt">Coexistir Não é Fácil</title>
+  </programme>
+  <programme start="20200705063500 -0300" stop="20200705083500 -0300" channel="Telecine Premium">
+    <title lang="pt">Além da Morte</title>
+  </programme>
+  <programme start="20200705083500 -0300" stop="20200705101500 -0300" channel="Telecine Premium">
+    <title lang="pt">Primeiro Ano</title>
+  </programme>
+  <programme start="20200705101500 -0300" stop="20200705120500 -0300" channel="Telecine Premium">
+    <title lang="pt">15 Minutos de Guerra</title>
+  </programme>
+  <programme start="20200705120500 -0300" stop="20200705141000 -0300" channel="Telecine Premium">
+    <title lang="pt">Socorro, Virei Uma Garota!</title>
+  </programme>
+  <programme start="20200705141000 -0300" stop="20200705161000 -0300" channel="Telecine Premium">
+    <title lang="pt">Operação Supletivo</title>
+  </programme>
+  <programme start="20200705161000 -0300" stop="20200705174500 -0300" channel="Telecine Premium">
+    <title lang="pt">Pets: A Vida Secreta dos Bichos 2</title>
+  </programme>
+  <programme start="20200705174500 -0300" stop="20200705195000 -0300" channel="Telecine Premium">
+    <title lang="pt">Oito Mulheres e Um Segredo</title>
+  </programme>
+  <programme start="20200705195000 -0300" stop="20200705220000 -0300" channel="Telecine Premium">
+    <title lang="pt">Power Rangers</title>
+  </programme>
+  <programme start="20200705220000 -0300" stop="20200706000000 -0300" channel="Telecine Premium">
+    <title lang="pt">Minha Mãe é Uma Peça 3</title>
+  </programme>
+</tv>
