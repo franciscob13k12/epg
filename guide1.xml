@@ -16,6 +16,38 @@
     <display-name lang="es">HBO Alternativo HD</display-name>
     <url>http://www.mi.tv2</url>
   </channel>
+  <channel id="HBO 2 FHD">
+    <display-name lang="es">HBO 2 FHD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="es">HBO 2 HD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO 2 Alternativo HD">
+    <display-name lang="es">HBO 2 Alternativo HD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="es">HBO 2</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO Plus FHD">
+    <display-name lang="es">HBO Plus FHD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO Plus HD">
+    <display-name lang="es">HBO Plus HD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO Plus">
+    <display-name lang="es">HBO Plus</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO Plus Alternativo HD">
+    <display-name lang="es">HBO Plus Alternativo HD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
   <programme start="20201105043500 +0000" stop="20201105062000 +0000" channel="HBO FHD">
     <title lang="es">A Pura Verdade</title>
   </programme>
