@@ -1,423 +1,563 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.3.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="HBO FHD">
-    <display-name lang="es">HBO FHD</display-name>
+    <display-name lang="br">HBO FHD</display-name>
     <url>http://www.mi.tv2</url>
   </channel>
   <channel id="HBO HD">
-    <display-name lang="es">HBO HD</display-name>
+    <display-name lang="br">HBO HD</display-name>
     <url>http://www.mi.tv2</url>
   </channel>
   <channel id="HBO">
-    <display-name lang="es">HBO</display-name>
+    <display-name lang="br">HBO</display-name>
     <url>http://www.mi.tv2</url>
   </channel>
   <channel id="HBO Alternativo HD">
-    <display-name lang="es">HBO Alternativo HD</display-name>
+    <display-name lang="br">HBO Alternativo HD</display-name>
     <url>http://www.mi.tv2</url>
   </channel>
   <channel id="HBO 2 FHD">
-    <display-name lang="es">HBO 2 FHD</display-name>
+    <display-name lang="br">HBO 2 FHD</display-name>
     <url>http://www.mi.tv2</url>
   </channel>
   <channel id="HBO 2 HD">
-    <display-name lang="es">HBO 2 HD</display-name>
+    <display-name lang="br">HBO 2 HD</display-name>
     <url>http://www.mi.tv2</url>
   </channel>
   <channel id="HBO 2 Alternativo HD">
-    <display-name lang="es">HBO 2 Alternativo HD</display-name>
+    <display-name lang="br">HBO 2 Alternativo HD</display-name>
     <url>http://www.mi.tv2</url>
   </channel>
   <channel id="HBO 2">
-    <display-name lang="es">HBO 2</display-name>
+    <display-name lang="br">HBO 2</display-name>
     <url>http://www.mi.tv2</url>
   </channel>
   <channel id="HBO Plus FHD">
-    <display-name lang="es">HBO Plus FHD</display-name>
+    <display-name lang="br">HBO Plus FHD</display-name>
     <url>http://www.mi.tv2</url>
   </channel>
   <channel id="HBO Plus HD">
-    <display-name lang="es">HBO Plus HD</display-name>
+    <display-name lang="br">HBO Plus HD</display-name>
     <url>http://www.mi.tv2</url>
   </channel>
   <channel id="HBO Plus">
-    <display-name lang="es">HBO Plus</display-name>
+    <display-name lang="br">HBO Plus</display-name>
     <url>http://www.mi.tv2</url>
   </channel>
   <channel id="HBO Plus Alternativo HD">
-    <display-name lang="es">HBO Plus Alternativo HD</display-name>
+    <display-name lang="br">HBO Plus Alternativo HD</display-name>
     <url>http://www.mi.tv2</url>
   </channel>
-  <programme start="20201105043500 +0000" stop="20201105062000 +0000" channel="HBO FHD">
-    <title lang="es">A Pura Verdade</title>
+  <channel id="HBO Family FHD">
+    <display-name lang="br">HBO Family FHD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO Family HD">
+    <display-name lang="br">HBO Family HD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="br">HBO Family</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO Family Alternativo HD">
+    <display-name lang="br">HBO Family Alternativo HD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO Signature FHD">
+    <display-name lang="br">HBO Signature FHD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO Signature HD">
+    <display-name lang="br">HBO Signature HD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="br">HBO Signature</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO Signature Alternativo HD">
+    <display-name lang="br">HBO Signature Alternativo HD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO Mundi FHD">
+    <display-name lang="br">HBO Mundi FHD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO Mundi HD">
+    <display-name lang="br">HBO Mundi HD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO Mundi">
+    <display-name lang="br">HBO Mundi</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO Mundi Alternativo HD">
+    <display-name lang="br">HBO Mundi Alternativo HD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO POP FHD">
+    <display-name lang="br">HBO POP FHD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO POP HD">
+    <display-name lang="br">HBO POP HD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO POP">
+    <display-name lang="br">HBO POP</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO POP Alternativo HD">
+    <display-name lang="br">HBO POP Alternativo HD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO Xtreme FHD">
+    <display-name lang="br">HBO Xtreme FHD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO Xtreme HD">
+    <display-name lang="br">HBO Xtreme HD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO Xtreme">
+    <display-name lang="br">HBO Xtreme</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="HBO Xtreme Alternativo HD">
+    <display-name lang="br">HBO Xtreme Alternativo HD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <programme start="20201105043500 -0200" stop="20201105062000 -0200" channel="HBO FHD">
+    <title lang="br">A Pura Verdade</title>
+  </programme>
+  <programme start="20201105062000 -0200" stop="20201105065000 -0200" channel="HBO FHD">
+    <title lang="br">Axios</title>
+  </programme>
+  <programme start="20201105065000 -0200" stop="20201105085500 -0200" channel="HBO FHD">
+    <title lang="br">Coringa</title>
+  </programme>
+  <programme start="20201105085500 -0200" stop="20201105110000 -0200" channel="HBO FHD">
+    <title lang="br">A Rede Social</title>
+  </programme>
+  <programme start="20201105110000 -0200" stop="20201105132500 -0200" channel="HBO FHD">
+    <title lang="br">Brooklyn - Sem Pai nem Mãe</title>
+  </programme>
+  <programme start="20201105132500 -0200" stop="20201105135500 -0200" channel="HBO FHD">
+    <title lang="br">Vergonha</title>
+  </programme>
+  <programme start="20201105135500 -0200" stop="20201105161500 -0200" channel="HBO FHD">
+    <title lang="br">O Caso Richard Jewell</title>
+  </programme>
+  <programme start="20201105161500 -0200" stop="20201105165500 -0200" channel="HBO FHD">
+    <title lang="br">Last Week Tonight With John Oliver</title>
   </programme>
-  <programme start="20201105062000 +0000" stop="20201105065000 +0000" channel="HBO FHD">
-    <title lang="es">Axios</title>
+  <programme start="20201105165500 -0200" stop="20201105190000 -0200" channel="HBO FHD">
+    <title lang="br">A Música da Minha Vida</title>
   </programme>
-  <programme start="20201105065000 +0000" stop="20201105085500 +0000" channel="HBO FHD">
-    <title lang="es">Coringa</title>
+  <programme start="20201105190000 -0200" stop="20201105200000 -0200" channel="HBO FHD">
+    <title lang="br">Pátria</title>
   </programme>
-  <programme start="20201105085500 +0000" stop="20201105110000 +0000" channel="HBO FHD">
-    <title lang="es">A Rede Social</title>
+  <programme start="20201105200000 -0200" stop="20201105210000 -0200" channel="HBO FHD">
+    <title lang="br">The Undoing</title>
   </programme>
-  <programme start="20201105110000 +0000" stop="20201105132500 +0000" channel="HBO FHD">
-    <title lang="es">Brooklyn - Sem Pai nem Mãe</title>
+  <programme start="20201105210000 -0200" stop="20201105230500 -0200" channel="HBO FHD">
+    <title lang="br">Coringa</title>
   </programme>
-  <programme start="20201105132500 +0000" stop="20201105135500 +0000" channel="HBO FHD">
-    <title lang="es">Vergonha</title>
+  <programme start="20201105230500 -0200" stop="20201106005500 -0200" channel="HBO FHD">
+    <title lang="br">Annabelle 3 - De Volta para Casa</title>
   </programme>
-  <programme start="20201105135500 +0000" stop="20201105161500 +0000" channel="HBO FHD">
-    <title lang="es">O Caso Richard Jewell</title>
+  <programme start="20201105043500 -0200" stop="20201105062000 -0200" channel="HBO HD">
+    <title lang="br">A Pura Verdade</title>
   </programme>
-  <programme start="20201105161500 +0000" stop="20201105165500 +0000" channel="HBO FHD">
-    <title lang="es">Last Week Tonight With John Oliver</title>
+  <programme start="20201105062000 -0200" stop="20201105065000 -0200" channel="HBO HD">
+    <title lang="br">Axios</title>
   </programme>
-  <programme start="20201105165500 +0000" stop="20201105190000 +0000" channel="HBO FHD">
-    <title lang="es">A Música da Minha Vida</title>
+  <programme start="20201105065000 -0200" stop="20201105085500 -0200" channel="HBO HD">
+    <title lang="br">Coringa</title>
   </programme>
-  <programme start="20201105190000 +0000" stop="20201105200000 +0000" channel="HBO FHD">
-    <title lang="es">Pátria</title>
+  <programme start="20201105085500 -0200" stop="20201105110000 -0200" channel="HBO HD">
+    <title lang="br">A Rede Social</title>
   </programme>
-  <programme start="20201105200000 +0000" stop="20201105210000 +0000" channel="HBO FHD">
-    <title lang="es">The Undoing</title>
+  <programme start="20201105110000 -0200" stop="20201105132500 -0200" channel="HBO HD">
+    <title lang="br">Brooklyn - Sem Pai nem Mãe</title>
   </programme>
-  <programme start="20201105210000 +0000" stop="20201105230500 +0000" channel="HBO FHD">
-    <title lang="es">Coringa</title>
+  <programme start="20201105132500 -0200" stop="20201105135500 -0200" channel="HBO HD">
+    <title lang="br">Vergonha</title>
   </programme>
-  <programme start="20201105230500 +0000" stop="20201106005500 +0000" channel="HBO FHD">
-    <title lang="es">Annabelle 3 - De Volta para Casa</title>
+  <programme start="20201105135500 -0200" stop="20201105161500 -0200" channel="HBO HD">
+    <title lang="br">O Caso Richard Jewell</title>
   </programme>
-  <programme start="20201106005500 +0000" stop="20201106023500 +0000" channel="HBO FHD">
-    <title lang="es">A Guerra dos Consoles</title>
+  <programme start="20201105161500 -0200" stop="20201105165500 -0200" channel="HBO HD">
+    <title lang="br">Last Week Tonight With John Oliver</title>
   </programme>
-  <programme start="20201106023500 +0000" stop="20201106045000 +0000" channel="HBO FHD">
-    <title lang="es">O Corvo Branco</title>
+  <programme start="20201105165500 -0200" stop="20201105190000 -0200" channel="HBO HD">
+    <title lang="br">A Música da Minha Vida</title>
   </programme>
-  <programme start="20201106045000 +0000" stop="20201106045000 +0000" channel="HBO FHD">
-    <title lang="es">Comer, Rezar, Amar</title>
+  <programme start="20201105190000 -0200" stop="20201105200000 -0200" channel="HBO HD">
+    <title lang="br">Pátria</title>
   </programme>
-  <programme start="20201106045000 +0000" stop="20201106071500 +0000" channel="HBO FHD">
-    <title lang="es">Comer, Rezar, Amar</title>
+  <programme start="20201105200000 -0200" stop="20201105210000 -0200" channel="HBO HD">
+    <title lang="br">The Undoing</title>
   </programme>
-  <programme start="20201106071500 +0000" stop="20201106085500 +0000" channel="HBO FHD">
-    <title lang="es">Escape Room</title>
+  <programme start="20201105210000 -0200" stop="20201105230500 -0200" channel="HBO HD">
+    <title lang="br">Coringa</title>
   </programme>
-  <programme start="20201106085500 +0000" stop="20201106104500 +0000" channel="HBO FHD">
-    <title lang="es">Annabelle 3 - De Volta para Casa</title>
+  <programme start="20201105230500 -0200" stop="20201106005500 -0200" channel="HBO HD">
+    <title lang="br">Annabelle 3 - De Volta para Casa</title>
   </programme>
-  <programme start="20201106104500 +0000" stop="20201106111500 +0000" channel="HBO FHD">
-    <title lang="es">The Shop</title>
+  <programme start="20201105043500 -0200" stop="20201105062000 -0200" channel="HBO">
+    <title lang="br">A Pura Verdade</title>
   </programme>
-  <programme start="20201106111500 +0000" stop="20201106130500 +0000" channel="HBO FHD">
-    <title lang="es">Miss Bala</title>
+  <programme start="20201105062000 -0200" stop="20201105065000 -0200" channel="HBO">
+    <title lang="br">Axios</title>
   </programme>
-  <programme start="20201106130500 +0000" stop="20201106143500 +0000" channel="HBO FHD">
-    <title lang="es">A Arma Perfeita</title>
+  <programme start="20201105065000 -0200" stop="20201105085500 -0200" channel="HBO">
+    <title lang="br">Coringa</title>
   </programme>
-  <programme start="20201106143500 +0000" stop="20201106153500 +0000" channel="HBO FHD">
-    <title lang="es">Pátria</title>
+  <programme start="20201105085500 -0200" stop="20201105110000 -0200" channel="HBO">
+    <title lang="br">A Rede Social</title>
   </programme>
-  <programme start="20201106153500 +0000" stop="20201106173500 +0000" channel="HBO FHD">
-    <title lang="es">A Grande Mentira</title>
+  <programme start="20201105110000 -0200" stop="20201105132500 -0200" channel="HBO">
+    <title lang="br">Brooklyn - Sem Pai nem Mãe</title>
   </programme>
-  <programme start="20201106173500 +0000" stop="20201106193000 +0000" channel="HBO FHD">
-    <title lang="es">Annabelle 3 - De Volta para Casa</title>
+  <programme start="20201105132500 -0200" stop="20201105135500 -0200" channel="HBO">
+    <title lang="br">Vergonha</title>
   </programme>
-  <programme start="20201106193000 +0000" stop="20201106200400 +0000" channel="HBO FHD">
-    <title lang="es">Foodie Love</title>
+  <programme start="20201105135500 -0200" stop="20201105161500 -0200" channel="HBO">
+    <title lang="br">O Caso Richard Jewell</title>
   </programme>
-  <programme start="20201106200400 +0000" stop="20201106204000 +0000" channel="HBO FHD">
-    <title lang="es">Foodie Love</title>
+  <programme start="20201105161500 -0200" stop="20201105165500 -0200" channel="HBO">
+    <title lang="br">Last Week Tonight With John Oliver</title>
   </programme>
-  <programme start="20201106204000 +0000" stop="20201106220700 +0000" channel="HBO FHD">
-    <title lang="es">Cadáver</title>
+  <programme start="20201105165500 -0200" stop="20201105190000 -0200" channel="HBO">
+    <title lang="br">A Música da Minha Vida</title>
   </programme>
-  <programme start="20201106220700 +0000" stop="20201106224000 +0000" channel="HBO FHD">
-    <title lang="es">Greg News com Gregório Duvivier</title>
+  <programme start="20201105190000 -0200" stop="20201105200000 -0200" channel="HBO">
+    <title lang="br">Pátria</title>
   </programme>
-  <programme start="20201106224000 +0000" stop="20201106230500 +0000" channel="HBO FHD">
-    <title lang="es">Vergonha</title>
+  <programme start="20201105200000 -0200" stop="20201105210000 -0200" channel="HBO">
+    <title lang="br">The Undoing</title>
   </programme>
-  <programme start="20201106230500 +0000" stop="20201107005000 +0000" channel="HBO FHD">
-    <title lang="es">Escape Room</title>
+  <programme start="20201105210000 -0200" stop="20201105230500 -0200" channel="HBO">
+    <title lang="br">Coringa</title>
   </programme>
-  <programme start="20201105043500 +0000" stop="20201105062000 +0000" channel="HBO HD">
-    <title lang="es">A Pura Verdade</title>
+  <programme start="20201105230500 -0200" stop="20201106005500 -0200" channel="HBO">
+    <title lang="br">Annabelle 3 - De Volta para Casa</title>
   </programme>
-  <programme start="20201105062000 +0000" stop="20201105065000 +0000" channel="HBO HD">
-    <title lang="es">Axios</title>
+  <programme start="20201105043500 -0200" stop="20201105062000 -0200" channel="HBO Alternativo HD">
+    <title lang="br">A Pura Verdade</title>
   </programme>
-  <programme start="20201105065000 +0000" stop="20201105085500 +0000" channel="HBO HD">
-    <title lang="es">Coringa</title>
+  <programme start="20201105062000 -0200" stop="20201105065000 -0200" channel="HBO Alternativo HD">
+    <title lang="br">Axios</title>
   </programme>
-  <programme start="20201105085500 +0000" stop="20201105110000 +0000" channel="HBO HD">
-    <title lang="es">A Rede Social</title>
+  <programme start="20201105065000 -0200" stop="20201105085500 -0200" channel="HBO Alternativo HD">
+    <title lang="br">Coringa</title>
   </programme>
-  <programme start="20201105110000 +0000" stop="20201105132500 +0000" channel="HBO HD">
-    <title lang="es">Brooklyn - Sem Pai nem Mãe</title>
+  <programme start="20201105085500 -0200" stop="20201105110000 -0200" channel="HBO Alternativo HD">
+    <title lang="br">A Rede Social</title>
   </programme>
-  <programme start="20201105132500 +0000" stop="20201105135500 +0000" channel="HBO HD">
-    <title lang="es">Vergonha</title>
+  <programme start="20201105110000 -0200" stop="20201105132500 -0200" channel="HBO Alternativo HD">
+    <title lang="br">Brooklyn - Sem Pai nem Mãe</title>
   </programme>
-  <programme start="20201105135500 +0000" stop="20201105161500 +0000" channel="HBO HD">
-    <title lang="es">O Caso Richard Jewell</title>
+  <programme start="20201105132500 -0200" stop="20201105135500 -0200" channel="HBO Alternativo HD">
+    <title lang="br">Vergonha</title>
   </programme>
-  <programme start="20201105161500 +0000" stop="20201105165500 +0000" channel="HBO HD">
-    <title lang="es">Last Week Tonight With John Oliver</title>
+  <programme start="20201105135500 -0200" stop="20201105161500 -0200" channel="HBO Alternativo HD">
+    <title lang="br">O Caso Richard Jewell</title>
   </programme>
-  <programme start="20201105165500 +0000" stop="20201105190000 +0000" channel="HBO HD">
-    <title lang="es">A Música da Minha Vida</title>
+  <programme start="20201105161500 -0200" stop="20201105165500 -0200" channel="HBO Alternativo HD">
+    <title lang="br">Last Week Tonight With John Oliver</title>
   </programme>
-  <programme start="20201105190000 +0000" stop="20201105200000 +0000" channel="HBO HD">
-    <title lang="es">Pátria</title>
+  <programme start="20201105165500 -0200" stop="20201105190000 -0200" channel="HBO Alternativo HD">
+    <title lang="br">A Música da Minha Vida</title>
   </programme>
-  <programme start="20201105200000 +0000" stop="20201105210000 +0000" channel="HBO HD">
-    <title lang="es">The Undoing</title>
+  <programme start="20201105190000 -0200" stop="20201105200000 -0200" channel="HBO Alternativo HD">
+    <title lang="br">Pátria</title>
   </programme>
-  <programme start="20201105210000 +0000" stop="20201105230500 +0000" channel="HBO HD">
-    <title lang="es">Coringa</title>
+  <programme start="20201105200000 -0200" stop="20201105210000 -0200" channel="HBO Alternativo HD">
+    <title lang="br">The Undoing</title>
   </programme>
-  <programme start="20201105230500 +0000" stop="20201106005500 +0000" channel="HBO HD">
-    <title lang="es">Annabelle 3 - De Volta para Casa</title>
+  <programme start="20201105210000 -0200" stop="20201105230500 -0200" channel="HBO Alternativo HD">
+    <title lang="br">Coringa</title>
   </programme>
-  <programme start="20201106005500 +0000" stop="20201106023500 +0000" channel="HBO HD">
-    <title lang="es">A Guerra dos Consoles</title>
+  <programme start="20201105230500 -0200" stop="20201106005500 -0200" channel="HBO Alternativo HD">
+    <title lang="br">Annabelle 3 - De Volta para Casa</title>
   </programme>
-  <programme start="20201106023500 +0000" stop="20201106045000 +0000" channel="HBO HD">
-    <title lang="es">O Corvo Branco</title>
+  <programme start="20201105045000 -0200" stop="20201105063000 -0200" channel="HBO Plus FHD">
+    <title lang="br">Mortal Kombat - A Aniquilação</title>
   </programme>
-  <programme start="20201106045000 +0000" stop="20201106045000 +0000" channel="HBO HD">
-    <title lang="es">Comer, Rezar, Amar</title>
+  <programme start="20201105063000 -0200" stop="20201105083500 -0200" channel="HBO Plus FHD">
+    <title lang="br">Stealth - Ameaça Invisível</title>
   </programme>
-  <programme start="20201106045000 +0000" stop="20201106071500 +0000" channel="HBO HD">
-    <title lang="es">Comer, Rezar, Amar</title>
+  <programme start="20201105083500 -0200" stop="20201105103000 -0200" channel="HBO Plus FHD">
+    <title lang="br">Uma Aventura LEGO 2</title>
   </programme>
-  <programme start="20201106071500 +0000" stop="20201106085500 +0000" channel="HBO HD">
-    <title lang="es">Escape Room</title>
+  <programme start="20201105103000 -0200" stop="20201105122000 -0200" channel="HBO Plus FHD">
+    <title lang="br">Talk-Show - Reinventando a Comédia</title>
   </programme>
-  <programme start="20201106085500 +0000" stop="20201106104500 +0000" channel="HBO HD">
-    <title lang="es">Annabelle 3 - De Volta para Casa</title>
+  <programme start="20201105122000 -0200" stop="20201105140500 -0200" channel="HBO Plus FHD">
+    <title lang="br">Perfeita É a Mãe</title>
   </programme>
-  <programme start="20201106104500 +0000" stop="20201106111500 +0000" channel="HBO HD">
-    <title lang="es">The Shop</title>
+  <programme start="20201105140500 -0200" stop="20201105161500 -0200" channel="HBO Plus FHD">
+    <title lang="br">Shakira in Concert: El Dorado World Tour</title>
   </programme>
-  <programme start="20201106111500 +0000" stop="20201106130500 +0000" channel="HBO HD">
-    <title lang="es">Miss Bala</title>
+  <programme start="20201105161500 -0200" stop="20201105175500 -0200" channel="HBO Plus FHD">
+    <title lang="br">Refavela 40</title>
   </programme>
-  <programme start="20201106130500 +0000" stop="20201106143500 +0000" channel="HBO HD">
-    <title lang="es">A Arma Perfeita</title>
+  <programme start="20201105175500 -0200" stop="20201105190000 -0200" channel="HBO Plus FHD">
+    <title lang="br">We Are Who We Are</title>
   </programme>
-  <programme start="20201106143500 +0000" stop="20201106153500 +0000" channel="HBO HD">
-    <title lang="es">Pátria</title>
+  <programme start="20201105190000 -0200" stop="20201105210500 -0200" channel="HBO Plus FHD">
+    <title lang="br">Os Bad Boys</title>
   </programme>
-  <programme start="20201106153500 +0000" stop="20201106173500 +0000" channel="HBO HD">
-    <title lang="es">A Grande Mentira</title>
+  <programme start="20201105210500 -0200" stop="20201106000000 -0200" channel="HBO Plus FHD">
+    <title lang="br">It - Capítulo 2</title>
   </programme>
-  <programme start="20201106173500 +0000" stop="20201106193000 +0000" channel="HBO HD">
-    <title lang="es">Annabelle 3 - De Volta para Casa</title>
+  <programme start="20201105045000 -0200" stop="20201105063000 -0200" channel="HBO Plus HD">
+    <title lang="br">Mortal Kombat - A Aniquilação</title>
   </programme>
-  <programme start="20201106193000 +0000" stop="20201106200400 +0000" channel="HBO HD">
-    <title lang="es">Foodie Love</title>
+  <programme start="20201105063000 -0200" stop="20201105083500 -0200" channel="HBO Plus HD">
+    <title lang="br">Stealth - Ameaça Invisível</title>
   </programme>
-  <programme start="20201106200400 +0000" stop="20201106204000 +0000" channel="HBO HD">
-    <title lang="es">Foodie Love</title>
+  <programme start="20201105083500 -0200" stop="20201105103000 -0200" channel="HBO Plus HD">
+    <title lang="br">Uma Aventura LEGO 2</title>
   </programme>
-  <programme start="20201106204000 +0000" stop="20201106220700 +0000" channel="HBO HD">
-    <title lang="es">Cadáver</title>
+  <programme start="20201105103000 -0200" stop="20201105122000 -0200" channel="HBO Plus HD">
+    <title lang="br">Talk-Show - Reinventando a Comédia</title>
   </programme>
-  <programme start="20201106220700 +0000" stop="20201106224000 +0000" channel="HBO HD">
-    <title lang="es">Greg News com Gregório Duvivier</title>
+  <programme start="20201105122000 -0200" stop="20201105140500 -0200" channel="HBO Plus HD">
+    <title lang="br">Perfeita É a Mãe</title>
   </programme>
-  <programme start="20201106224000 +0000" stop="20201106230500 +0000" channel="HBO HD">
-    <title lang="es">Vergonha</title>
+  <programme start="20201105140500 -0200" stop="20201105161500 -0200" channel="HBO Plus HD">
+    <title lang="br">Shakira in Concert: El Dorado World Tour</title>
   </programme>
-  <programme start="20201106230500 +0000" stop="20201107005000 +0000" channel="HBO HD">
-    <title lang="es">Escape Room</title>
+  <programme start="20201105161500 -0200" stop="20201105175500 -0200" channel="HBO Plus HD">
+    <title lang="br">Refavela 40</title>
   </programme>
-  <programme start="20201105043500 +0000" stop="20201105062000 +0000" channel="HBO">
-    <title lang="es">A Pura Verdade</title>
+  <programme start="20201105175500 -0200" stop="20201105190000 -0200" channel="HBO Plus HD">
+    <title lang="br">We Are Who We Are</title>
   </programme>
-  <programme start="20201105062000 +0000" stop="20201105065000 +0000" channel="HBO">
-    <title lang="es">Axios</title>
+  <programme start="20201105190000 -0200" stop="20201105210500 -0200" channel="HBO Plus HD">
+    <title lang="br">Os Bad Boys</title>
   </programme>
-  <programme start="20201105065000 +0000" stop="20201105085500 +0000" channel="HBO">
-    <title lang="es">Coringa</title>
+  <programme start="20201105210500 -0200" stop="20201106000000 -0200" channel="HBO Plus HD">
+    <title lang="br">It - Capítulo 2</title>
   </programme>
-  <programme start="20201105085500 +0000" stop="20201105110000 +0000" channel="HBO">
-    <title lang="es">A Rede Social</title>
+  <programme start="20201105045000 -0200" stop="20201105063000 -0200" channel="HBO Plus">
+    <title lang="br">Mortal Kombat - A Aniquilação</title>
   </programme>
-  <programme start="20201105110000 +0000" stop="20201105132500 +0000" channel="HBO">
-    <title lang="es">Brooklyn - Sem Pai nem Mãe</title>
+  <programme start="20201105063000 -0200" stop="20201105083500 -0200" channel="HBO Plus">
+    <title lang="br">Stealth - Ameaça Invisível</title>
   </programme>
-  <programme start="20201105132500 +0000" stop="20201105135500 +0000" channel="HBO">
-    <title lang="es">Vergonha</title>
+  <programme start="20201105083500 -0200" stop="20201105103000 -0200" channel="HBO Plus">
+    <title lang="br">Uma Aventura LEGO 2</title>
   </programme>
-  <programme start="20201105135500 +0000" stop="20201105161500 +0000" channel="HBO">
-    <title lang="es">O Caso Richard Jewell</title>
+  <programme start="20201105103000 -0200" stop="20201105122000 -0200" channel="HBO Plus">
+    <title lang="br">Talk-Show - Reinventando a Comédia</title>
   </programme>
-  <programme start="20201105161500 +0000" stop="20201105165500 +0000" channel="HBO">
-    <title lang="es">Last Week Tonight With John Oliver</title>
+  <programme start="20201105122000 -0200" stop="20201105140500 -0200" channel="HBO Plus">
+    <title lang="br">Perfeita É a Mãe</title>
   </programme>
-  <programme start="20201105165500 +0000" stop="20201105190000 +0000" channel="HBO">
-    <title lang="es">A Música da Minha Vida</title>
+  <programme start="20201105140500 -0200" stop="20201105161500 -0200" channel="HBO Plus">
+    <title lang="br">Shakira in Concert: El Dorado World Tour</title>
   </programme>
-  <programme start="20201105190000 +0000" stop="20201105200000 +0000" channel="HBO">
-    <title lang="es">Pátria</title>
+  <programme start="20201105161500 -0200" stop="20201105175500 -0200" channel="HBO Plus">
+    <title lang="br">Refavela 40</title>
   </programme>
-  <programme start="20201105200000 +0000" stop="20201105210000 +0000" channel="HBO">
-    <title lang="es">The Undoing</title>
+  <programme start="20201105175500 -0200" stop="20201105190000 -0200" channel="HBO Plus">
+    <title lang="br">We Are Who We Are</title>
   </programme>
-  <programme start="20201105210000 +0000" stop="20201105230500 +0000" channel="HBO">
-    <title lang="es">Coringa</title>
+  <programme start="20201105190000 -0200" stop="20201105210500 -0200" channel="HBO Plus">
+    <title lang="br">Os Bad Boys</title>
   </programme>
-  <programme start="20201105230500 +0000" stop="20201106005500 +0000" channel="HBO">
-    <title lang="es">Annabelle 3 - De Volta para Casa</title>
+  <programme start="20201105210500 -0200" stop="20201106000000 -0200" channel="HBO Plus">
+    <title lang="br">It - Capítulo 2</title>
   </programme>
-  <programme start="20201106005500 +0000" stop="20201106023500 +0000" channel="HBO">
-    <title lang="es">A Guerra dos Consoles</title>
+  <programme start="20201105045000 -0200" stop="20201105063000 -0200" channel="HBO Plus Alternativo HD">
+    <title lang="br">Mortal Kombat - A Aniquilação</title>
   </programme>
-  <programme start="20201106023500 +0000" stop="20201106045000 +0000" channel="HBO">
-    <title lang="es">O Corvo Branco</title>
+  <programme start="20201105063000 -0200" stop="20201105083500 -0200" channel="HBO Plus Alternativo HD">
+    <title lang="br">Stealth - Ameaça Invisível</title>
   </programme>
-  <programme start="20201106045000 +0000" stop="20201106045000 +0000" channel="HBO">
-    <title lang="es">Comer, Rezar, Amar</title>
+  <programme start="20201105083500 -0200" stop="20201105103000 -0200" channel="HBO Plus Alternativo HD">
+    <title lang="br">Uma Aventura LEGO 2</title>
   </programme>
-  <programme start="20201106045000 +0000" stop="20201106071500 +0000" channel="HBO">
-    <title lang="es">Comer, Rezar, Amar</title>
+  <programme start="20201105103000 -0200" stop="20201105122000 -0200" channel="HBO Plus Alternativo HD">
+    <title lang="br">Talk-Show - Reinventando a Comédia</title>
   </programme>
-  <programme start="20201106071500 +0000" stop="20201106085500 +0000" channel="HBO">
-    <title lang="es">Escape Room</title>
+  <programme start="20201105122000 -0200" stop="20201105140500 -0200" channel="HBO Plus Alternativo HD">
+    <title lang="br">Perfeita É a Mãe</title>
   </programme>
-  <programme start="20201106085500 +0000" stop="20201106104500 +0000" channel="HBO">
-    <title lang="es">Annabelle 3 - De Volta para Casa</title>
+  <programme start="20201105140500 -0200" stop="20201105161500 -0200" channel="HBO Plus Alternativo HD">
+    <title lang="br">Shakira in Concert: El Dorado World Tour</title>
   </programme>
-  <programme start="20201106104500 +0000" stop="20201106111500 +0000" channel="HBO">
-    <title lang="es">The Shop</title>
+  <programme start="20201105161500 -0200" stop="20201105175500 -0200" channel="HBO Plus Alternativo HD">
+    <title lang="br">Refavela 40</title>
   </programme>
-  <programme start="20201106111500 +0000" stop="20201106130500 +0000" channel="HBO">
-    <title lang="es">Miss Bala</title>
+  <programme start="20201105175500 -0200" stop="20201105190000 -0200" channel="HBO Plus Alternativo HD">
+    <title lang="br">We Are Who We Are</title>
   </programme>
-  <programme start="20201106130500 +0000" stop="20201106143500 +0000" channel="HBO">
-    <title lang="es">A Arma Perfeita</title>
+  <programme start="20201105190000 -0200" stop="20201105210500 -0200" channel="HBO Plus Alternativo HD">
+    <title lang="br">Os Bad Boys</title>
   </programme>
-  <programme start="20201106143500 +0000" stop="20201106153500 +0000" channel="HBO">
-    <title lang="es">Pátria</title>
+  <programme start="20201105210500 -0200" stop="20201106000000 -0200" channel="HBO Plus Alternativo HD">
+    <title lang="br">It - Capítulo 2</title>
   </programme>
-  <programme start="20201106153500 +0000" stop="20201106173500 +0000" channel="HBO">
-    <title lang="es">A Grande Mentira</title>
+  <programme start="20201105053300 -0200" stop="20201105072700 -0200" channel="HBO Family FHD">
+    <title lang="br">Um Robô em Curto Circuito</title>
   </programme>
-  <programme start="20201106173500 +0000" stop="20201106193000 +0000" channel="HBO">
-    <title lang="es">Annabelle 3 - De Volta para Casa</title>
+  <programme start="20201105072700 -0200" stop="20201105090000 -0200" channel="HBO Family FHD">
+    <title lang="br">A Fuga do Planeta Terra</title>
   </programme>
-  <programme start="20201106193000 +0000" stop="20201106200400 +0000" channel="HBO">
-    <title lang="es">Foodie Love</title>
+  <programme start="20201105090000 -0200" stop="20201105100000 -0200" channel="HBO Family FHD">
+    <title lang="br">His Dark Materials - Fronteiras do Universo</title>
   </programme>
-  <programme start="20201106200400 +0000" stop="20201106204000 +0000" channel="HBO">
-    <title lang="es">Foodie Love</title>
+  <programme start="20201105100000 -0200" stop="20201105110200 -0200" channel="HBO Family FHD">
+    <title lang="br">His Dark Materials - Fronteiras do Universo</title>
   </programme>
-  <programme start="20201106204000 +0000" stop="20201106220700 +0000" channel="HBO">
-    <title lang="es">Cadáver</title>
+  <programme start="20201105110200 -0200" stop="20201105121900 -0200" channel="HBO Family FHD">
+    <title lang="br">O Bicho Vai Pegar 3</title>
   </programme>
-  <programme start="20201106220700 +0000" stop="20201106224000 +0000" channel="HBO">
-    <title lang="es">Greg News com Gregório Duvivier</title>
+  <programme start="20201105121900 -0200" stop="20201105135000 -0200" channel="HBO Family FHD">
+    <title lang="br">O Primeiro Amor</title>
   </programme>
-  <programme start="20201106224000 +0000" stop="20201106230500 +0000" channel="HBO">
-    <title lang="es">Vergonha</title>
+  <programme start="20201105135000 -0200" stop="20201105151700 -0200" channel="HBO Family FHD">
+    <title lang="br">O Mistério de Hailey Dean: Morto em Serviço</title>
   </programme>
-  <programme start="20201106230500 +0000" stop="20201107005000 +0000" channel="HBO">
-    <title lang="es">Escape Room</title>
+  <programme start="20201105151700 -0200" stop="20201105171000 -0200" channel="HBO Family FHD">
+    <title lang="br">Agente 86</title>
   </programme>
-  <programme start="20201105043500 +0000" stop="20201105062000 +0000" channel="HBO Alternativo HD">
-    <title lang="es">A Pura Verdade</title>
+  <programme start="20201105171000 -0200" stop="20201105190000 -0200" channel="HBO Family FHD">
+    <title lang="br">Your Name</title>
   </programme>
-  <programme start="20201105062000 +0000" stop="20201105065000 +0000" channel="HBO Alternativo HD">
-    <title lang="es">Axios</title>
+  <programme start="20201105190000 -0200" stop="20201105203300 -0200" channel="HBO Family FHD">
+    <title lang="br">A Fuga do Planeta Terra</title>
   </programme>
-  <programme start="20201105065000 +0000" stop="20201105085500 +0000" channel="HBO Alternativo HD">
-    <title lang="es">Coringa</title>
+  <programme start="20201105203300 -0200" stop="20201105221800 -0200" channel="HBO Family FHD">
+    <title lang="br">17 Outra Vez</title>
   </programme>
-  <programme start="20201105085500 +0000" stop="20201105110000 +0000" channel="HBO Alternativo HD">
-    <title lang="es">A Rede Social</title>
+  <programme start="20201105221800 -0200" stop="20201105235000 -0200" channel="HBO Family FHD">
+    <title lang="br">O Primeiro Amor</title>
   </programme>
-  <programme start="20201105110000 +0000" stop="20201105132500 +0000" channel="HBO Alternativo HD">
-    <title lang="es">Brooklyn - Sem Pai nem Mãe</title>
+  <programme start="20201105235000 -0200" stop="20201106014300 -0200" channel="HBO Family FHD">
+    <title lang="br">Agente 86</title>
   </programme>
-  <programme start="20201105132500 +0000" stop="20201105135500 +0000" channel="HBO Alternativo HD">
-    <title lang="es">Vergonha</title>
+  <programme start="20201105053300 -0200" stop="20201105072700 -0200" channel="HBO Family HD">
+    <title lang="br">Um Robô em Curto Circuito</title>
   </programme>
-  <programme start="20201105135500 +0000" stop="20201105161500 +0000" channel="HBO Alternativo HD">
-    <title lang="es">O Caso Richard Jewell</title>
+  <programme start="20201105072700 -0200" stop="20201105090000 -0200" channel="HBO Family HD">
+    <title lang="br">A Fuga do Planeta Terra</title>
   </programme>
-  <programme start="20201105161500 +0000" stop="20201105165500 +0000" channel="HBO Alternativo HD">
-    <title lang="es">Last Week Tonight With John Oliver</title>
+  <programme start="20201105090000 -0200" stop="20201105100000 -0200" channel="HBO Family HD">
+    <title lang="br">His Dark Materials - Fronteiras do Universo</title>
   </programme>
-  <programme start="20201105165500 +0000" stop="20201105190000 +0000" channel="HBO Alternativo HD">
-    <title lang="es">A Música da Minha Vida</title>
+  <programme start="20201105100000 -0200" stop="20201105110200 -0200" channel="HBO Family HD">
+    <title lang="br">His Dark Materials - Fronteiras do Universo</title>
   </programme>
-  <programme start="20201105190000 +0000" stop="20201105200000 +0000" channel="HBO Alternativo HD">
-    <title lang="es">Pátria</title>
+  <programme start="20201105110200 -0200" stop="20201105121900 -0200" channel="HBO Family HD">
+    <title lang="br">O Bicho Vai Pegar 3</title>
   </programme>
-  <programme start="20201105200000 +0000" stop="20201105210000 +0000" channel="HBO Alternativo HD">
-    <title lang="es">The Undoing</title>
+  <programme start="20201105121900 -0200" stop="20201105135000 -0200" channel="HBO Family HD">
+    <title lang="br">O Primeiro Amor</title>
   </programme>
-  <programme start="20201105210000 +0000" stop="20201105230500 +0000" channel="HBO Alternativo HD">
-    <title lang="es">Coringa</title>
+  <programme start="20201105135000 -0200" stop="20201105151700 -0200" channel="HBO Family HD">
+    <title lang="br">O Mistério de Hailey Dean: Morto em Serviço</title>
   </programme>
-  <programme start="20201105230500 +0000" stop="20201106005500 +0000" channel="HBO Alternativo HD">
-    <title lang="es">Annabelle 3 - De Volta para Casa</title>
+  <programme start="20201105151700 -0200" stop="20201105171000 -0200" channel="HBO Family HD">
+    <title lang="br">Agente 86</title>
   </programme>
-  <programme start="20201106005500 +0000" stop="20201106023500 +0000" channel="HBO Alternativo HD">
-    <title lang="es">A Guerra dos Consoles</title>
+  <programme start="20201105171000 -0200" stop="20201105190000 -0200" channel="HBO Family HD">
+    <title lang="br">Your Name</title>
   </programme>
-  <programme start="20201106023500 +0000" stop="20201106045000 +0000" channel="HBO Alternativo HD">
-    <title lang="es">O Corvo Branco</title>
+  <programme start="20201105190000 -0200" stop="20201105203300 -0200" channel="HBO Family HD">
+    <title lang="br">A Fuga do Planeta Terra</title>
   </programme>
-  <programme start="20201106045000 +0000" stop="20201106045000 +0000" channel="HBO Alternativo HD">
-    <title lang="es">Comer, Rezar, Amar</title>
+  <programme start="20201105203300 -0200" stop="20201105221800 -0200" channel="HBO Family HD">
+    <title lang="br">17 Outra Vez</title>
   </programme>
-  <programme start="20201106045000 +0000" stop="20201106071500 +0000" channel="HBO Alternativo HD">
-    <title lang="es">Comer, Rezar, Amar</title>
+  <programme start="20201105221800 -0200" stop="20201105235000 -0200" channel="HBO Family HD">
+    <title lang="br">O Primeiro Amor</title>
   </programme>
-  <programme start="20201106071500 +0000" stop="20201106085500 +0000" channel="HBO Alternativo HD">
-    <title lang="es">Escape Room</title>
+  <programme start="20201105235000 -0200" stop="20201106014300 -0200" channel="HBO Family HD">
+    <title lang="br">Agente 86</title>
   </programme>
-  <programme start="20201106085500 +0000" stop="20201106104500 +0000" channel="HBO Alternativo HD">
-    <title lang="es">Annabelle 3 - De Volta para Casa</title>
+  <programme start="20201105053300 -0200" stop="20201105072700 -0200" channel="HBO Family">
+    <title lang="br">Um Robô em Curto Circuito</title>
   </programme>
-  <programme start="20201106104500 +0000" stop="20201106111500 +0000" channel="HBO Alternativo HD">
-    <title lang="es">The Shop</title>
+  <programme start="20201105072700 -0200" stop="20201105090000 -0200" channel="HBO Family">
+    <title lang="br">A Fuga do Planeta Terra</title>
   </programme>
-  <programme start="20201106111500 +0000" stop="20201106130500 +0000" channel="HBO Alternativo HD">
-    <title lang="es">Miss Bala</title>
+  <programme start="20201105090000 -0200" stop="20201105100000 -0200" channel="HBO Family">
+    <title lang="br">His Dark Materials - Fronteiras do Universo</title>
   </programme>
-  <programme start="20201106130500 +0000" stop="20201106143500 +0000" channel="HBO Alternativo HD">
-    <title lang="es">A Arma Perfeita</title>
+  <programme start="20201105100000 -0200" stop="20201105110200 -0200" channel="HBO Family">
+    <title lang="br">His Dark Materials - Fronteiras do Universo</title>
   </programme>
-  <programme start="20201106143500 +0000" stop="20201106153500 +0000" channel="HBO Alternativo HD">
-    <title lang="es">Pátria</title>
+  <programme start="20201105110200 -0200" stop="20201105121900 -0200" channel="HBO Family">
+    <title lang="br">O Bicho Vai Pegar 3</title>
   </programme>
-  <programme start="20201106153500 +0000" stop="20201106173500 +0000" channel="HBO Alternativo HD">
-    <title lang="es">A Grande Mentira</title>
+  <programme start="20201105121900 -0200" stop="20201105135000 -0200" channel="HBO Family">
+    <title lang="br">O Primeiro Amor</title>
   </programme>
-  <programme start="20201106173500 +0000" stop="20201106193000 +0000" channel="HBO Alternativo HD">
-    <title lang="es">Annabelle 3 - De Volta para Casa</title>
+  <programme start="20201105135000 -0200" stop="20201105151700 -0200" channel="HBO Family">
+    <title lang="br">O Mistério de Hailey Dean: Morto em Serviço</title>
   </programme>
-  <programme start="20201106193000 +0000" stop="20201106200400 +0000" channel="HBO Alternativo HD">
-    <title lang="es">Foodie Love</title>
+  <programme start="20201105151700 -0200" stop="20201105171000 -0200" channel="HBO Family">
+    <title lang="br">Agente 86</title>
   </programme>
-  <programme start="20201106200400 +0000" stop="20201106204000 +0000" channel="HBO Alternativo HD">
-    <title lang="es">Foodie Love</title>
+  <programme start="20201105171000 -0200" stop="20201105190000 -0200" channel="HBO Family">
+    <title lang="br">Your Name</title>
   </programme>
-  <programme start="20201106204000 +0000" stop="20201106220700 +0000" channel="HBO Alternativo HD">
-    <title lang="es">Cadáver</title>
+  <programme start="20201105190000 -0200" stop="20201105203300 -0200" channel="HBO Family">
+    <title lang="br">A Fuga do Planeta Terra</title>
   </programme>
-  <programme start="20201106220700 +0000" stop="20201106224000 +0000" channel="HBO Alternativo HD">
-    <title lang="es">Greg News com Gregório Duvivier</title>
+  <programme start="20201105203300 -0200" stop="20201105221800 -0200" channel="HBO Family">
+    <title lang="br">17 Outra Vez</title>
   </programme>
-  <programme start="20201106224000 +0000" stop="20201106230500 +0000" channel="HBO Alternativo HD">
-    <title lang="es">Vergonha</title>
+  <programme start="20201105221800 -0200" stop="20201105235000 -0200" channel="HBO Family">
+    <title lang="br">O Primeiro Amor</title>
   </programme>
-  <programme start="20201106230500 +0000" stop="20201107005000 +0000" channel="HBO Alternativo HD">
-    <title lang="es">Escape Room</title>
+  <programme start="20201105235000 -0200" stop="20201106014300 -0200" channel="HBO Family">
+    <title lang="br">Agente 86</title>
+  </programme>
+  <programme start="20201105053300 -0200" stop="20201105072700 -0200" channel="HBO Family Alternativo HD">
+    <title lang="br">Um Robô em Curto Circuito</title>
+  </programme>
+  <programme start="20201105072700 -0200" stop="20201105090000 -0200" channel="HBO Family Alternativo HD">
+    <title lang="br">A Fuga do Planeta Terra</title>
+  </programme>
+  <programme start="20201105090000 -0200" stop="20201105100000 -0200" channel="HBO Family Alternativo HD">
+    <title lang="br">His Dark Materials - Fronteiras do Universo</title>
+  </programme>
+  <programme start="20201105100000 -0200" stop="20201105110200 -0200" channel="HBO Family Alternativo HD">
+    <title lang="br">His Dark Materials - Fronteiras do Universo</title>
+  </programme>
+  <programme start="20201105110200 -0200" stop="20201105121900 -0200" channel="HBO Family Alternativo HD">
+    <title lang="br">O Bicho Vai Pegar 3</title>
+  </programme>
+  <programme start="20201105121900 -0200" stop="20201105135000 -0200" channel="HBO Family Alternativo HD">
+    <title lang="br">O Primeiro Amor</title>
+  </programme>
+  <programme start="20201105135000 -0200" stop="20201105151700 -0200" channel="HBO Family Alternativo HD">
+    <title lang="br">O Mistério de Hailey Dean: Morto em Serviço</title>
+  </programme>
+  <programme start="20201105151700 -0200" stop="20201105171000 -0200" channel="HBO Family Alternativo HD">
+    <title lang="br">Agente 86</title>
+  </programme>
+  <programme start="20201105171000 -0200" stop="20201105190000 -0200" channel="HBO Family Alternativo HD">
+    <title lang="br">Your Name</title>
+  </programme>
+  <programme start="20201105190000 -0200" stop="20201105203300 -0200" channel="HBO Family Alternativo HD">
+    <title lang="br">A Fuga do Planeta Terra</title>
+  </programme>
+  <programme start="20201105203300 -0200" stop="20201105221800 -0200" channel="HBO Family Alternativo HD">
+    <title lang="br">17 Outra Vez</title>
+  </programme>
+  <programme start="20201105221800 -0200" stop="20201105235000 -0200" channel="HBO Family Alternativo HD">
+    <title lang="br">O Primeiro Amor</title>
+  </programme>
+  <programme start="20201105235000 -0200" stop="20201106014300 -0200" channel="HBO Family Alternativo HD">
+    <title lang="br">Agente 86</title>
   </programme>
 </tv>
