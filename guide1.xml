@@ -160,6 +160,22 @@
     <display-name lang="pt">Telecine Action Alternativo HD</display-name>
     <url>http://www.mi.tv2</url>
   </channel>
+  <channel id="Telecine Touch FHD">
+    <display-name lang="pt">Telecine Touch FHD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="Telecine Touch HDD">
+    <display-name lang="pt">Telecine Touch HD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="Telecine Touch">
+    <display-name lang="pt">Telecine Touch</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="Telecine Touch Alternativo HD">
+    <display-name lang="pt">Telecine Touch Alternativo HD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
   <programme start="20201110050000 +0000" stop="20201110070000 +0000" channel="HBO FHD">
     <title lang="pt">A Arma Perfeita</title>
   </programme>
@@ -1622,6 +1638,126 @@
     <title lang="pt">Planeta dos Macacos</title>
   </programme>
   <programme start="20201110230500 +0000" stop="20201111005000 +0000" channel="Telecine Action Alternativo HD">
+    <title lang="pt">Doom - Aniquilação</title>
+  </programme>
+  <programme start="20201110051000 +0000" stop="20201110065500 +0000" channel="Telecine Touch FHD">
+    <title lang="pt">Uma Jornada Inesquecível</title>
+  </programme>
+  <programme start="20201110065500 +0000" stop="20201110083500 +0000" channel="Telecine Touch FHD">
+    <title lang="pt">Entre Amores e Cores</title>
+  </programme>
+  <programme start="20201110083500 +0000" stop="20201110103500 +0000" channel="Telecine Touch FHD">
+    <title lang="pt">Hairspray - Em Busca da Fama</title>
+  </programme>
+  <programme start="20201110103500 +0000" stop="20201110122500 +0000" channel="Telecine Touch FHD">
+    <title lang="pt">De Volta para Casa</title>
+  </programme>
+  <programme start="20201110122500 +0000" stop="20201110150000 +0000" channel="Telecine Touch FHD">
+    <title lang="pt">Nascido em 4 de Julho</title>
+  </programme>
+  <programme start="20201110150000 +0000" stop="20201110165500 +0000" channel="Telecine Touch FHD">
+    <title lang="pt">O Legado Kennedy</title>
+  </programme>
+  <programme start="20201110165500 +0000" stop="20201110190500 +0000" channel="Telecine Touch FHD">
+    <title lang="pt">Marshall - Igualdade e Justiça</title>
+  </programme>
+  <programme start="20201110190500 +0000" stop="20201110210000 +0000" channel="Telecine Touch FHD">
+    <title lang="pt">Consequências</title>
+  </programme>
+  <programme start="20201110210000 +0000" stop="20201110232500 +0000" channel="Telecine Touch FHD">
+    <title lang="pt">Apollo 13 - Do Desastre ao Triunfo</title>
+  </programme>
+  <programme start="20201110232500 +0000" stop="20201111013000 +0000" channel="Telecine Touch FHD">
+    <title lang="pt">Através do Fogo</title>
+  </programme>
+  <programme start="20201110045500 +0000" stop="20201110070000 +0000" channel="Telecine Touch HDD">
+    <title lang="pt">A Múmia - Tumba do Imperador Dragão</title>
+  </programme>
+  <programme start="20201110070000 +0000" stop="20201110091500 +0000" channel="Telecine Touch HDD">
+    <title lang="pt">A Intérprete</title>
+  </programme>
+  <programme start="20201110091500 +0000" stop="20201110110000 +0000" channel="Telecine Touch HDD">
+    <title lang="pt">Rocky IV</title>
+  </programme>
+  <programme start="20201110110000 +0000" stop="20201110131500 +0000" channel="Telecine Touch HDD">
+    <title lang="pt">Jurassic Park - O Mundo Perdido</title>
+  </programme>
+  <programme start="20201110131500 +0000" stop="20201110152000 +0000" channel="Telecine Touch HDD">
+    <title lang="pt">Nós</title>
+  </programme>
+  <programme start="20201110152000 +0000" stop="20201110165000 +0000" channel="Telecine Touch HDD">
+    <title lang="pt">Com as Próprias Mãos</title>
+  </programme>
+  <programme start="20201110165000 +0000" stop="20201110185500 +0000" channel="Telecine Touch HDD">
+    <title lang="pt">Guardiões da Noite</title>
+  </programme>
+  <programme start="20201110185500 +0000" stop="20201110210000 +0000" channel="Telecine Touch HDD">
+    <title lang="pt">Tropa de Elite</title>
+  </programme>
+  <programme start="20201110210000 +0000" stop="20201110230500 +0000" channel="Telecine Touch HDD">
+    <title lang="pt">Planeta dos Macacos</title>
+  </programme>
+  <programme start="20201110230500 +0000" stop="20201111005000 +0000" channel="Telecine Touch HDD">
+    <title lang="pt">Doom - Aniquilação</title>
+  </programme>
+  <programme start="20201110045500 +0000" stop="20201110070000 +0000" channel="Telecine Touch">
+    <title lang="pt">A Múmia - Tumba do Imperador Dragão</title>
+  </programme>
+  <programme start="20201110070000 +0000" stop="20201110091500 +0000" channel="Telecine Touch">
+    <title lang="pt">A Intérprete</title>
+  </programme>
+  <programme start="20201110091500 +0000" stop="20201110110000 +0000" channel="Telecine Touch">
+    <title lang="pt">Rocky IV</title>
+  </programme>
+  <programme start="20201110110000 +0000" stop="20201110131500 +0000" channel="Telecine Touch">
+    <title lang="pt">Jurassic Park - O Mundo Perdido</title>
+  </programme>
+  <programme start="20201110131500 +0000" stop="20201110152000 +0000" channel="Telecine Touch">
+    <title lang="pt">Nós</title>
+  </programme>
+  <programme start="20201110152000 +0000" stop="20201110165000 +0000" channel="Telecine Touch">
+    <title lang="pt">Com as Próprias Mãos</title>
+  </programme>
+  <programme start="20201110165000 +0000" stop="20201110185500 +0000" channel="Telecine Touch">
+    <title lang="pt">Guardiões da Noite</title>
+  </programme>
+  <programme start="20201110185500 +0000" stop="20201110210000 +0000" channel="Telecine Touch">
+    <title lang="pt">Tropa de Elite</title>
+  </programme>
+  <programme start="20201110210000 +0000" stop="20201110230500 +0000" channel="Telecine Touch">
+    <title lang="pt">Planeta dos Macacos</title>
+  </programme>
+  <programme start="20201110230500 +0000" stop="20201111005000 +0000" channel="Telecine Touch">
+    <title lang="pt">Doom - Aniquilação</title>
+  </programme>
+  <programme start="20201110045500 +0000" stop="20201110070000 +0000" channel="Telecine Touch Alternativo HD">
+    <title lang="pt">A Múmia - Tumba do Imperador Dragão</title>
+  </programme>
+  <programme start="20201110070000 +0000" stop="20201110091500 +0000" channel="Telecine Touch Alternativo HD">
+    <title lang="pt">A Intérprete</title>
+  </programme>
+  <programme start="20201110091500 +0000" stop="20201110110000 +0000" channel="Telecine Touch Alternativo HD">
+    <title lang="pt">Rocky IV</title>
+  </programme>
+  <programme start="20201110110000 +0000" stop="20201110131500 +0000" channel="Telecine Touch Alternativo HD">
+    <title lang="pt">Jurassic Park - O Mundo Perdido</title>
+  </programme>
+  <programme start="20201110131500 +0000" stop="20201110152000 +0000" channel="Telecine Touch Alternativo HD">
+    <title lang="pt">Nós</title>
+  </programme>
+  <programme start="20201110152000 +0000" stop="20201110165000 +0000" channel="Telecine Touch Alternativo HD">
+    <title lang="pt">Com as Próprias Mãos</title>
+  </programme>
+  <programme start="20201110165000 +0000" stop="20201110185500 +0000" channel="Telecine Touch Alternativo HD">
+    <title lang="pt">Guardiões da Noite</title>
+  </programme>
+  <programme start="20201110185500 +0000" stop="20201110210000 +0000" channel="Telecine Touch Alternativo HD">
+    <title lang="pt">Tropa de Elite</title>
+  </programme>
+  <programme start="20201110210000 +0000" stop="20201110230500 +0000" channel="Telecine Touch Alternativo HD">
+    <title lang="pt">Planeta dos Macacos</title>
+  </programme>
+  <programme start="20201110230500 +0000" stop="20201111005000 +0000" channel="Telecine Touch Alternativo HD">
     <title lang="pt">Doom - Aniquilação</title>
   </programme>
 </tv>
