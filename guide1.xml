@@ -240,6 +240,54 @@
     <display-name lang="pt">Megapix Alternativo HD</display-name>
     <url>http://www.mi.tv2</url>
   </channel>
+  <channel id="Studio Universal FHD">
+    <display-name lang="pt">Studio Universal FHD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="Studio Universal HD">
+    <display-name lang="pt">Studio Universal HD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name lang="pt">Studio Universal</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="Studio Universal Alternativo HD">
+    <display-name lang="pt">Studio Universal Alternativo HD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="Syfy FHD">
+    <display-name lang="pt">Syfy FHD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="Syfy HD">
+    <display-name lang="pt">Syfy HD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="Syfy">
+    <display-name lang="pt">Syfy</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="Syfy Alternativo HD">
+    <display-name lang="pt">Syfy Alternativo HD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="Canal Brasil FHD">
+    <display-name lang="pt">Canal Brasil FHD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="Canal Brasil HD">
+    <display-name lang="pt">Canal Brasil HD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="Canal Brasil">
+    <display-name lang="pt">Canal Brasil</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
+  <channel id="Canal Brasil Alternativo HD">
+    <display-name lang="pt">Canal Brasil Alternativo HD</display-name>
+    <url>http://www.mi.tv2</url>
+  </channel>
   <programme start="20201114043500 -0400" stop="20201114061500 -0400" channel="HBO FHD">
     <title lang="pt">A Caminho de Casa</title>
   </programme>
@@ -7679,5 +7727,2273 @@
   </programme>
   <programme start="20201116233500 -0400" stop="20201117013500 -0400" channel="Megapix Alternativo HD">
     <title lang="pt">O Último Desafio</title>
+  </programme>
+  <programme start="20201114060000 -0400" stop="20201114070000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20201114070000 -0400" stop="20201114085000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">O Caminho para El Dorado</title>
+  </programme>
+  <programme start="20201114085000 -0400" stop="20201114110000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">O Alvo 2</title>
+  </programme>
+  <programme start="20201114110000 -0400" stop="20201114131500 -0400" channel="Studio Universal FHD">
+    <title lang="pt">O Procurado</title>
+  </programme>
+  <programme start="20201114131500 -0400" stop="20201114152500 -0400" channel="Studio Universal FHD">
+    <title lang="pt">A Supremacia Bourne</title>
+  </programme>
+  <programme start="20201114152500 -0400" stop="20201114172500 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Um Tira no Jardim de Infância 2</title>
+  </programme>
+  <programme start="20201114172500 -0400" stop="20201114190000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Spirit - O Corcel Indomável</title>
+  </programme>
+  <programme start="20201114190000 -0400" stop="20201114212500 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Velozes e Furiosos 8</title>
+  </programme>
+  <programme start="20201114212500 -0400" stop="20201114232000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Corrida Mortal</title>
+  </programme>
+  <programme start="20201114232000 -0400" stop="20201115005500 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Lucy</title>
+  </programme>
+  <programme start="20201115005500 -0400" stop="20201115025500 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Um Milhão de Maneiras de Pegar na Pistola</title>
+  </programme>
+  <programme start="20201115025500 -0400" stop="20201115043000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Um Mistério de Aurora Teagarden - Uma Herança de Matar</title>
+  </programme>
+  <programme start="20201115043000 -0400" stop="20201115050000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201115050000 -0400" stop="20201115060000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20201115060000 -0400" stop="20201115070000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20201115070000 -0400" stop="20201115075000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20201115075000 -0400" stop="20201115094500 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Pica-Pau - O Filme</title>
+  </programme>
+  <programme start="20201115094500 -0400" stop="20201115114500 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Um Tira e Meio - A Nova Recruta</title>
+  </programme>
+  <programme start="20201115114500 -0400" stop="20201115142000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Battleship - A Batalha dos Mares</title>
+  </programme>
+  <programme start="20201115142000 -0400" stop="20201115162500 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Corrida Mortal</title>
+  </programme>
+  <programme start="20201115162500 -0400" stop="20201115190000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Velozes e Furiosos 8</title>
+  </programme>
+  <programme start="20201115190000 -0400" stop="20201115205500 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Cinquenta Tons de Liberdade</title>
+  </programme>
+  <programme start="20201115205500 -0400" stop="20201115224500 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Permissão</title>
+  </programme>
+  <programme start="20201115224500 -0400" stop="20201116005500 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Irmãs</title>
+  </programme>
+  <programme start="20201116005500 -0400" stop="20201116023500 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Eu Fico Loko</title>
+  </programme>
+  <programme start="20201116023500 -0400" stop="20201116041000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Um Mistério de Aurora Teagarden - Jogo Sujo</title>
+  </programme>
+  <programme start="20201116041000 -0400" stop="20201116050000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20201116050000 -0400" stop="20201116060000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20201116060000 -0400" stop="20201116070000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20201116070000 -0400" stop="20201116072500 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20201116072500 -0400" stop="20201116081000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20201116081000 -0400" stop="20201116095500 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Aventuras na Escola</title>
+  </programme>
+  <programme start="20201116095500 -0400" stop="20201116115500 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Uma Família Fora do Comum</title>
+  </programme>
+  <programme start="20201116115500 -0400" stop="20201116134000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Um Casamento com Meu Ex</title>
+  </programme>
+  <programme start="20201116134000 -0400" stop="20201116154000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Casa Comigo?</title>
+  </programme>
+  <programme start="20201116154000 -0400" stop="20201116174000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Uma Mãe para o Meu Bebê</title>
+  </programme>
+  <programme start="20201116174000 -0400" stop="20201116181000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Amigo de Aluguel</title>
+  </programme>
+  <programme start="20201116181000 -0400" stop="20201116190000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Rotas do Ódio</title>
+  </programme>
+  <programme start="20201116190000 -0400" stop="20201116205000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Ingrid Vai para o Oeste</title>
+  </programme>
+  <programme start="20201116205000 -0400" stop="20201116223000 -0400" channel="Studio Universal FHD">
+    <title lang="pt">A Escala Amizade em Segundo Lugar</title>
+  </programme>
+  <programme start="20201116223000 -0400" stop="20201117004500 -0400" channel="Studio Universal FHD">
+    <title lang="pt">Viagem das Garotas</title>
+  </programme>
+  <programme start="20201114060000 -0400" stop="20201114070000 -0400" channel="Studio Universal HD">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20201114070000 -0400" stop="20201114085000 -0400" channel="Studio Universal HD">
+    <title lang="pt">O Caminho para El Dorado</title>
+  </programme>
+  <programme start="20201114085000 -0400" stop="20201114110000 -0400" channel="Studio Universal HD">
+    <title lang="pt">O Alvo 2</title>
+  </programme>
+  <programme start="20201114110000 -0400" stop="20201114131500 -0400" channel="Studio Universal HD">
+    <title lang="pt">O Procurado</title>
+  </programme>
+  <programme start="20201114131500 -0400" stop="20201114152500 -0400" channel="Studio Universal HD">
+    <title lang="pt">A Supremacia Bourne</title>
+  </programme>
+  <programme start="20201114152500 -0400" stop="20201114172500 -0400" channel="Studio Universal HD">
+    <title lang="pt">Um Tira no Jardim de Infância 2</title>
+  </programme>
+  <programme start="20201114172500 -0400" stop="20201114190000 -0400" channel="Studio Universal HD">
+    <title lang="pt">Spirit - O Corcel Indomável</title>
+  </programme>
+  <programme start="20201114190000 -0400" stop="20201114212500 -0400" channel="Studio Universal HD">
+    <title lang="pt">Velozes e Furiosos 8</title>
+  </programme>
+  <programme start="20201114212500 -0400" stop="20201114232000 -0400" channel="Studio Universal HD">
+    <title lang="pt">Corrida Mortal</title>
+  </programme>
+  <programme start="20201114232000 -0400" stop="20201115005500 -0400" channel="Studio Universal HD">
+    <title lang="pt">Lucy</title>
+  </programme>
+  <programme start="20201115005500 -0400" stop="20201115025500 -0400" channel="Studio Universal HD">
+    <title lang="pt">Um Milhão de Maneiras de Pegar na Pistola</title>
+  </programme>
+  <programme start="20201115025500 -0400" stop="20201115043000 -0400" channel="Studio Universal HD">
+    <title lang="pt">Um Mistério de Aurora Teagarden - Uma Herança de Matar</title>
+  </programme>
+  <programme start="20201115043000 -0400" stop="20201115050000 -0400" channel="Studio Universal HD">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201115050000 -0400" stop="20201115060000 -0400" channel="Studio Universal HD">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20201115060000 -0400" stop="20201115070000 -0400" channel="Studio Universal HD">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20201115070000 -0400" stop="20201115075000 -0400" channel="Studio Universal HD">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20201115075000 -0400" stop="20201115094500 -0400" channel="Studio Universal HD">
+    <title lang="pt">Pica-Pau - O Filme</title>
+  </programme>
+  <programme start="20201115094500 -0400" stop="20201115114500 -0400" channel="Studio Universal HD">
+    <title lang="pt">Um Tira e Meio - A Nova Recruta</title>
+  </programme>
+  <programme start="20201115114500 -0400" stop="20201115142000 -0400" channel="Studio Universal HD">
+    <title lang="pt">Battleship - A Batalha dos Mares</title>
+  </programme>
+  <programme start="20201115142000 -0400" stop="20201115162500 -0400" channel="Studio Universal HD">
+    <title lang="pt">Corrida Mortal</title>
+  </programme>
+  <programme start="20201115162500 -0400" stop="20201115190000 -0400" channel="Studio Universal HD">
+    <title lang="pt">Velozes e Furiosos 8</title>
+  </programme>
+  <programme start="20201115190000 -0400" stop="20201115205500 -0400" channel="Studio Universal HD">
+    <title lang="pt">Cinquenta Tons de Liberdade</title>
+  </programme>
+  <programme start="20201115205500 -0400" stop="20201115224500 -0400" channel="Studio Universal HD">
+    <title lang="pt">Permissão</title>
+  </programme>
+  <programme start="20201115224500 -0400" stop="20201116005500 -0400" channel="Studio Universal HD">
+    <title lang="pt">Irmãs</title>
+  </programme>
+  <programme start="20201116005500 -0400" stop="20201116023500 -0400" channel="Studio Universal HD">
+    <title lang="pt">Eu Fico Loko</title>
+  </programme>
+  <programme start="20201116023500 -0400" stop="20201116041000 -0400" channel="Studio Universal HD">
+    <title lang="pt">Um Mistério de Aurora Teagarden - Jogo Sujo</title>
+  </programme>
+  <programme start="20201116041000 -0400" stop="20201116050000 -0400" channel="Studio Universal HD">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20201116050000 -0400" stop="20201116060000 -0400" channel="Studio Universal HD">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20201116060000 -0400" stop="20201116070000 -0400" channel="Studio Universal HD">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20201116070000 -0400" stop="20201116072500 -0400" channel="Studio Universal HD">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20201116072500 -0400" stop="20201116081000 -0400" channel="Studio Universal HD">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20201116081000 -0400" stop="20201116095500 -0400" channel="Studio Universal HD">
+    <title lang="pt">Aventuras na Escola</title>
+  </programme>
+  <programme start="20201116095500 -0400" stop="20201116115500 -0400" channel="Studio Universal HD">
+    <title lang="pt">Uma Família Fora do Comum</title>
+  </programme>
+  <programme start="20201116115500 -0400" stop="20201116134000 -0400" channel="Studio Universal HD">
+    <title lang="pt">Um Casamento com Meu Ex</title>
+  </programme>
+  <programme start="20201116134000 -0400" stop="20201116154000 -0400" channel="Studio Universal HD">
+    <title lang="pt">Casa Comigo?</title>
+  </programme>
+  <programme start="20201116154000 -0400" stop="20201116174000 -0400" channel="Studio Universal HD">
+    <title lang="pt">Uma Mãe para o Meu Bebê</title>
+  </programme>
+  <programme start="20201116174000 -0400" stop="20201116181000 -0400" channel="Studio Universal HD">
+    <title lang="pt">Amigo de Aluguel</title>
+  </programme>
+  <programme start="20201116181000 -0400" stop="20201116190000 -0400" channel="Studio Universal HD">
+    <title lang="pt">Rotas do Ódio</title>
+  </programme>
+  <programme start="20201116190000 -0400" stop="20201116205000 -0400" channel="Studio Universal HD">
+    <title lang="pt">Ingrid Vai para o Oeste</title>
+  </programme>
+  <programme start="20201116205000 -0400" stop="20201116223000 -0400" channel="Studio Universal HD">
+    <title lang="pt">A Escala Amizade em Segundo Lugar</title>
+  </programme>
+  <programme start="20201116223000 -0400" stop="20201117004500 -0400" channel="Studio Universal HD">
+    <title lang="pt">Viagem das Garotas</title>
+  </programme>
+  <programme start="20201114060000 -0400" stop="20201114070000 -0400" channel="Studio Universal">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20201114070000 -0400" stop="20201114085000 -0400" channel="Studio Universal">
+    <title lang="pt">O Caminho para El Dorado</title>
+  </programme>
+  <programme start="20201114085000 -0400" stop="20201114110000 -0400" channel="Studio Universal">
+    <title lang="pt">O Alvo 2</title>
+  </programme>
+  <programme start="20201114110000 -0400" stop="20201114131500 -0400" channel="Studio Universal">
+    <title lang="pt">O Procurado</title>
+  </programme>
+  <programme start="20201114131500 -0400" stop="20201114152500 -0400" channel="Studio Universal">
+    <title lang="pt">A Supremacia Bourne</title>
+  </programme>
+  <programme start="20201114152500 -0400" stop="20201114172500 -0400" channel="Studio Universal">
+    <title lang="pt">Um Tira no Jardim de Infância 2</title>
+  </programme>
+  <programme start="20201114172500 -0400" stop="20201114190000 -0400" channel="Studio Universal">
+    <title lang="pt">Spirit - O Corcel Indomável</title>
+  </programme>
+  <programme start="20201114190000 -0400" stop="20201114212500 -0400" channel="Studio Universal">
+    <title lang="pt">Velozes e Furiosos 8</title>
+  </programme>
+  <programme start="20201114212500 -0400" stop="20201114232000 -0400" channel="Studio Universal">
+    <title lang="pt">Corrida Mortal</title>
+  </programme>
+  <programme start="20201114232000 -0400" stop="20201115005500 -0400" channel="Studio Universal">
+    <title lang="pt">Lucy</title>
+  </programme>
+  <programme start="20201115005500 -0400" stop="20201115025500 -0400" channel="Studio Universal">
+    <title lang="pt">Um Milhão de Maneiras de Pegar na Pistola</title>
+  </programme>
+  <programme start="20201115025500 -0400" stop="20201115043000 -0400" channel="Studio Universal">
+    <title lang="pt">Um Mistério de Aurora Teagarden - Uma Herança de Matar</title>
+  </programme>
+  <programme start="20201115043000 -0400" stop="20201115050000 -0400" channel="Studio Universal">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201115050000 -0400" stop="20201115060000 -0400" channel="Studio Universal">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20201115060000 -0400" stop="20201115070000 -0400" channel="Studio Universal">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20201115070000 -0400" stop="20201115075000 -0400" channel="Studio Universal">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20201115075000 -0400" stop="20201115094500 -0400" channel="Studio Universal">
+    <title lang="pt">Pica-Pau - O Filme</title>
+  </programme>
+  <programme start="20201115094500 -0400" stop="20201115114500 -0400" channel="Studio Universal">
+    <title lang="pt">Um Tira e Meio - A Nova Recruta</title>
+  </programme>
+  <programme start="20201115114500 -0400" stop="20201115142000 -0400" channel="Studio Universal">
+    <title lang="pt">Battleship - A Batalha dos Mares</title>
+  </programme>
+  <programme start="20201115142000 -0400" stop="20201115162500 -0400" channel="Studio Universal">
+    <title lang="pt">Corrida Mortal</title>
+  </programme>
+  <programme start="20201115162500 -0400" stop="20201115190000 -0400" channel="Studio Universal">
+    <title lang="pt">Velozes e Furiosos 8</title>
+  </programme>
+  <programme start="20201115190000 -0400" stop="20201115205500 -0400" channel="Studio Universal">
+    <title lang="pt">Cinquenta Tons de Liberdade</title>
+  </programme>
+  <programme start="20201115205500 -0400" stop="20201115224500 -0400" channel="Studio Universal">
+    <title lang="pt">Permissão</title>
+  </programme>
+  <programme start="20201115224500 -0400" stop="20201116005500 -0400" channel="Studio Universal">
+    <title lang="pt">Irmãs</title>
+  </programme>
+  <programme start="20201116005500 -0400" stop="20201116023500 -0400" channel="Studio Universal">
+    <title lang="pt">Eu Fico Loko</title>
+  </programme>
+  <programme start="20201116023500 -0400" stop="20201116041000 -0400" channel="Studio Universal">
+    <title lang="pt">Um Mistério de Aurora Teagarden - Jogo Sujo</title>
+  </programme>
+  <programme start="20201116041000 -0400" stop="20201116050000 -0400" channel="Studio Universal">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20201116050000 -0400" stop="20201116060000 -0400" channel="Studio Universal">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20201116060000 -0400" stop="20201116070000 -0400" channel="Studio Universal">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20201116070000 -0400" stop="20201116072500 -0400" channel="Studio Universal">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20201116072500 -0400" stop="20201116081000 -0400" channel="Studio Universal">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20201116081000 -0400" stop="20201116095500 -0400" channel="Studio Universal">
+    <title lang="pt">Aventuras na Escola</title>
+  </programme>
+  <programme start="20201116095500 -0400" stop="20201116115500 -0400" channel="Studio Universal">
+    <title lang="pt">Uma Família Fora do Comum</title>
+  </programme>
+  <programme start="20201116115500 -0400" stop="20201116134000 -0400" channel="Studio Universal">
+    <title lang="pt">Um Casamento com Meu Ex</title>
+  </programme>
+  <programme start="20201116134000 -0400" stop="20201116154000 -0400" channel="Studio Universal">
+    <title lang="pt">Casa Comigo?</title>
+  </programme>
+  <programme start="20201116154000 -0400" stop="20201116174000 -0400" channel="Studio Universal">
+    <title lang="pt">Uma Mãe para o Meu Bebê</title>
+  </programme>
+  <programme start="20201116174000 -0400" stop="20201116181000 -0400" channel="Studio Universal">
+    <title lang="pt">Amigo de Aluguel</title>
+  </programme>
+  <programme start="20201116181000 -0400" stop="20201116190000 -0400" channel="Studio Universal">
+    <title lang="pt">Rotas do Ódio</title>
+  </programme>
+  <programme start="20201116190000 -0400" stop="20201116205000 -0400" channel="Studio Universal">
+    <title lang="pt">Ingrid Vai para o Oeste</title>
+  </programme>
+  <programme start="20201116205000 -0400" stop="20201116223000 -0400" channel="Studio Universal">
+    <title lang="pt">A Escala Amizade em Segundo Lugar</title>
+  </programme>
+  <programme start="20201116223000 -0400" stop="20201117004500 -0400" channel="Studio Universal">
+    <title lang="pt">Viagem das Garotas</title>
+  </programme>
+  <programme start="20201114060000 -0400" stop="20201114070000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20201114070000 -0400" stop="20201114085000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">O Caminho para El Dorado</title>
+  </programme>
+  <programme start="20201114085000 -0400" stop="20201114110000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">O Alvo 2</title>
+  </programme>
+  <programme start="20201114110000 -0400" stop="20201114131500 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">O Procurado</title>
+  </programme>
+  <programme start="20201114131500 -0400" stop="20201114152500 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">A Supremacia Bourne</title>
+  </programme>
+  <programme start="20201114152500 -0400" stop="20201114172500 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Um Tira no Jardim de Infância 2</title>
+  </programme>
+  <programme start="20201114172500 -0400" stop="20201114190000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Spirit - O Corcel Indomável</title>
+  </programme>
+  <programme start="20201114190000 -0400" stop="20201114212500 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Velozes e Furiosos 8</title>
+  </programme>
+  <programme start="20201114212500 -0400" stop="20201114232000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Corrida Mortal</title>
+  </programme>
+  <programme start="20201114232000 -0400" stop="20201115005500 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Lucy</title>
+  </programme>
+  <programme start="20201115005500 -0400" stop="20201115025500 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Um Milhão de Maneiras de Pegar na Pistola</title>
+  </programme>
+  <programme start="20201115025500 -0400" stop="20201115043000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Um Mistério de Aurora Teagarden - Uma Herança de Matar</title>
+  </programme>
+  <programme start="20201115043000 -0400" stop="20201115050000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201115050000 -0400" stop="20201115060000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20201115060000 -0400" stop="20201115070000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20201115070000 -0400" stop="20201115075000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20201115075000 -0400" stop="20201115094500 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Pica-Pau - O Filme</title>
+  </programme>
+  <programme start="20201115094500 -0400" stop="20201115114500 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Um Tira e Meio - A Nova Recruta</title>
+  </programme>
+  <programme start="20201115114500 -0400" stop="20201115142000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Battleship - A Batalha dos Mares</title>
+  </programme>
+  <programme start="20201115142000 -0400" stop="20201115162500 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Corrida Mortal</title>
+  </programme>
+  <programme start="20201115162500 -0400" stop="20201115190000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Velozes e Furiosos 8</title>
+  </programme>
+  <programme start="20201115190000 -0400" stop="20201115205500 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Cinquenta Tons de Liberdade</title>
+  </programme>
+  <programme start="20201115205500 -0400" stop="20201115224500 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Permissão</title>
+  </programme>
+  <programme start="20201115224500 -0400" stop="20201116005500 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Irmãs</title>
+  </programme>
+  <programme start="20201116005500 -0400" stop="20201116023500 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Eu Fico Loko</title>
+  </programme>
+  <programme start="20201116023500 -0400" stop="20201116041000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Um Mistério de Aurora Teagarden - Jogo Sujo</title>
+  </programme>
+  <programme start="20201116041000 -0400" stop="20201116050000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20201116050000 -0400" stop="20201116060000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20201116060000 -0400" stop="20201116070000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Infomercial</title>
+  </programme>
+  <programme start="20201116070000 -0400" stop="20201116072500 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Cinelab</title>
+  </programme>
+  <programme start="20201116072500 -0400" stop="20201116081000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+  </programme>
+  <programme start="20201116081000 -0400" stop="20201116095500 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Aventuras na Escola</title>
+  </programme>
+  <programme start="20201116095500 -0400" stop="20201116115500 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Uma Família Fora do Comum</title>
+  </programme>
+  <programme start="20201116115500 -0400" stop="20201116134000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Um Casamento com Meu Ex</title>
+  </programme>
+  <programme start="20201116134000 -0400" stop="20201116154000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Casa Comigo?</title>
+  </programme>
+  <programme start="20201116154000 -0400" stop="20201116174000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Uma Mãe para o Meu Bebê</title>
+  </programme>
+  <programme start="20201116174000 -0400" stop="20201116181000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Amigo de Aluguel</title>
+  </programme>
+  <programme start="20201116181000 -0400" stop="20201116190000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Rotas do Ódio</title>
+  </programme>
+  <programme start="20201116190000 -0400" stop="20201116205000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Ingrid Vai para o Oeste</title>
+  </programme>
+  <programme start="20201116205000 -0400" stop="20201116223000 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">A Escala Amizade em Segundo Lugar</title>
+  </programme>
+  <programme start="20201116223000 -0400" stop="20201117004500 -0400" channel="Studio Universal Alternativo HD">
+    <title lang="pt">Viagem das Garotas</title>
+  </programme>
+  <programme start="20201114052000 -0400" stop="20201114061000 -0400" channel="Syfy FHD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201114061000 -0400" stop="20201114070000 -0400" channel="Syfy FHD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201114070000 -0400" stop="20201114080000 -0400" channel="Syfy FHD">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201114080000 -0400" stop="20201114090000 -0400" channel="Syfy FHD">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201114090000 -0400" stop="20201114093000 -0400" channel="Syfy FHD">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201114093000 -0400" stop="20201114102500 -0400" channel="Syfy FHD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114102500 -0400" stop="20201114112000 -0400" channel="Syfy FHD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114112000 -0400" stop="20201114121500 -0400" channel="Syfy FHD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114121500 -0400" stop="20201114131000 -0400" channel="Syfy FHD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114131000 -0400" stop="20201114140500 -0400" channel="Syfy FHD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114140500 -0400" stop="20201114150000 -0400" channel="Syfy FHD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114150000 -0400" stop="20201114155000 -0400" channel="Syfy FHD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114155000 -0400" stop="20201114164000 -0400" channel="Syfy FHD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114164000 -0400" stop="20201114173000 -0400" channel="Syfy FHD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114173000 -0400" stop="20201114180000 -0400" channel="Syfy FHD">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201114180000 -0400" stop="20201114183000 -0400" channel="Syfy FHD">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201114183000 -0400" stop="20201114190000 -0400" channel="Syfy FHD">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201114190000 -0400" stop="20201114193000 -0400" channel="Syfy FHD">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201114193000 -0400" stop="20201114212500 -0400" channel="Syfy FHD">
+    <title lang="pt">A Múmia - Tumba do Imperador Dragão</title>
+  </programme>
+  <programme start="20201114212500 -0400" stop="20201114230500 -0400" channel="Syfy FHD">
+    <title lang="pt">O Escorpião Rei</title>
+  </programme>
+  <programme start="20201114230500 -0400" stop="20201115010000 -0400" channel="Syfy FHD">
+    <title lang="pt">O Escorpião Rei 3 - Batalha pela Redenção</title>
+  </programme>
+  <programme start="20201115010000 -0400" stop="20201115023000 -0400" channel="Syfy FHD">
+    <title lang="pt">Invasão da Tumba</title>
+  </programme>
+  <programme start="20201115023000 -0400" stop="20201115032000 -0400" channel="Syfy FHD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115032000 -0400" stop="20201115041000 -0400" channel="Syfy FHD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115041000 -0400" stop="20201115052000 -0400" channel="Syfy FHD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115052000 -0400" stop="20201115052000 -0400" channel="Syfy FHD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115052000 -0400" stop="20201115061000 -0400" channel="Syfy FHD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115061000 -0400" stop="20201115070000 -0400" channel="Syfy FHD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115070000 -0400" stop="20201115080000 -0400" channel="Syfy FHD">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201115080000 -0400" stop="20201115090000 -0400" channel="Syfy FHD">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201115090000 -0400" stop="20201115104500 -0400" channel="Syfy FHD">
+    <title lang="pt">O Último Sharknado - Já Estava na Hora</title>
+  </programme>
+  <programme start="20201115104500 -0400" stop="20201115114000 -0400" channel="Syfy FHD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115114000 -0400" stop="20201115123500 -0400" channel="Syfy FHD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115123500 -0400" stop="20201115133000 -0400" channel="Syfy FHD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115133000 -0400" stop="20201115142500 -0400" channel="Syfy FHD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115142500 -0400" stop="20201115152000 -0400" channel="Syfy FHD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115152000 -0400" stop="20201115161000 -0400" channel="Syfy FHD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115161000 -0400" stop="20201115170000 -0400" channel="Syfy FHD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115170000 -0400" stop="20201115175000 -0400" channel="Syfy FHD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115175000 -0400" stop="20201115184000 -0400" channel="Syfy FHD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115184000 -0400" stop="20201115193000 -0400" channel="Syfy FHD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115193000 -0400" stop="20201115202000 -0400" channel="Syfy FHD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201115202000 -0400" stop="20201115211000 -0400" channel="Syfy FHD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201115211000 -0400" stop="20201115220000 -0400" channel="Syfy FHD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201115220000 -0400" stop="20201115225000 -0400" channel="Syfy FHD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201115225000 -0400" stop="20201115234000 -0400" channel="Syfy FHD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201115234000 -0400" stop="20201116014000 -0400" channel="Syfy FHD">
+    <title lang="pt">Coração de Dragão</title>
+  </programme>
+  <programme start="20201116014000 -0400" stop="20201116023000 -0400" channel="Syfy FHD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116023000 -0400" stop="20201116032000 -0400" channel="Syfy FHD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116032000 -0400" stop="20201116041000 -0400" channel="Syfy FHD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116041000 -0400" stop="20201116052000 -0400" channel="Syfy FHD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116052000 -0400" stop="20201116052000 -0400" channel="Syfy FHD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116052000 -0400" stop="20201116061000 -0400" channel="Syfy FHD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116061000 -0400" stop="20201116070000 -0400" channel="Syfy FHD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116070000 -0400" stop="20201116080000 -0400" channel="Syfy FHD">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201116080000 -0400" stop="20201116090000 -0400" channel="Syfy FHD">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201116090000 -0400" stop="20201116104000 -0400" channel="Syfy FHD">
+    <title lang="pt">Ataque Solar</title>
+  </programme>
+  <programme start="20201116104000 -0400" stop="20201116113500 -0400" channel="Syfy FHD">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20201116113500 -0400" stop="20201116123000 -0400" channel="Syfy FHD">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20201116123000 -0400" stop="20201116132500 -0400" channel="Syfy FHD">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20201116132500 -0400" stop="20201116142000 -0400" channel="Syfy FHD">
+    <title lang="pt">The Librarians</title>
+  </programme>
+  <programme start="20201116142000 -0400" stop="20201116151500 -0400" channel="Syfy FHD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201116151500 -0400" stop="20201116160500 -0400" channel="Syfy FHD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201116160500 -0400" stop="20201116165500 -0400" channel="Syfy FHD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201116165500 -0400" stop="20201116174500 -0400" channel="Syfy FHD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201116174500 -0400" stop="20201116181500 -0400" channel="Syfy FHD">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201116181500 -0400" stop="20201116200500 -0400" channel="Syfy FHD">
+    <title lang="pt">O Escorpião Rei 3 - Batalha pela Redenção</title>
+  </programme>
+  <programme start="20201116200500 -0400" stop="20201116205500 -0400" channel="Syfy FHD">
+    <title lang="pt">The Librarians</title>
+  </programme>
+  <programme start="20201116205500 -0400" stop="20201116214500 -0400" channel="Syfy FHD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201116214500 -0400" stop="20201116223500 -0400" channel="Syfy FHD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201116223500 -0400" stop="20201116232500 -0400" channel="Syfy FHD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201116232500 -0400" stop="20201117011000 -0400" channel="Syfy FHD">
+    <title lang="pt">Madrugada dos Mortos</title>
+  </programme>
+  <programme start="20201114052000 -0400" stop="20201114061000 -0400" channel="Syfy HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201114061000 -0400" stop="20201114070000 -0400" channel="Syfy HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201114070000 -0400" stop="20201114080000 -0400" channel="Syfy HD">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201114080000 -0400" stop="20201114090000 -0400" channel="Syfy HD">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201114090000 -0400" stop="20201114093000 -0400" channel="Syfy HD">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201114093000 -0400" stop="20201114102500 -0400" channel="Syfy HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114102500 -0400" stop="20201114112000 -0400" channel="Syfy HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114112000 -0400" stop="20201114121500 -0400" channel="Syfy HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114121500 -0400" stop="20201114131000 -0400" channel="Syfy HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114131000 -0400" stop="20201114140500 -0400" channel="Syfy HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114140500 -0400" stop="20201114150000 -0400" channel="Syfy HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114150000 -0400" stop="20201114155000 -0400" channel="Syfy HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114155000 -0400" stop="20201114164000 -0400" channel="Syfy HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114164000 -0400" stop="20201114173000 -0400" channel="Syfy HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114173000 -0400" stop="20201114180000 -0400" channel="Syfy HD">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201114180000 -0400" stop="20201114183000 -0400" channel="Syfy HD">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201114183000 -0400" stop="20201114190000 -0400" channel="Syfy HD">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201114190000 -0400" stop="20201114193000 -0400" channel="Syfy HD">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201114193000 -0400" stop="20201114212500 -0400" channel="Syfy HD">
+    <title lang="pt">A Múmia - Tumba do Imperador Dragão</title>
+  </programme>
+  <programme start="20201114212500 -0400" stop="20201114230500 -0400" channel="Syfy HD">
+    <title lang="pt">O Escorpião Rei</title>
+  </programme>
+  <programme start="20201114230500 -0400" stop="20201115010000 -0400" channel="Syfy HD">
+    <title lang="pt">O Escorpião Rei 3 - Batalha pela Redenção</title>
+  </programme>
+  <programme start="20201115010000 -0400" stop="20201115023000 -0400" channel="Syfy HD">
+    <title lang="pt">Invasão da Tumba</title>
+  </programme>
+  <programme start="20201115023000 -0400" stop="20201115032000 -0400" channel="Syfy HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115032000 -0400" stop="20201115041000 -0400" channel="Syfy HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115041000 -0400" stop="20201115052000 -0400" channel="Syfy HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115052000 -0400" stop="20201115052000 -0400" channel="Syfy HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115052000 -0400" stop="20201115061000 -0400" channel="Syfy HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115061000 -0400" stop="20201115070000 -0400" channel="Syfy HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115070000 -0400" stop="20201115080000 -0400" channel="Syfy HD">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201115080000 -0400" stop="20201115090000 -0400" channel="Syfy HD">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201115090000 -0400" stop="20201115104500 -0400" channel="Syfy HD">
+    <title lang="pt">O Último Sharknado - Já Estava na Hora</title>
+  </programme>
+  <programme start="20201115104500 -0400" stop="20201115114000 -0400" channel="Syfy HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115114000 -0400" stop="20201115123500 -0400" channel="Syfy HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115123500 -0400" stop="20201115133000 -0400" channel="Syfy HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115133000 -0400" stop="20201115142500 -0400" channel="Syfy HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115142500 -0400" stop="20201115152000 -0400" channel="Syfy HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115152000 -0400" stop="20201115161000 -0400" channel="Syfy HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115161000 -0400" stop="20201115170000 -0400" channel="Syfy HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115170000 -0400" stop="20201115175000 -0400" channel="Syfy HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115175000 -0400" stop="20201115184000 -0400" channel="Syfy HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115184000 -0400" stop="20201115193000 -0400" channel="Syfy HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115193000 -0400" stop="20201115202000 -0400" channel="Syfy HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201115202000 -0400" stop="20201115211000 -0400" channel="Syfy HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201115211000 -0400" stop="20201115220000 -0400" channel="Syfy HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201115220000 -0400" stop="20201115225000 -0400" channel="Syfy HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201115225000 -0400" stop="20201115234000 -0400" channel="Syfy HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201115234000 -0400" stop="20201116014000 -0400" channel="Syfy HD">
+    <title lang="pt">Coração de Dragão</title>
+  </programme>
+  <programme start="20201116014000 -0400" stop="20201116023000 -0400" channel="Syfy HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116023000 -0400" stop="20201116032000 -0400" channel="Syfy HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116032000 -0400" stop="20201116041000 -0400" channel="Syfy HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116041000 -0400" stop="20201116052000 -0400" channel="Syfy HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116052000 -0400" stop="20201116052000 -0400" channel="Syfy HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116052000 -0400" stop="20201116061000 -0400" channel="Syfy HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116061000 -0400" stop="20201116070000 -0400" channel="Syfy HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116070000 -0400" stop="20201116080000 -0400" channel="Syfy HD">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201116080000 -0400" stop="20201116090000 -0400" channel="Syfy HD">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201116090000 -0400" stop="20201116104000 -0400" channel="Syfy HD">
+    <title lang="pt">Ataque Solar</title>
+  </programme>
+  <programme start="20201116104000 -0400" stop="20201116113500 -0400" channel="Syfy HD">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20201116113500 -0400" stop="20201116123000 -0400" channel="Syfy HD">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20201116123000 -0400" stop="20201116132500 -0400" channel="Syfy HD">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20201116132500 -0400" stop="20201116142000 -0400" channel="Syfy HD">
+    <title lang="pt">The Librarians</title>
+  </programme>
+  <programme start="20201116142000 -0400" stop="20201116151500 -0400" channel="Syfy HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201116151500 -0400" stop="20201116160500 -0400" channel="Syfy HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201116160500 -0400" stop="20201116165500 -0400" channel="Syfy HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201116165500 -0400" stop="20201116174500 -0400" channel="Syfy HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201116174500 -0400" stop="20201116181500 -0400" channel="Syfy HD">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201116181500 -0400" stop="20201116200500 -0400" channel="Syfy HD">
+    <title lang="pt">O Escorpião Rei 3 - Batalha pela Redenção</title>
+  </programme>
+  <programme start="20201116200500 -0400" stop="20201116205500 -0400" channel="Syfy HD">
+    <title lang="pt">The Librarians</title>
+  </programme>
+  <programme start="20201116205500 -0400" stop="20201116214500 -0400" channel="Syfy HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201116214500 -0400" stop="20201116223500 -0400" channel="Syfy HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201116223500 -0400" stop="20201116232500 -0400" channel="Syfy HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201116232500 -0400" stop="20201117011000 -0400" channel="Syfy HD">
+    <title lang="pt">Madrugada dos Mortos</title>
+  </programme>
+  <programme start="20201114052000 -0400" stop="20201114061000 -0400" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201114061000 -0400" stop="20201114070000 -0400" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201114070000 -0400" stop="20201114080000 -0400" channel="Syfy">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201114080000 -0400" stop="20201114090000 -0400" channel="Syfy">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201114090000 -0400" stop="20201114093000 -0400" channel="Syfy">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201114093000 -0400" stop="20201114102500 -0400" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114102500 -0400" stop="20201114112000 -0400" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114112000 -0400" stop="20201114121500 -0400" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114121500 -0400" stop="20201114131000 -0400" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114131000 -0400" stop="20201114140500 -0400" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114140500 -0400" stop="20201114150000 -0400" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114150000 -0400" stop="20201114155000 -0400" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114155000 -0400" stop="20201114164000 -0400" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114164000 -0400" stop="20201114173000 -0400" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114173000 -0400" stop="20201114180000 -0400" channel="Syfy">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201114180000 -0400" stop="20201114183000 -0400" channel="Syfy">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201114183000 -0400" stop="20201114190000 -0400" channel="Syfy">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201114190000 -0400" stop="20201114193000 -0400" channel="Syfy">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201114193000 -0400" stop="20201114212500 -0400" channel="Syfy">
+    <title lang="pt">A Múmia - Tumba do Imperador Dragão</title>
+  </programme>
+  <programme start="20201114212500 -0400" stop="20201114230500 -0400" channel="Syfy">
+    <title lang="pt">O Escorpião Rei</title>
+  </programme>
+  <programme start="20201114230500 -0400" stop="20201115010000 -0400" channel="Syfy">
+    <title lang="pt">O Escorpião Rei 3 - Batalha pela Redenção</title>
+  </programme>
+  <programme start="20201115010000 -0400" stop="20201115023000 -0400" channel="Syfy">
+    <title lang="pt">Invasão da Tumba</title>
+  </programme>
+  <programme start="20201115023000 -0400" stop="20201115032000 -0400" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115032000 -0400" stop="20201115041000 -0400" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115041000 -0400" stop="20201115052000 -0400" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115052000 -0400" stop="20201115052000 -0400" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115052000 -0400" stop="20201115061000 -0400" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115061000 -0400" stop="20201115070000 -0400" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115070000 -0400" stop="20201115080000 -0400" channel="Syfy">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201115080000 -0400" stop="20201115090000 -0400" channel="Syfy">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201115090000 -0400" stop="20201115104500 -0400" channel="Syfy">
+    <title lang="pt">O Último Sharknado - Já Estava na Hora</title>
+  </programme>
+  <programme start="20201115104500 -0400" stop="20201115114000 -0400" channel="Syfy">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115114000 -0400" stop="20201115123500 -0400" channel="Syfy">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115123500 -0400" stop="20201115133000 -0400" channel="Syfy">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115133000 -0400" stop="20201115142500 -0400" channel="Syfy">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115142500 -0400" stop="20201115152000 -0400" channel="Syfy">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115152000 -0400" stop="20201115161000 -0400" channel="Syfy">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115161000 -0400" stop="20201115170000 -0400" channel="Syfy">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115170000 -0400" stop="20201115175000 -0400" channel="Syfy">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115175000 -0400" stop="20201115184000 -0400" channel="Syfy">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115184000 -0400" stop="20201115193000 -0400" channel="Syfy">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115193000 -0400" stop="20201115202000 -0400" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201115202000 -0400" stop="20201115211000 -0400" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201115211000 -0400" stop="20201115220000 -0400" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201115220000 -0400" stop="20201115225000 -0400" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201115225000 -0400" stop="20201115234000 -0400" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201115234000 -0400" stop="20201116014000 -0400" channel="Syfy">
+    <title lang="pt">Coração de Dragão</title>
+  </programme>
+  <programme start="20201116014000 -0400" stop="20201116023000 -0400" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116023000 -0400" stop="20201116032000 -0400" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116032000 -0400" stop="20201116041000 -0400" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116041000 -0400" stop="20201116052000 -0400" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116052000 -0400" stop="20201116052000 -0400" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116052000 -0400" stop="20201116061000 -0400" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116061000 -0400" stop="20201116070000 -0400" channel="Syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116070000 -0400" stop="20201116080000 -0400" channel="Syfy">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201116080000 -0400" stop="20201116090000 -0400" channel="Syfy">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201116090000 -0400" stop="20201116104000 -0400" channel="Syfy">
+    <title lang="pt">Ataque Solar</title>
+  </programme>
+  <programme start="20201116104000 -0400" stop="20201116113500 -0400" channel="Syfy">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20201116113500 -0400" stop="20201116123000 -0400" channel="Syfy">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20201116123000 -0400" stop="20201116132500 -0400" channel="Syfy">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20201116132500 -0400" stop="20201116142000 -0400" channel="Syfy">
+    <title lang="pt">The Librarians</title>
+  </programme>
+  <programme start="20201116142000 -0400" stop="20201116151500 -0400" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201116151500 -0400" stop="20201116160500 -0400" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201116160500 -0400" stop="20201116165500 -0400" channel="Syfy">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201116165500 -0400" stop="20201116174500 -0400" channel="Syfy">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201116174500 -0400" stop="20201116181500 -0400" channel="Syfy">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201116181500 -0400" stop="20201116200500 -0400" channel="Syfy">
+    <title lang="pt">O Escorpião Rei 3 - Batalha pela Redenção</title>
+  </programme>
+  <programme start="20201116200500 -0400" stop="20201116205500 -0400" channel="Syfy">
+    <title lang="pt">The Librarians</title>
+  </programme>
+  <programme start="20201116205500 -0400" stop="20201116214500 -0400" channel="Syfy">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201116214500 -0400" stop="20201116223500 -0400" channel="Syfy">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201116223500 -0400" stop="20201116232500 -0400" channel="Syfy">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201116232500 -0400" stop="20201117011000 -0400" channel="Syfy">
+    <title lang="pt">Madrugada dos Mortos</title>
+  </programme>
+  <programme start="20201114052000 -0400" stop="20201114061000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201114061000 -0400" stop="20201114070000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201114070000 -0400" stop="20201114080000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201114080000 -0400" stop="20201114090000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201114090000 -0400" stop="20201114093000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201114093000 -0400" stop="20201114102500 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114102500 -0400" stop="20201114112000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114112000 -0400" stop="20201114121500 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114121500 -0400" stop="20201114131000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114131000 -0400" stop="20201114140500 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114140500 -0400" stop="20201114150000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114150000 -0400" stop="20201114155000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114155000 -0400" stop="20201114164000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114164000 -0400" stop="20201114173000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201114173000 -0400" stop="20201114180000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201114180000 -0400" stop="20201114183000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201114183000 -0400" stop="20201114190000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201114190000 -0400" stop="20201114193000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201114193000 -0400" stop="20201114212500 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">A Múmia - Tumba do Imperador Dragão</title>
+  </programme>
+  <programme start="20201114212500 -0400" stop="20201114230500 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">O Escorpião Rei</title>
+  </programme>
+  <programme start="20201114230500 -0400" stop="20201115010000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">O Escorpião Rei 3 - Batalha pela Redenção</title>
+  </programme>
+  <programme start="20201115010000 -0400" stop="20201115023000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Invasão da Tumba</title>
+  </programme>
+  <programme start="20201115023000 -0400" stop="20201115032000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115032000 -0400" stop="20201115041000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115041000 -0400" stop="20201115052000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115052000 -0400" stop="20201115052000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115052000 -0400" stop="20201115061000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115061000 -0400" stop="20201115070000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201115070000 -0400" stop="20201115080000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201115080000 -0400" stop="20201115090000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201115090000 -0400" stop="20201115104500 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">O Último Sharknado - Já Estava na Hora</title>
+  </programme>
+  <programme start="20201115104500 -0400" stop="20201115114000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115114000 -0400" stop="20201115123500 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115123500 -0400" stop="20201115133000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115133000 -0400" stop="20201115142500 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115142500 -0400" stop="20201115152000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115152000 -0400" stop="20201115161000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115161000 -0400" stop="20201115170000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115170000 -0400" stop="20201115175000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115175000 -0400" stop="20201115184000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115184000 -0400" stop="20201115193000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201115193000 -0400" stop="20201115202000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201115202000 -0400" stop="20201115211000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201115211000 -0400" stop="20201115220000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201115220000 -0400" stop="20201115225000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201115225000 -0400" stop="20201115234000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201115234000 -0400" stop="20201116014000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Coração de Dragão</title>
+  </programme>
+  <programme start="20201116014000 -0400" stop="20201116023000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116023000 -0400" stop="20201116032000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116032000 -0400" stop="20201116041000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116041000 -0400" stop="20201116052000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116052000 -0400" stop="20201116052000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116052000 -0400" stop="20201116061000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116061000 -0400" stop="20201116070000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Star Trek: The Next Generation</title>
+  </programme>
+  <programme start="20201116070000 -0400" stop="20201116080000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201116080000 -0400" stop="20201116090000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Infomercial Syfy</title>
+  </programme>
+  <programme start="20201116090000 -0400" stop="20201116104000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Ataque Solar</title>
+  </programme>
+  <programme start="20201116104000 -0400" stop="20201116113500 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20201116113500 -0400" stop="20201116123000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20201116123000 -0400" stop="20201116132500 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Charmed</title>
+  </programme>
+  <programme start="20201116132500 -0400" stop="20201116142000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">The Librarians</title>
+  </programme>
+  <programme start="20201116142000 -0400" stop="20201116151500 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201116151500 -0400" stop="20201116160500 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201116160500 -0400" stop="20201116165500 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201116165500 -0400" stop="20201116174500 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201116174500 -0400" stop="20201116181500 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Cinelab Aprendiz</title>
+  </programme>
+  <programme start="20201116181500 -0400" stop="20201116200500 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">O Escorpião Rei 3 - Batalha pela Redenção</title>
+  </programme>
+  <programme start="20201116200500 -0400" stop="20201116205500 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">The Librarians</title>
+  </programme>
+  <programme start="20201116205500 -0400" stop="20201116214500 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Grimm</title>
+  </programme>
+  <programme start="20201116214500 -0400" stop="20201116223500 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201116223500 -0400" stop="20201116232500 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Lost</title>
+  </programme>
+  <programme start="20201116232500 -0400" stop="20201117011000 -0400" channel="Syfy Alternativo HD">
+    <title lang="pt">Madrugada dos Mortos</title>
+  </programme>
+  <programme start="20201114060000 -0400" stop="20201114070500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Garrincha - Alegria do Povo</title>
+  </programme>
+  <programme start="20201114070500 -0400" stop="20201114082500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">O Menino no Espelho</title>
+  </programme>
+  <programme start="20201114082500 -0400" stop="20201114101500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Loucas pra Casar</title>
+  </programme>
+  <programme start="20201114101500 -0400" stop="20201114120000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">A Grande Vitória</title>
+  </programme>
+  <programme start="20201114120000 -0400" stop="20201114123000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">O País do Cinema</title>
+  </programme>
+  <programme start="20201114123000 -0400" stop="20201114125500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Larica Total</title>
+  </programme>
+  <programme start="20201114125500 -0400" stop="20201114135500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Tim Maia - Vale o que Vier</title>
+  </programme>
+  <programme start="20201114135500 -0400" stop="20201114142800 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Aldo - Mais Forte que o Mundo</title>
+  </programme>
+  <programme start="20201114142800 -0400" stop="20201114150500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Aldo - Mais Forte que o Mundo</title>
+  </programme>
+  <programme start="20201114150500 -0400" stop="20201114154300 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Aldo - Mais Forte que o Mundo</title>
+  </programme>
+  <programme start="20201114154300 -0400" stop="20201114161500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Aldo - Mais Forte que o Mundo</title>
+  </programme>
+  <programme start="20201114161500 -0400" stop="20201114163000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Cinejornal</title>
+  </programme>
+  <programme start="20201114163000 -0400" stop="20201114164500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Angeli - The Killer</title>
+  </programme>
+  <programme start="20201114164500 -0400" stop="20201114170100 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Alvará</title>
+  </programme>
+  <programme start="20201114170100 -0400" stop="20201114171500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">O Projeto do meu Pai</title>
+  </programme>
+  <programme start="20201114171500 -0400" stop="20201114191000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Gostosas, Lindas e Sexies</title>
+  </programme>
+  <programme start="20201114191000 -0400" stop="20201114204000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Alice Júnior</title>
+  </programme>
+  <programme start="20201114204000 -0400" stop="20201114222500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Vou Nadar Até Você</title>
+  </programme>
+  <programme start="20201114222500 -0400" stop="20201115003000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Canastra Suja</title>
+  </programme>
+  <programme start="20201115003000 -0400" stop="20201115005500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Larica Total</title>
+  </programme>
+  <programme start="20201115005500 -0400" stop="20201115015500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Tim Maia - Vale o que Vier</title>
+  </programme>
+  <programme start="20201115015500 -0400" stop="20201115035000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">O Insulto</title>
+  </programme>
+  <programme start="20201115035000 -0400" stop="20201115043500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">A Morte De Narciso</title>
+  </programme>
+  <programme start="20201115043500 -0400" stop="20201115060000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Meu Nome É Daniel</title>
+  </programme>
+  <programme start="20201115060000 -0400" stop="20201115062700 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Choque Cultural</title>
+  </programme>
+  <programme start="20201115062700 -0400" stop="20201115064900 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Retrato de Carmem D.</title>
+  </programme>
+  <programme start="20201115064900 -0400" stop="20201115070600 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Demônia - Melodrama em 3 Atos</title>
+  </programme>
+  <programme start="20201115070600 -0400" stop="20201115071600 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Tailor</title>
+  </programme>
+  <programme start="20201115071600 -0400" stop="20201115073200 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">E Quem É o Pai?</title>
+  </programme>
+  <programme start="20201115073200 -0400" stop="20201115074500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Quando os Dias Eram Eternos</title>
+  </programme>
+  <programme start="20201115074500 -0400" stop="20201115080500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">A Pedra</title>
+  </programme>
+  <programme start="20201115080500 -0400" stop="20201115082600 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Mãe Não Chora</title>
+  </programme>
+  <programme start="20201115082600 -0400" stop="20201115083000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Contrato de Amor</title>
+  </programme>
+  <programme start="20201115083000 -0400" stop="20201115084000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Cinejornal</title>
+  </programme>
+  <programme start="20201115084000 -0400" stop="20201115090500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Larica Total</title>
+  </programme>
+  <programme start="20201115090500 -0400" stop="20201115100500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Tim Maia - Vale o que Vier</title>
+  </programme>
+  <programme start="20201115100500 -0400" stop="20201115102000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Angeli - The Killer</title>
+  </programme>
+  <programme start="20201115102000 -0400" stop="20201115115000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">O Amor no Divã</title>
+  </programme>
+  <programme start="20201115115000 -0400" stop="20201115133500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Maré, Nossa História de Amor</title>
+  </programme>
+  <programme start="20201115133500 -0400" stop="20201115151000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Vai que Cola - O Filme</title>
+  </programme>
+  <programme start="20201115151000 -0400" stop="20201115165500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">O Shaolin do Sertão</title>
+  </programme>
+  <programme start="20201115165500 -0400" stop="20201115184500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Meu Passado me Condena 2</title>
+  </programme>
+  <programme start="20201115184500 -0400" stop="20201115203000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">De Pernas pro Ar 2</title>
+  </programme>
+  <programme start="20201115203000 -0400" stop="20201115223000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Sangue Azul</title>
+  </programme>
+  <programme start="20201115223000 -0400" stop="20201116001500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Assalto ao Banco Central</title>
+  </programme>
+  <programme start="20201116001500 -0400" stop="20201116020000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Matou a Família e Foi ao Cinema</title>
+  </programme>
+  <programme start="20201116020000 -0400" stop="20201116032500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">O Bom Marido</title>
+  </programme>
+  <programme start="20201116032500 -0400" stop="20201116050000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Caçada Sangrenta</title>
+  </programme>
+  <programme start="20201116050000 -0400" stop="20201116050000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Loucos Dizem que Somos</title>
+  </programme>
+  <programme start="20201116050000 -0400" stop="20201116061000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Loucos Dizem que Somos</title>
+  </programme>
+  <programme start="20201116061000 -0400" stop="20201116071000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Vigilante Rodoviário</title>
+  </programme>
+  <programme start="20201116071000 -0400" stop="20201116084500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Uma Onda no Ar</title>
+  </programme>
+  <programme start="20201116084500 -0400" stop="20201116093400 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">O Tempo e o Vento</title>
+  </programme>
+  <programme start="20201116093400 -0400" stop="20201116103300 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">O Tempo e o Vento</title>
+  </programme>
+  <programme start="20201116103300 -0400" stop="20201116113000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">O Tempo e o Vento</title>
+  </programme>
+  <programme start="20201116113000 -0400" stop="20201116120000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Noites de Festival</title>
+  </programme>
+  <programme start="20201116120000 -0400" stop="20201116122100 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Mãe Não Chora</title>
+  </programme>
+  <programme start="20201116122100 -0400" stop="20201116123000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Contrato de Amor</title>
+  </programme>
+  <programme start="20201116123000 -0400" stop="20201116124000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Cinejornal</title>
+  </programme>
+  <programme start="20201116124000 -0400" stop="20201116141500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Segundo Tempo</title>
+  </programme>
+  <programme start="20201116141500 -0400" stop="20201116143000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Angeli - The Killer</title>
+  </programme>
+  <programme start="20201116143000 -0400" stop="20201116145000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Olho do Cão</title>
+  </programme>
+  <programme start="20201116145000 -0400" stop="20201116150000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Extratos</title>
+  </programme>
+  <programme start="20201116150000 -0400" stop="20201116163500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Eu Eu Eu José Lewgoy</title>
+  </programme>
+  <programme start="20201116163500 -0400" stop="20201116170500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Amores Cubanos</title>
+  </programme>
+  <programme start="20201116170500 -0400" stop="20201116181000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Bacurau no Mapa</title>
+  </programme>
+  <programme start="20201116181000 -0400" stop="20201116194500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Motorrad</title>
+  </programme>
+  <programme start="20201116194500 -0400" stop="20201116213500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Quando Eu Era Vivo</title>
+  </programme>
+  <programme start="20201116213500 -0400" stop="20201116214500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Rocky &amp; Hudson - Os Caubóis Gays</title>
+  </programme>
+  <programme start="20201116214500 -0400" stop="20201116220000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Angeli - The Killer</title>
+  </programme>
+  <programme start="20201116220000 -0400" stop="20201116223200 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Perdido</title>
+  </programme>
+  <programme start="20201116223200 -0400" stop="20201116230000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Espelho</title>
+  </programme>
+  <programme start="20201116230000 -0400" stop="20201116231500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Transmissão</title>
+  </programme>
+  <programme start="20201116231500 -0400" stop="20201116233000 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">302</title>
+  </programme>
+  <programme start="20201116233000 -0400" stop="20201116235500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Larica Total</title>
+  </programme>
+  <programme start="20201116235500 -0400" stop="20201117005500 -0400" channel="Canal Brasil FHD">
+    <title lang="pt">Tim Maia - Vale o que Vier</title>
+  </programme>
+  <programme start="20201114060000 -0400" stop="20201114070500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Garrincha - Alegria do Povo</title>
+  </programme>
+  <programme start="20201114070500 -0400" stop="20201114082500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">O Menino no Espelho</title>
+  </programme>
+  <programme start="20201114082500 -0400" stop="20201114101500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Loucas pra Casar</title>
+  </programme>
+  <programme start="20201114101500 -0400" stop="20201114120000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">A Grande Vitória</title>
+  </programme>
+  <programme start="20201114120000 -0400" stop="20201114123000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">O País do Cinema</title>
+  </programme>
+  <programme start="20201114123000 -0400" stop="20201114125500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Larica Total</title>
+  </programme>
+  <programme start="20201114125500 -0400" stop="20201114135500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Tim Maia - Vale o que Vier</title>
+  </programme>
+  <programme start="20201114135500 -0400" stop="20201114142800 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Aldo - Mais Forte que o Mundo</title>
+  </programme>
+  <programme start="20201114142800 -0400" stop="20201114150500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Aldo - Mais Forte que o Mundo</title>
+  </programme>
+  <programme start="20201114150500 -0400" stop="20201114154300 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Aldo - Mais Forte que o Mundo</title>
+  </programme>
+  <programme start="20201114154300 -0400" stop="20201114161500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Aldo - Mais Forte que o Mundo</title>
+  </programme>
+  <programme start="20201114161500 -0400" stop="20201114163000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Cinejornal</title>
+  </programme>
+  <programme start="20201114163000 -0400" stop="20201114164500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Angeli - The Killer</title>
+  </programme>
+  <programme start="20201114164500 -0400" stop="20201114170100 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Alvará</title>
+  </programme>
+  <programme start="20201114170100 -0400" stop="20201114171500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">O Projeto do meu Pai</title>
+  </programme>
+  <programme start="20201114171500 -0400" stop="20201114191000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Gostosas, Lindas e Sexies</title>
+  </programme>
+  <programme start="20201114191000 -0400" stop="20201114204000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Alice Júnior</title>
+  </programme>
+  <programme start="20201114204000 -0400" stop="20201114222500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Vou Nadar Até Você</title>
+  </programme>
+  <programme start="20201114222500 -0400" stop="20201115003000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Canastra Suja</title>
+  </programme>
+  <programme start="20201115003000 -0400" stop="20201115005500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Larica Total</title>
+  </programme>
+  <programme start="20201115005500 -0400" stop="20201115015500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Tim Maia - Vale o que Vier</title>
+  </programme>
+  <programme start="20201115015500 -0400" stop="20201115035000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">O Insulto</title>
+  </programme>
+  <programme start="20201115035000 -0400" stop="20201115043500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">A Morte De Narciso</title>
+  </programme>
+  <programme start="20201115043500 -0400" stop="20201115060000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Meu Nome É Daniel</title>
+  </programme>
+  <programme start="20201115060000 -0400" stop="20201115062700 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Choque Cultural</title>
+  </programme>
+  <programme start="20201115062700 -0400" stop="20201115064900 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Retrato de Carmem D.</title>
+  </programme>
+  <programme start="20201115064900 -0400" stop="20201115070600 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Demônia - Melodrama em 3 Atos</title>
+  </programme>
+  <programme start="20201115070600 -0400" stop="20201115071600 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Tailor</title>
+  </programme>
+  <programme start="20201115071600 -0400" stop="20201115073200 -0400" channel="Canal Brasil HD">
+    <title lang="pt">E Quem É o Pai?</title>
+  </programme>
+  <programme start="20201115073200 -0400" stop="20201115074500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Quando os Dias Eram Eternos</title>
+  </programme>
+  <programme start="20201115074500 -0400" stop="20201115080500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">A Pedra</title>
+  </programme>
+  <programme start="20201115080500 -0400" stop="20201115082600 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Mãe Não Chora</title>
+  </programme>
+  <programme start="20201115082600 -0400" stop="20201115083000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Contrato de Amor</title>
+  </programme>
+  <programme start="20201115083000 -0400" stop="20201115084000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Cinejornal</title>
+  </programme>
+  <programme start="20201115084000 -0400" stop="20201115090500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Larica Total</title>
+  </programme>
+  <programme start="20201115090500 -0400" stop="20201115100500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Tim Maia - Vale o que Vier</title>
+  </programme>
+  <programme start="20201115100500 -0400" stop="20201115102000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Angeli - The Killer</title>
+  </programme>
+  <programme start="20201115102000 -0400" stop="20201115115000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">O Amor no Divã</title>
+  </programme>
+  <programme start="20201115115000 -0400" stop="20201115133500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Maré, Nossa História de Amor</title>
+  </programme>
+  <programme start="20201115133500 -0400" stop="20201115151000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Vai que Cola - O Filme</title>
+  </programme>
+  <programme start="20201115151000 -0400" stop="20201115165500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">O Shaolin do Sertão</title>
+  </programme>
+  <programme start="20201115165500 -0400" stop="20201115184500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Meu Passado me Condena 2</title>
+  </programme>
+  <programme start="20201115184500 -0400" stop="20201115203000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">De Pernas pro Ar 2</title>
+  </programme>
+  <programme start="20201115203000 -0400" stop="20201115223000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Sangue Azul</title>
+  </programme>
+  <programme start="20201115223000 -0400" stop="20201116001500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Assalto ao Banco Central</title>
+  </programme>
+  <programme start="20201116001500 -0400" stop="20201116020000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Matou a Família e Foi ao Cinema</title>
+  </programme>
+  <programme start="20201116020000 -0400" stop="20201116032500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">O Bom Marido</title>
+  </programme>
+  <programme start="20201116032500 -0400" stop="20201116050000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Caçada Sangrenta</title>
+  </programme>
+  <programme start="20201116050000 -0400" stop="20201116050000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Loucos Dizem que Somos</title>
+  </programme>
+  <programme start="20201116050000 -0400" stop="20201116061000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Loucos Dizem que Somos</title>
+  </programme>
+  <programme start="20201116061000 -0400" stop="20201116071000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Vigilante Rodoviário</title>
+  </programme>
+  <programme start="20201116071000 -0400" stop="20201116084500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Uma Onda no Ar</title>
+  </programme>
+  <programme start="20201116084500 -0400" stop="20201116093400 -0400" channel="Canal Brasil HD">
+    <title lang="pt">O Tempo e o Vento</title>
+  </programme>
+  <programme start="20201116093400 -0400" stop="20201116103300 -0400" channel="Canal Brasil HD">
+    <title lang="pt">O Tempo e o Vento</title>
+  </programme>
+  <programme start="20201116103300 -0400" stop="20201116113000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">O Tempo e o Vento</title>
+  </programme>
+  <programme start="20201116113000 -0400" stop="20201116120000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Noites de Festival</title>
+  </programme>
+  <programme start="20201116120000 -0400" stop="20201116122100 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Mãe Não Chora</title>
+  </programme>
+  <programme start="20201116122100 -0400" stop="20201116123000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Contrato de Amor</title>
+  </programme>
+  <programme start="20201116123000 -0400" stop="20201116124000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Cinejornal</title>
+  </programme>
+  <programme start="20201116124000 -0400" stop="20201116141500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Segundo Tempo</title>
+  </programme>
+  <programme start="20201116141500 -0400" stop="20201116143000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Angeli - The Killer</title>
+  </programme>
+  <programme start="20201116143000 -0400" stop="20201116145000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Olho do Cão</title>
+  </programme>
+  <programme start="20201116145000 -0400" stop="20201116150000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Extratos</title>
+  </programme>
+  <programme start="20201116150000 -0400" stop="20201116163500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Eu Eu Eu José Lewgoy</title>
+  </programme>
+  <programme start="20201116163500 -0400" stop="20201116170500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Amores Cubanos</title>
+  </programme>
+  <programme start="20201116170500 -0400" stop="20201116181000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Bacurau no Mapa</title>
+  </programme>
+  <programme start="20201116181000 -0400" stop="20201116194500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Motorrad</title>
+  </programme>
+  <programme start="20201116194500 -0400" stop="20201116213500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Quando Eu Era Vivo</title>
+  </programme>
+  <programme start="20201116213500 -0400" stop="20201116214500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Rocky &amp; Hudson - Os Caubóis Gays</title>
+  </programme>
+  <programme start="20201116214500 -0400" stop="20201116220000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Angeli - The Killer</title>
+  </programme>
+  <programme start="20201116220000 -0400" stop="20201116223200 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Perdido</title>
+  </programme>
+  <programme start="20201116223200 -0400" stop="20201116230000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Espelho</title>
+  </programme>
+  <programme start="20201116230000 -0400" stop="20201116231500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Transmissão</title>
+  </programme>
+  <programme start="20201116231500 -0400" stop="20201116233000 -0400" channel="Canal Brasil HD">
+    <title lang="pt">302</title>
+  </programme>
+  <programme start="20201116233000 -0400" stop="20201116235500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Larica Total</title>
+  </programme>
+  <programme start="20201116235500 -0400" stop="20201117005500 -0400" channel="Canal Brasil HD">
+    <title lang="pt">Tim Maia - Vale o que Vier</title>
+  </programme>
+  <programme start="20201114060000 -0400" stop="20201114070500 -0400" channel="Canal Brasil">
+    <title lang="pt">Garrincha - Alegria do Povo</title>
+  </programme>
+  <programme start="20201114070500 -0400" stop="20201114082500 -0400" channel="Canal Brasil">
+    <title lang="pt">O Menino no Espelho</title>
+  </programme>
+  <programme start="20201114082500 -0400" stop="20201114101500 -0400" channel="Canal Brasil">
+    <title lang="pt">Loucas pra Casar</title>
+  </programme>
+  <programme start="20201114101500 -0400" stop="20201114120000 -0400" channel="Canal Brasil">
+    <title lang="pt">A Grande Vitória</title>
+  </programme>
+  <programme start="20201114120000 -0400" stop="20201114123000 -0400" channel="Canal Brasil">
+    <title lang="pt">O País do Cinema</title>
+  </programme>
+  <programme start="20201114123000 -0400" stop="20201114125500 -0400" channel="Canal Brasil">
+    <title lang="pt">Larica Total</title>
+  </programme>
+  <programme start="20201114125500 -0400" stop="20201114135500 -0400" channel="Canal Brasil">
+    <title lang="pt">Tim Maia - Vale o que Vier</title>
+  </programme>
+  <programme start="20201114135500 -0400" stop="20201114142800 -0400" channel="Canal Brasil">
+    <title lang="pt">Aldo - Mais Forte que o Mundo</title>
+  </programme>
+  <programme start="20201114142800 -0400" stop="20201114150500 -0400" channel="Canal Brasil">
+    <title lang="pt">Aldo - Mais Forte que o Mundo</title>
+  </programme>
+  <programme start="20201114150500 -0400" stop="20201114154300 -0400" channel="Canal Brasil">
+    <title lang="pt">Aldo - Mais Forte que o Mundo</title>
+  </programme>
+  <programme start="20201114154300 -0400" stop="20201114161500 -0400" channel="Canal Brasil">
+    <title lang="pt">Aldo - Mais Forte que o Mundo</title>
+  </programme>
+  <programme start="20201114161500 -0400" stop="20201114163000 -0400" channel="Canal Brasil">
+    <title lang="pt">Cinejornal</title>
+  </programme>
+  <programme start="20201114163000 -0400" stop="20201114164500 -0400" channel="Canal Brasil">
+    <title lang="pt">Angeli - The Killer</title>
+  </programme>
+  <programme start="20201114164500 -0400" stop="20201114170100 -0400" channel="Canal Brasil">
+    <title lang="pt">Alvará</title>
+  </programme>
+  <programme start="20201114170100 -0400" stop="20201114171500 -0400" channel="Canal Brasil">
+    <title lang="pt">O Projeto do meu Pai</title>
+  </programme>
+  <programme start="20201114171500 -0400" stop="20201114191000 -0400" channel="Canal Brasil">
+    <title lang="pt">Gostosas, Lindas e Sexies</title>
+  </programme>
+  <programme start="20201114191000 -0400" stop="20201114204000 -0400" channel="Canal Brasil">
+    <title lang="pt">Alice Júnior</title>
+  </programme>
+  <programme start="20201114204000 -0400" stop="20201114222500 -0400" channel="Canal Brasil">
+    <title lang="pt">Vou Nadar Até Você</title>
+  </programme>
+  <programme start="20201114222500 -0400" stop="20201115003000 -0400" channel="Canal Brasil">
+    <title lang="pt">Canastra Suja</title>
+  </programme>
+  <programme start="20201115003000 -0400" stop="20201115005500 -0400" channel="Canal Brasil">
+    <title lang="pt">Larica Total</title>
+  </programme>
+  <programme start="20201115005500 -0400" stop="20201115015500 -0400" channel="Canal Brasil">
+    <title lang="pt">Tim Maia - Vale o que Vier</title>
+  </programme>
+  <programme start="20201115015500 -0400" stop="20201115035000 -0400" channel="Canal Brasil">
+    <title lang="pt">O Insulto</title>
+  </programme>
+  <programme start="20201115035000 -0400" stop="20201115043500 -0400" channel="Canal Brasil">
+    <title lang="pt">A Morte De Narciso</title>
+  </programme>
+  <programme start="20201115043500 -0400" stop="20201115060000 -0400" channel="Canal Brasil">
+    <title lang="pt">Meu Nome É Daniel</title>
+  </programme>
+  <programme start="20201115060000 -0400" stop="20201115062700 -0400" channel="Canal Brasil">
+    <title lang="pt">Choque Cultural</title>
+  </programme>
+  <programme start="20201115062700 -0400" stop="20201115064900 -0400" channel="Canal Brasil">
+    <title lang="pt">Retrato de Carmem D.</title>
+  </programme>
+  <programme start="20201115064900 -0400" stop="20201115070600 -0400" channel="Canal Brasil">
+    <title lang="pt">Demônia - Melodrama em 3 Atos</title>
+  </programme>
+  <programme start="20201115070600 -0400" stop="20201115071600 -0400" channel="Canal Brasil">
+    <title lang="pt">Tailor</title>
+  </programme>
+  <programme start="20201115071600 -0400" stop="20201115073200 -0400" channel="Canal Brasil">
+    <title lang="pt">E Quem É o Pai?</title>
+  </programme>
+  <programme start="20201115073200 -0400" stop="20201115074500 -0400" channel="Canal Brasil">
+    <title lang="pt">Quando os Dias Eram Eternos</title>
+  </programme>
+  <programme start="20201115074500 -0400" stop="20201115080500 -0400" channel="Canal Brasil">
+    <title lang="pt">A Pedra</title>
+  </programme>
+  <programme start="20201115080500 -0400" stop="20201115082600 -0400" channel="Canal Brasil">
+    <title lang="pt">Mãe Não Chora</title>
+  </programme>
+  <programme start="20201115082600 -0400" stop="20201115083000 -0400" channel="Canal Brasil">
+    <title lang="pt">Contrato de Amor</title>
+  </programme>
+  <programme start="20201115083000 -0400" stop="20201115084000 -0400" channel="Canal Brasil">
+    <title lang="pt">Cinejornal</title>
+  </programme>
+  <programme start="20201115084000 -0400" stop="20201115090500 -0400" channel="Canal Brasil">
+    <title lang="pt">Larica Total</title>
+  </programme>
+  <programme start="20201115090500 -0400" stop="20201115100500 -0400" channel="Canal Brasil">
+    <title lang="pt">Tim Maia - Vale o que Vier</title>
+  </programme>
+  <programme start="20201115100500 -0400" stop="20201115102000 -0400" channel="Canal Brasil">
+    <title lang="pt">Angeli - The Killer</title>
+  </programme>
+  <programme start="20201115102000 -0400" stop="20201115115000 -0400" channel="Canal Brasil">
+    <title lang="pt">O Amor no Divã</title>
+  </programme>
+  <programme start="20201115115000 -0400" stop="20201115133500 -0400" channel="Canal Brasil">
+    <title lang="pt">Maré, Nossa História de Amor</title>
+  </programme>
+  <programme start="20201115133500 -0400" stop="20201115151000 -0400" channel="Canal Brasil">
+    <title lang="pt">Vai que Cola - O Filme</title>
+  </programme>
+  <programme start="20201115151000 -0400" stop="20201115165500 -0400" channel="Canal Brasil">
+    <title lang="pt">O Shaolin do Sertão</title>
+  </programme>
+  <programme start="20201115165500 -0400" stop="20201115184500 -0400" channel="Canal Brasil">
+    <title lang="pt">Meu Passado me Condena 2</title>
+  </programme>
+  <programme start="20201115184500 -0400" stop="20201115203000 -0400" channel="Canal Brasil">
+    <title lang="pt">De Pernas pro Ar 2</title>
+  </programme>
+  <programme start="20201115203000 -0400" stop="20201115223000 -0400" channel="Canal Brasil">
+    <title lang="pt">Sangue Azul</title>
+  </programme>
+  <programme start="20201115223000 -0400" stop="20201116001500 -0400" channel="Canal Brasil">
+    <title lang="pt">Assalto ao Banco Central</title>
+  </programme>
+  <programme start="20201116001500 -0400" stop="20201116020000 -0400" channel="Canal Brasil">
+    <title lang="pt">Matou a Família e Foi ao Cinema</title>
+  </programme>
+  <programme start="20201116020000 -0400" stop="20201116032500 -0400" channel="Canal Brasil">
+    <title lang="pt">O Bom Marido</title>
+  </programme>
+  <programme start="20201116032500 -0400" stop="20201116050000 -0400" channel="Canal Brasil">
+    <title lang="pt">Caçada Sangrenta</title>
+  </programme>
+  <programme start="20201116050000 -0400" stop="20201116050000 -0400" channel="Canal Brasil">
+    <title lang="pt">Loucos Dizem que Somos</title>
+  </programme>
+  <programme start="20201116050000 -0400" stop="20201116061000 -0400" channel="Canal Brasil">
+    <title lang="pt">Loucos Dizem que Somos</title>
+  </programme>
+  <programme start="20201116061000 -0400" stop="20201116071000 -0400" channel="Canal Brasil">
+    <title lang="pt">Vigilante Rodoviário</title>
+  </programme>
+  <programme start="20201116071000 -0400" stop="20201116084500 -0400" channel="Canal Brasil">
+    <title lang="pt">Uma Onda no Ar</title>
+  </programme>
+  <programme start="20201116084500 -0400" stop="20201116093400 -0400" channel="Canal Brasil">
+    <title lang="pt">O Tempo e o Vento</title>
+  </programme>
+  <programme start="20201116093400 -0400" stop="20201116103300 -0400" channel="Canal Brasil">
+    <title lang="pt">O Tempo e o Vento</title>
+  </programme>
+  <programme start="20201116103300 -0400" stop="20201116113000 -0400" channel="Canal Brasil">
+    <title lang="pt">O Tempo e o Vento</title>
+  </programme>
+  <programme start="20201116113000 -0400" stop="20201116120000 -0400" channel="Canal Brasil">
+    <title lang="pt">Noites de Festival</title>
+  </programme>
+  <programme start="20201116120000 -0400" stop="20201116122100 -0400" channel="Canal Brasil">
+    <title lang="pt">Mãe Não Chora</title>
+  </programme>
+  <programme start="20201116122100 -0400" stop="20201116123000 -0400" channel="Canal Brasil">
+    <title lang="pt">Contrato de Amor</title>
+  </programme>
+  <programme start="20201116123000 -0400" stop="20201116124000 -0400" channel="Canal Brasil">
+    <title lang="pt">Cinejornal</title>
+  </programme>
+  <programme start="20201116124000 -0400" stop="20201116141500 -0400" channel="Canal Brasil">
+    <title lang="pt">Segundo Tempo</title>
+  </programme>
+  <programme start="20201116141500 -0400" stop="20201116143000 -0400" channel="Canal Brasil">
+    <title lang="pt">Angeli - The Killer</title>
+  </programme>
+  <programme start="20201116143000 -0400" stop="20201116145000 -0400" channel="Canal Brasil">
+    <title lang="pt">Olho do Cão</title>
+  </programme>
+  <programme start="20201116145000 -0400" stop="20201116150000 -0400" channel="Canal Brasil">
+    <title lang="pt">Extratos</title>
+  </programme>
+  <programme start="20201116150000 -0400" stop="20201116163500 -0400" channel="Canal Brasil">
+    <title lang="pt">Eu Eu Eu José Lewgoy</title>
+  </programme>
+  <programme start="20201116163500 -0400" stop="20201116170500 -0400" channel="Canal Brasil">
+    <title lang="pt">Amores Cubanos</title>
+  </programme>
+  <programme start="20201116170500 -0400" stop="20201116181000 -0400" channel="Canal Brasil">
+    <title lang="pt">Bacurau no Mapa</title>
+  </programme>
+  <programme start="20201116181000 -0400" stop="20201116194500 -0400" channel="Canal Brasil">
+    <title lang="pt">Motorrad</title>
+  </programme>
+  <programme start="20201116194500 -0400" stop="20201116213500 -0400" channel="Canal Brasil">
+    <title lang="pt">Quando Eu Era Vivo</title>
+  </programme>
+  <programme start="20201116213500 -0400" stop="20201116214500 -0400" channel="Canal Brasil">
+    <title lang="pt">Rocky &amp; Hudson - Os Caubóis Gays</title>
+  </programme>
+  <programme start="20201116214500 -0400" stop="20201116220000 -0400" channel="Canal Brasil">
+    <title lang="pt">Angeli - The Killer</title>
+  </programme>
+  <programme start="20201116220000 -0400" stop="20201116223200 -0400" channel="Canal Brasil">
+    <title lang="pt">Perdido</title>
+  </programme>
+  <programme start="20201116223200 -0400" stop="20201116230000 -0400" channel="Canal Brasil">
+    <title lang="pt">Espelho</title>
+  </programme>
+  <programme start="20201116230000 -0400" stop="20201116231500 -0400" channel="Canal Brasil">
+    <title lang="pt">Transmissão</title>
+  </programme>
+  <programme start="20201116231500 -0400" stop="20201116233000 -0400" channel="Canal Brasil">
+    <title lang="pt">302</title>
+  </programme>
+  <programme start="20201116233000 -0400" stop="20201116235500 -0400" channel="Canal Brasil">
+    <title lang="pt">Larica Total</title>
+  </programme>
+  <programme start="20201116235500 -0400" stop="20201117005500 -0400" channel="Canal Brasil">
+    <title lang="pt">Tim Maia - Vale o que Vier</title>
+  </programme>
+  <programme start="20201114060000 -0400" stop="20201114070500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Garrincha - Alegria do Povo</title>
+  </programme>
+  <programme start="20201114070500 -0400" stop="20201114082500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">O Menino no Espelho</title>
+  </programme>
+  <programme start="20201114082500 -0400" stop="20201114101500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Loucas pra Casar</title>
+  </programme>
+  <programme start="20201114101500 -0400" stop="20201114120000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">A Grande Vitória</title>
+  </programme>
+  <programme start="20201114120000 -0400" stop="20201114123000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">O País do Cinema</title>
+  </programme>
+  <programme start="20201114123000 -0400" stop="20201114125500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Larica Total</title>
+  </programme>
+  <programme start="20201114125500 -0400" stop="20201114135500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Tim Maia - Vale o que Vier</title>
+  </programme>
+  <programme start="20201114135500 -0400" stop="20201114142800 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Aldo - Mais Forte que o Mundo</title>
+  </programme>
+  <programme start="20201114142800 -0400" stop="20201114150500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Aldo - Mais Forte que o Mundo</title>
+  </programme>
+  <programme start="20201114150500 -0400" stop="20201114154300 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Aldo - Mais Forte que o Mundo</title>
+  </programme>
+  <programme start="20201114154300 -0400" stop="20201114161500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Aldo - Mais Forte que o Mundo</title>
+  </programme>
+  <programme start="20201114161500 -0400" stop="20201114163000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Cinejornal</title>
+  </programme>
+  <programme start="20201114163000 -0400" stop="20201114164500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Angeli - The Killer</title>
+  </programme>
+  <programme start="20201114164500 -0400" stop="20201114170100 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Alvará</title>
+  </programme>
+  <programme start="20201114170100 -0400" stop="20201114171500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">O Projeto do meu Pai</title>
+  </programme>
+  <programme start="20201114171500 -0400" stop="20201114191000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Gostosas, Lindas e Sexies</title>
+  </programme>
+  <programme start="20201114191000 -0400" stop="20201114204000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Alice Júnior</title>
+  </programme>
+  <programme start="20201114204000 -0400" stop="20201114222500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Vou Nadar Até Você</title>
+  </programme>
+  <programme start="20201114222500 -0400" stop="20201115003000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Canastra Suja</title>
+  </programme>
+  <programme start="20201115003000 -0400" stop="20201115005500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Larica Total</title>
+  </programme>
+  <programme start="20201115005500 -0400" stop="20201115015500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Tim Maia - Vale o que Vier</title>
+  </programme>
+  <programme start="20201115015500 -0400" stop="20201115035000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">O Insulto</title>
+  </programme>
+  <programme start="20201115035000 -0400" stop="20201115043500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">A Morte De Narciso</title>
+  </programme>
+  <programme start="20201115043500 -0400" stop="20201115060000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Meu Nome É Daniel</title>
+  </programme>
+  <programme start="20201115060000 -0400" stop="20201115062700 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Choque Cultural</title>
+  </programme>
+  <programme start="20201115062700 -0400" stop="20201115064900 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Retrato de Carmem D.</title>
+  </programme>
+  <programme start="20201115064900 -0400" stop="20201115070600 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Demônia - Melodrama em 3 Atos</title>
+  </programme>
+  <programme start="20201115070600 -0400" stop="20201115071600 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Tailor</title>
+  </programme>
+  <programme start="20201115071600 -0400" stop="20201115073200 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">E Quem É o Pai?</title>
+  </programme>
+  <programme start="20201115073200 -0400" stop="20201115074500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Quando os Dias Eram Eternos</title>
+  </programme>
+  <programme start="20201115074500 -0400" stop="20201115080500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">A Pedra</title>
+  </programme>
+  <programme start="20201115080500 -0400" stop="20201115082600 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Mãe Não Chora</title>
+  </programme>
+  <programme start="20201115082600 -0400" stop="20201115083000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Contrato de Amor</title>
+  </programme>
+  <programme start="20201115083000 -0400" stop="20201115084000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Cinejornal</title>
+  </programme>
+  <programme start="20201115084000 -0400" stop="20201115090500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Larica Total</title>
+  </programme>
+  <programme start="20201115090500 -0400" stop="20201115100500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Tim Maia - Vale o que Vier</title>
+  </programme>
+  <programme start="20201115100500 -0400" stop="20201115102000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Angeli - The Killer</title>
+  </programme>
+  <programme start="20201115102000 -0400" stop="20201115115000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">O Amor no Divã</title>
+  </programme>
+  <programme start="20201115115000 -0400" stop="20201115133500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Maré, Nossa História de Amor</title>
+  </programme>
+  <programme start="20201115133500 -0400" stop="20201115151000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Vai que Cola - O Filme</title>
+  </programme>
+  <programme start="20201115151000 -0400" stop="20201115165500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">O Shaolin do Sertão</title>
+  </programme>
+  <programme start="20201115165500 -0400" stop="20201115184500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Meu Passado me Condena 2</title>
+  </programme>
+  <programme start="20201115184500 -0400" stop="20201115203000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">De Pernas pro Ar 2</title>
+  </programme>
+  <programme start="20201115203000 -0400" stop="20201115223000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Sangue Azul</title>
+  </programme>
+  <programme start="20201115223000 -0400" stop="20201116001500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Assalto ao Banco Central</title>
+  </programme>
+  <programme start="20201116001500 -0400" stop="20201116020000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Matou a Família e Foi ao Cinema</title>
+  </programme>
+  <programme start="20201116020000 -0400" stop="20201116032500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">O Bom Marido</title>
+  </programme>
+  <programme start="20201116032500 -0400" stop="20201116050000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Caçada Sangrenta</title>
+  </programme>
+  <programme start="20201116050000 -0400" stop="20201116050000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Loucos Dizem que Somos</title>
+  </programme>
+  <programme start="20201116050000 -0400" stop="20201116061000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Loucos Dizem que Somos</title>
+  </programme>
+  <programme start="20201116061000 -0400" stop="20201116071000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Vigilante Rodoviário</title>
+  </programme>
+  <programme start="20201116071000 -0400" stop="20201116084500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Uma Onda no Ar</title>
+  </programme>
+  <programme start="20201116084500 -0400" stop="20201116093400 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">O Tempo e o Vento</title>
+  </programme>
+  <programme start="20201116093400 -0400" stop="20201116103300 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">O Tempo e o Vento</title>
+  </programme>
+  <programme start="20201116103300 -0400" stop="20201116113000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">O Tempo e o Vento</title>
+  </programme>
+  <programme start="20201116113000 -0400" stop="20201116120000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Noites de Festival</title>
+  </programme>
+  <programme start="20201116120000 -0400" stop="20201116122100 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Mãe Não Chora</title>
+  </programme>
+  <programme start="20201116122100 -0400" stop="20201116123000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Contrato de Amor</title>
+  </programme>
+  <programme start="20201116123000 -0400" stop="20201116124000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Cinejornal</title>
+  </programme>
+  <programme start="20201116124000 -0400" stop="20201116141500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Segundo Tempo</title>
+  </programme>
+  <programme start="20201116141500 -0400" stop="20201116143000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Angeli - The Killer</title>
+  </programme>
+  <programme start="20201116143000 -0400" stop="20201116145000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Olho do Cão</title>
+  </programme>
+  <programme start="20201116145000 -0400" stop="20201116150000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Extratos</title>
+  </programme>
+  <programme start="20201116150000 -0400" stop="20201116163500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Eu Eu Eu José Lewgoy</title>
+  </programme>
+  <programme start="20201116163500 -0400" stop="20201116170500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Amores Cubanos</title>
+  </programme>
+  <programme start="20201116170500 -0400" stop="20201116181000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Bacurau no Mapa</title>
+  </programme>
+  <programme start="20201116181000 -0400" stop="20201116194500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Motorrad</title>
+  </programme>
+  <programme start="20201116194500 -0400" stop="20201116213500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Quando Eu Era Vivo</title>
+  </programme>
+  <programme start="20201116213500 -0400" stop="20201116214500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Rocky &amp; Hudson - Os Caubóis Gays</title>
+  </programme>
+  <programme start="20201116214500 -0400" stop="20201116220000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Angeli - The Killer</title>
+  </programme>
+  <programme start="20201116220000 -0400" stop="20201116223200 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Perdido</title>
+  </programme>
+  <programme start="20201116223200 -0400" stop="20201116230000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Espelho</title>
+  </programme>
+  <programme start="20201116230000 -0400" stop="20201116231500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Transmissão</title>
+  </programme>
+  <programme start="20201116231500 -0400" stop="20201116233000 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">302</title>
+  </programme>
+  <programme start="20201116233000 -0400" stop="20201116235500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Larica Total</title>
+  </programme>
+  <programme start="20201116235500 -0400" stop="20201117005500 -0400" channel="Canal Brasil Alternativo HD">
+    <title lang="pt">Tim Maia - Vale o que Vier</title>
   </programme>
 </tv>
