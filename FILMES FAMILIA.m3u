@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="RECORD DF" tvg-logo="http://printv.esy.es/server/RECORDDF.png" group-title="Canais HBO ",RECORD DF
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="Canais HBO ",HBO HD
-https://sinalpublico.com/player3/ch.php?canal=recordsp
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="Canais HBO ",HBO
 http://dns.clientetv.xyz:8080/k9a239Rs/5Vfg1XSO/2139
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO Alternativo HD" tvg-logo="http://printv.esy.es/server/HBO%20HD.png" group-title="Canais HBO ",HBO Alternativo HD
