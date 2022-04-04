@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="Canais HBO ",HBO FHD
-http://dns.clientetv.xyz:8080/k9a239Rs/5Vfg1XSO/1891
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="Canais HBO ",HBO HD
 http://dns.clientetv.xyz:8080/k9a239Rs/5Vfg1XSO/2144
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO" tvg-logo="http://printv.esy.es/server/HBO.png" group-title="Canais HBO ",HBO
