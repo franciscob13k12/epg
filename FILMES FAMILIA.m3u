@@ -11,5 +11,5 @@ http://dns.clientetv.xyz:8080/k9a239Rs/5Vfg1XSO/1271
 http://dns.clientetv.xyz:8080/k9a239Rs/5Vfg1XSO/1140
 #EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD" tvg-logo="http://printv.esy.es/server/HBO%202%20HD.png" group-title="Canais HBO ",HBO 2 FHD
 http://dns.clientetv.xyz:8080/k9a239Rs/5Vfg1XSO/1890
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="REDE GLOBOD" tvg-logo="http://printv.esy.es/server/HBO%202%20HD.png" group-title="Canais HBO ",REDE GLOBO
-chrome-extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#https://live-as-02-31.video.globo.com/h/04016533509275645193366165326452769110096023HbzXncRSa3C95gQYsVHZQ/k/html5/a/F/u/fed61d68-b53f-4d2f-a2cf-c54915f1b772/nu/globo-sp1/playlist.m3u8
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="REDE GLOBO" tvg-logo="http://printv.esy.es/server/HBO%202%20HD.png" group-title="Canais HBO ",REDE GLOBO
+https://live-as-02-31.video.globo.com/h/04016533509275645193366165326452769110096023HbzXncRSa3C95gQYsVHZQ/k/html5/a/F/u/fed61d68-b53f-4d2f-a2cf-c54915f1b772/nu/globo-sp1/playlist.m3u8
